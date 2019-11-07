@@ -7,6 +7,9 @@ ejercicios:
   - name: Vendedores
     repo: obj1-unahur/vendedores_2019s2
     classroom: https://classroom.github.com/a/zyuBdwIr
+    apuntes:
+      - name: Avances clase de la tarde
+        repo: obj1-unahur-2019s2/vendedores-sebasped
     
 entrega:
   fecha: 2019-11-19T23:59
