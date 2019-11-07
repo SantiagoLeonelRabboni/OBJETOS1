@@ -10,6 +10,12 @@ ejercicios:
     apuntes:
       - name: Avances clase de la tarde
         repo: obj1-unahur-2019s2/vendedores-sebasped
+  - name: Semillas al viento
+    repo: obj1-unahur/semillas-2019s2
+    classroom: https://classroom.github.com/a/1fVO5thJ
+  - name: Pajarracos
+    repo: obj1-unahur/pajarracos-2019s2
+    classroom: https://classroom.github.com/a/24QCCxQf
     
 entrega:
   fecha: 2019-11-19T23:59
