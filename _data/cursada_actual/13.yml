@@ -18,7 +18,7 @@ ejercicios:
     classroom: https://classroom.github.com/a/24QCCxQf
     
 entrega:
-  fecha: 2019-11-19T23:59
+  fecha: 2019-11-19T11:59
   ejercicios:
     - name: Parte individual del TP
       repo: obj1-unahur/juego-aventura-individual
