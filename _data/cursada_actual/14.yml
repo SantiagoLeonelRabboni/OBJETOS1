@@ -1,0 +1,8 @@
+descripcion: |
+  Esta semana: parcial y resolución
+
+ejercicios:
+  - name: La parrilla de Rosendo
+    apuntes:
+      - name: Resolución en la clase de la tarde
+        repo: clombardi/la-parrilla-de-rosendo
