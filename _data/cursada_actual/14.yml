@@ -6,3 +6,6 @@ ejercicios:
     apuntes:
       - name: Resolución en la clase de la tarde
         repo: clombardi/la-parrilla-de-rosendo
+  - name: Un poco de JavaScript
+    repo: obj1-unahur/js-2019s2
+    classroom: https://classroom.github.com/a/6b-zD0fo
