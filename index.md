@@ -16,7 +16,11 @@ Si es la primera vez que entrás acá, te recomendamos que leas el [contrato ped
 
 **Turno noche:**
 * Martes y Jueves de 18:00 a 22:00.
-* Los profes somos Sebastián Pedersen y Gerardo González .
+* Los profes somos Sebastián Pedersen y Gerardo González.
+
+**Otros horarios:**
+* Vamos a tener otros horarios para consultas y práctica.
+* Los ayudantes y colaboradores son: Joaquín Pettinari, Pablo Gerez y Silva Eduardo.
 
 ## Canales de comunicación
 
