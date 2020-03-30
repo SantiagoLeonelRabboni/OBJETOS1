@@ -12,11 +12,11 @@ Si es la primera vez que entrás acá, te recomendamos que leas el [contrato ped
 
 **Turno tarde:**
 * Martes de 12:00 a 16:00, Jueves de 14:00 a 18:00.
-* Los profes somos Sebastián Pedersen y Carlos Lombardi.
+* Los profes somos Carlos Lombardi y Sebastián Pedersen.
 
 **Turno noche:**
 * Martes y Jueves de 18:00 a 22:00.
-* Los profes somos Sebastián Pedersen y Gerardo González.
+* Los profes somos Gerardo González y Sebastián Pedersen.
 
 **Otros horarios:**
 * Vamos a tener otros horarios para consultas y práctica.
