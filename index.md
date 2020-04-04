@@ -17,21 +17,12 @@ Si es la primera vez que entrás acá, te recomendamos que leas el [contrato ped
 ## Datos de las cursadas
 
 **Turno tarde:**
-<<<<<<< HEAD
 * Modalidad virtual.
 * Los profes somos Sebastián Pedersen y Carlos Lombardi.
 
 **Turno noche:**
 * Modalidad virtual.
 * Los profes somos Sebastián Pedersen y Gerardo González.
-=======
-* Martes de 12:00 a 16:00, Jueves de 14:00 a 18:00.
-* Los profes somos Carlos Lombardi y Sebastián Pedersen.
-
-**Turno noche:**
-* Martes y Jueves de 18:00 a 22:00.
-* Los profes somos Gerardo González y Sebastián Pedersen.
->>>>>>> abfaec4a5a8ea79e22efbfd89bdbae5312fdc715
 
 **Ambas Cursadas:**
 * Vamos a tener distintas alternativas de horarios para consultas y práctica.
