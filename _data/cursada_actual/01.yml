@@ -1,11 +1,24 @@
 descripcion: |
-  En la primer parte de la clase, vamos a trabajar con un ejercicio de diagnóstico, cuyo enunciado podés encontrar más abajo.
-  Después vamos a empezar con la materia, con una primera visión de qué es un objeto, y ya vamos al primer ejemplo con código y todo.
+  Esta semana vamos a trabajar con un ejercicio de diagnóstico, cuyo enunciado podés encontrar más abajo.
 
-  También vamos a hablar un poco sobre el entorno Wollok, que vamos a usar durante todo el cuatri (o casi).
-
+  Además trabajaremos con las guías de **Mumuki** pero antes vas a tener que hacer lo siguiente:
+    * Registrarte ingreando en [Mumuki](https://mumuki.io/login)
+    * Una vez registrado y dentro de Mumuki debes [ingresar aquí](https://mumuki.io/wollok-obj1/join/Sjcy9A) para unirse al curso de la materia.
+     **Ojo:** podés entrar con tu cuenta de Google, de GitHub o crearte una nueva dentro de Mumuki con mail y contraseña. Lo importante es que entres _siempre de la misma forma_, caso contrario no podremos registrar correctamente tu progreso
 
 ejercicios:
-  - name: Multipepita - Etapa 1
-    repo: obj1-unahur/multipepita
-    classroom: https://classroom.github.com/a/k-Yxfxi3
+  - name: Depósito de Bicicletas
+    repo: obj1-unahur/bicis-gobstones
+    temas: 
+      - name: Diagnóstico
+
+mumuki:
+  - nombre: Conociendo a los objetos
+    url: https://mumuki.io/wollok-obj1/lessons/687-objetos-y-mensajes-conociendo-a-los-objetos
+    ejercicios: Guía completa, los 12 ejercicios
+  - nombre: Métodos y estados 
+    url: https://mumuki.io/wollok-obj1/lessons/489-objetos-y-mensajes-metodos-y-estado
+    ejercicios: Hasta el 12 inclusive. Bonus 13 y 14.
+  - nombre: Multipepita etapa 1
+    url: https://mumuki.io/wollok-obj1/lessons/731-objetos-y-mensajes-acompanamiento-multipepita-etapa-1
+    ejercicios: FALTA ARMAR GUIA

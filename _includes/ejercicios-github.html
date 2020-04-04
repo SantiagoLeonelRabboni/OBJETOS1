@@ -23,6 +23,16 @@
         </ul>
       </p>
       {% endif %}
+      {% if ej.temas %}
+      <p>
+        <i class="fas fa-chalkboard-teacher fa-fw"></i> Temas
+        <ul>
+          {% for t in ej.temas %}
+          <li markdown="span">{{t.name}}</li>
+          {% endfor %}
+        </ul>
+      </p>
+      {% endif %}
     </div>
   </article>
   {% endfor %}
