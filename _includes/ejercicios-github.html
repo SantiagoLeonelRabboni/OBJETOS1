@@ -23,14 +23,17 @@
         </ul>
       </p>
       {% endif %}
-      {% if ej.temas %}
+      {% if ej.comentarios %}
       <p>
-        <i class="fas fa-chalkboard-teacher fa-fw"></i> Temas
+        <i class="fas fa-chalkboard-teacher fa-fw"></i> Comentarios
+        {% for c in ej.comentarios %}
         <ul>
-          {% for t in ej.temas %}
-          <li markdown="span">{{t.name}}</li>
-          {% endfor %}
+            <li markdown="span">{{c.name}}</li>
+            {% if c.repo %}
+              <li markdown="span">[Formulario de Soluciones](https://forms.gle/HjVQM8gTE5kJpLYs6)</li>
+            {% endif %}              
         </ul>
+        {% endfor %}
       </p>
       {% endif %}
     </div>

@@ -6,11 +6,19 @@ descripcion: |
     * Una vez registrado y dentro de Mumuki debes [ingresar aquí](https://mumuki.io/wollok-obj1/join/Sjcy9A) para unirse al curso de la materia.
      **Ojo:** podés entrar con tu cuenta de Google, de GitHub o crearte una nueva dentro de Mumuki con mail y contraseña. Lo importante es que entres _siempre de la misma forma_, caso contrario no podremos registrar correctamente tu progreso
 
-ejercicios:
-  - name: Depósito de Bicicletas
-    repo: obj1-unahur/bicis-gobstones
-    temas: 
-      - name: Diagnóstico
+entrega:
+  fecha: 2020-04-14T14:00
+  mumuki:
+    - nombre: Multipepita etapa 1
+      url: https://mumuki.io/wollok-obj1/lessons/731-objetos-y-mensajes-acompanamiento-multipepita-etapa-1
+      ejercicios: Obligatorios 1 y 2. Opcionales 3 y 4
+  ejercicios:
+    - name: Depósito de Bicicletas (gobstones)
+      repo: obj1-unahur/bicis-gobstones
+      comentarios: 
+        - name: Resolver hasta donde puedan
+          repo: https://docs.google.com/forms/d/e/1FAIpQLSe_TFDo0HMKvcjYQwM2umdugPdpcXQ3uBvPWNLCBdx9TQ25Sg/viewform
+
 
 mumuki:
   - nombre: Conociendo a los objetos
@@ -19,5 +27,3 @@ mumuki:
   - nombre: Métodos y estados 
     url: https://mumuki.io/wollok-obj1/lessons/489-objetos-y-mensajes-metodos-y-estado
     ejercicios: Hasta el 12 inclusive. Bonus 13 y 14.
-  - nombre: Multipepita etapa 1
-    url: https://mumuki.io/wollok-obj1/lessons/731-objetos-y-mensajes-acompanamiento-multipepita-etapa-1
