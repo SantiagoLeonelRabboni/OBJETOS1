@@ -6,6 +6,23 @@
 ## [Semana {{numero_semana}}](#semana-{{numero_semana}}){: .titulo-semana}
 {{semana.descripcion}}
 
+{% if semana.videos %}
+### Videos
+
+{% for video in semana.videos %}
+* [{{video.nombre}}]({{video.url}}). 
+{% endfor %}
+{% endif %}
+
+{% if semana.conferencia %}
+### Conferencia
+
+En {{semana.conferencia.url}}
+
+Horarios: {{semana.conferencia.horarios}}
+
+{% endif %}
+
 {% if semana.entrega %}
 
 ### Para entregar

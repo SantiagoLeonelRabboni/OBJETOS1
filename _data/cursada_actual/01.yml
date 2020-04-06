@@ -2,9 +2,25 @@ descripcion: |
   Esta semana vamos a trabajar con un ejercicio de diagnóstico, cuyo enunciado podés encontrar más abajo.
 
   Además trabajaremos con las guías de **Mumuki** pero antes vas a tener que hacer lo siguiente:
-    * Registrarte ingreando en [Mumuki](https://mumuki.io/login)
+    * Registrarte ingresando en [Mumuki](https://mumuki.io/login)
     * Una vez registrado y dentro de Mumuki debes [ingresar aquí](https://mumuki.io/wollok-obj1/join/Sjcy9A) para unirse al curso de la materia.
      **Ojo:** podés entrar con tu cuenta de Google, de GitHub o crearte una nueva dentro de Mumuki con mail y contraseña. Lo importante es que entres _siempre de la misma forma_, caso contrario no podremos registrar correctamente tu progreso
+
+videos:
+  - nombre: Presentación
+    url: https://youtu.be/CbZ_PCGGnxA
+  - nombre: Organización de la materia
+    url: https://youtu.be/M5OgOVHGfq8
+  - nombre: Qué es un objeto, qué es un mensaje
+    url: https://youtu.be/zZe0AaSKdyo
+  - nombre: Interactuamos con un objeto
+    url: https://youtu.be/7hXl2kJs2GUs
+  - nombre: Definimos un objeto
+    url: https://youtu.be/aAfjr8-1-0Y
+
+conferencia:
+  url: https://meet.jit.si/obj1#config.startWithVideoMuted=true
+  horarios: martes 7 de abril, de 14.30 a 16.00, y de 18.00 a 19.30
 
 entrega:
   fecha: 2020-04-14T14:00
