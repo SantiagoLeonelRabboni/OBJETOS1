@@ -17,9 +17,9 @@
 {% if semana.conferencia %}
 ### Conferencia
 
-En {{semana.conferencia.url}}
+**Link**: [entrar acá]({{semana.conferencia.url}})
 
-Horarios: {{semana.conferencia.horarios}}
+**Horarios**: {{semana.conferencia.horarios}}
 
 {% endif %}
 
