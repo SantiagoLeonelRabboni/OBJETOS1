@@ -32,8 +32,8 @@ Si es la primera vez que entrás acá, te recomendamos que leas el [contrato ped
 
 Vamos a utilizar esta página para subir material, fechas importantes y todo lo relacionado a la cursada. Tal vez sea una buena idea agregarla a los favoritos de tu navegador. :link::globe_with_meridians:
 
-Para tener una comunicación más fluida vamos a utilizar un canal de [Discord](www.discordapp.com).
-* Si aún no tenes cuenta debes registrarte [ingreando aquí](www.discordapp.com)
+Para tener una comunicación más fluida vamos a utilizar un canal de [Discord](https://www.discordapp.com).
+* Si aún no tenes cuenta debes registrarte [ingreando aquí](https://www.discordapp.com)
 * Una vez registrado y dentro de Discord, por única vez y si no lo hiciste antes, debes entrar a este  [servidor de la carrera](https://discord.gg/2mCuDPN).
 * Por último debes enviarnos por mail a _**carlombardi@gmail.com**_ con que usuario te registraste. Si ya estás en el servidor de la carrera y además pusiste tu usuario en el [formulario de arranque de cursada](https://forms.gle/3DTndXd4sbaYeMd48 ), las dos cosas, entonces ya está, no tenés que hacer nada.
 
