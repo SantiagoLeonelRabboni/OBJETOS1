@@ -22,11 +22,11 @@ Si es la primera vez que entrás acá, te recomendamos que leas el [contrato ped
 
 **Turno noche:**
 * Modalidad virtual.
-* Los profes somos Sebastián Pedersen y Gerardo González.
+* Los profes somos Sebastián Pedersen y [Gerardo González](https://youtu.be/Mz30L5TGsfY).
 
 **Ambas Cursadas:**
 * Vamos a tener distintas alternativas de horarios para consultas y práctica.
-* Los ayudantes y colaboradores son: Joaquín Pettinari, Pablo Gerez y Silva Eduardo.
+* Los ayudantes y colaboradores son: Joaquín Pettinari, [Pablo Gerez](https://youtu.be/eoKzShB9dqo) y [Silva Eduardo](https://youtu.be/B29n7TmXOKA).
 
 ## Canales de comunicación
 
