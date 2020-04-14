@@ -26,7 +26,7 @@ Si es la primera vez que entrás acá, te recomendamos que leas el [contrato ped
 
 **Ambas Cursadas:**
 * Vamos a tener distintas alternativas de horarios para consultas y práctica.
-* Los ayudantes y colaboradores son: Joaquín Pettinari, [Pablo Gerez](https://youtu.be/eoKzShB9dqo) y [Eduardo Silva](https://youtu.be/B29n7TmXOKA).
+* Los ayudantes y colaboradores son: [Joaquín Pettinari](https://youtu.be/wdx8u8kYviI), [Pablo Gerez](https://youtu.be/eoKzShB9dqo) y [Eduardo Silva](https://youtu.be/B29n7TmXOKA).
 
 ## Canales de comunicación
 
