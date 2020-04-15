@@ -5,6 +5,8 @@ descripcion: |
   Uf, bastantes cosas ... que vamos a ir profundizando y repasando más adelante, el objetivo de esta semana es introducir algunas ideas que vamos a desarrollar durante todo el curso. 
 
 videos:
+  - nombre: Agregándole métodos a Pepita
+    url: https://youtu.be/o8a-ngbRnxc
   - nombre: Manejo correcto de valores booleanos - "miedo al booleano"
     url: https://youtu.be/o8a-ngbRnxc
   - nombre: Varios objetos interactuando, polimorfismo
