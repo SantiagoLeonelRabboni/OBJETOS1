@@ -11,6 +11,13 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ynmaFpcMwCs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+## Uso de Wollok
+
+### Primeros pasos
+
+<iframe width="560" height="315" src="https://youtu.be/0y9dYt4Nqv0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ## Cómo ver las correcciones en GitHub
 
 Gracias a Pablo Méndez, les acercamos un pequeño video-tutorial de cómo ver, comentar o protestar por las correcciones que les hacemos:
