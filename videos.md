@@ -2,6 +2,9 @@
 
 ## Instalación Wollok
 
+Dos videos de Joaquín Pettinari.
+
+
 ### En Linux
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lkrlQ-O3dHU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -13,11 +16,17 @@
 
 ## Uso de Wollok
 
+
 ### Primeros pasos
+
+Otro de Joaquín Pettinari.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0y9dYt4Nqv0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 ### Cambiar de color
+
+Producción de Pablo Gerez.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g0RoiAd2NZU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
