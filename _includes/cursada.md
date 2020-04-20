@@ -23,6 +23,23 @@
 **Horarios**: {{semana.conferencia.horarios}}
 {% endif %}
 
+{% if semana.conferencia.horario0 %}
+**Horarios**: {{semana.conferencia.horario0}}
+
+{% if semana.conferencia.horario1 %}
+{{semana.conferencia.horario1}}
+{% endif %}
+
+{% if semana.conferencia.horario2 %}
+{{semana.conferencia.horario2}}
+{% endif %}
+
+{% if semana.conferencia.horario3 %}
+{{semana.conferencia.horario3}}
+{% endif %}
+
+{% endif %}
+
 {% endif %}
 
 {% if semana.entrega %}
