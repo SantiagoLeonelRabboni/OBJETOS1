@@ -1,7 +1,30 @@
 descripcion: |
-  En un rato, viene toda la info. Por ahora, sólo anunciamos los horarios de los encuentros.
+  Esta semana viene con mucho de elaborar sobre lo que hablamos en las dos anteriores, y dos temas nuevos.
+  En los videos hay distintos casos de interacción entre distintos objetos. En algunos hay un objeto que tiene que memorizar algo, y hay que decidir en qué objeto hay que agregar un atributo, y qué valor conviene recordar. 
+  A veces, el valor de un atributo es un objeto definido por nosotros, en lugar de un número o un booleano como era hasta ahora.
+  También aparece el polimorfismo y la necesidad de respetar contratos. 
+
+  Los dos temas nuevos son: 1. el ambiente Wollok, y 2. los tests.
+
+  Por favor, no se olviden, después de tener Wollok instalado y andando, llenen la encuesta en https://forms.gle/7AVNEQcXFAvYY2nSA . Es lo que mandamos al campus y a Discord.
+
+  Aparece un nuevo ejercicio, que es una extensión del modelo de Pepita la golondrina. Trabajamos con ese, y con el de gustos.
+
+  Todo esto está en los videos, mírenselos bien por favor.
 
   Esta semana hay **dos** encuentros, el martes para el entorno Wollok, el jueves para revisar la entrega y puntualizar algún tema nuevo.
+
+
+videos:
+  - nombre: El modelo de Pepita se extiende: Roque el entrenador, y dos amigas de Pepita.
+    url: https://youtu.be/1RlwP_WLHRg
+  - nombre: Creamos nuevos objetos: las temporadas de Mar del Plata en Pepita viajera.
+    url: https://youtu.be/7QRWdouBcsY
+  - nombre: Atributos que hacen referencia a objetos "nuestros": el bolichito en el ejercicio de Gustos.
+    url: https://youtu.be/IEfOZLDgzDI
+  - nombre: Introducción a los tests automáticos.
+    url: https://youtu.be/1BNEa7ma5cA
+
 
 conferencia:
   url: https://meet.jit.si/obj1#config.startWithVideoMuted=true
@@ -11,3 +34,20 @@ conferencia:
   
   horario2: El segundo es el jueves 23 de abril, de 14.30 a 16.00, y de 18.00 a 19.30.
 
+entrega:
+  fecha: 2020-04-28T14:00
+  mumuki:
+    - nombre: Atributos 
+      url: https://mumuki.io/wollok-obj1/lessons/499-objetos-y-mensajes-atributos
+      ejercicios: Todos.
+    - nombre: Personas y barrios - qué anda, qué no, cuánto da
+      url: https://mumuki.io/wollok-obj1/lessons/482-objetos-y-mensajes-personas-y-barrios-que-anda-que-no-cuanto-da
+      ejercicios: Todos.
+
+mumuki:
+  - nombre: Gustos
+    url: https://mumuki.io/wollok-obj1/lessons/736-objetos-y-mensajes-acompanamiento-gustos
+    ejercicios: El 1 quienes no les salió, ya están para hacer 2 y 3.
+  - nombre: Pepita extiende sus horizontes.
+    url: https://mumuki.io/wollok-obj1/lessons/747-objetos-y-mensajes-acompanamiento-pepita-extiende-sus-horizontes-en-preparacion
+    ejercicios: Este deberían poder hacerlo todo. De hecho, la mayor parte está en los videos, lo único que les queda totalmente a ustedes es la definición de Pepón. Sería muy bueno que lo pasaran al ambiente Wollok, y que le pudieran hacer un test. Uno fácil es ver cómo queda Pepita después de visitar distintos destinos. A partir de la semana que viene, las entregas van a incluir test.
