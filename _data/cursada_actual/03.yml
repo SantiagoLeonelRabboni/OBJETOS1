@@ -1,0 +1,27 @@
+descripcion: |
+  En un rato, viene toda la info. Por ahora, sólo anunciamos los horarios de los encuentros.
+
+  Esta semana hay **dos** encuentros, el martes para el entorno Wollok, el jueves para revisar la entrega y puntualizar algún tema nuevo.
+
+conferencia:
+  url: https://meet.jit.si/obj1#config.startWithVideoMuted=true
+  horarios: Tenemos **dos** encuentros. <br/> El primero: martes 21 de abril, de 14.30 a 16.00, y de 18.00 a 19.30. <br/> El segundo: jueves 23 de abril, de 14.30 a 16.00, y de 18.00 a 19.30.
+
+entrega:
+  fecha: 2020-04-21T14:00
+  mumuki:
+    - nombre: Los booleanos - evitando el "miedo al booleano"
+      url: https://mumuki.io/wollok-obj1/lessons/498-objetos-y-mensajes-los-booleanos
+      ejercicios: Obligatorios 1 y 2. Opcionales 3 y 4.
+    - nombre: Alternativa - practicamos el "if"
+      url: https://mumuki.io/wollok-obj1/lessons/560-objetos-y-mensajes-alternativa
+      ejercicios: Obligatorios 1, 2 y 3. Opcionales 4 y 5.
+    - nombre: Gustos
+      url: https://mumuki.io/wollok-obj1/lessons/736-objetos-y-mensajes-acompanamiento-gustos
+      ejercicios: Obligatorio el 1. Opcionales 2 y 3.
+
+
+mumuki:
+  - nombre: Pepita la Golondrina
+    url: https://mumuki.io/wollok-obj1/lessons/731-objetos-y-mensajes-acompanamiento-pepita-la-golondrina
+    ejercicios: Completarla, deberían poder hacer todos los ejercicios.
