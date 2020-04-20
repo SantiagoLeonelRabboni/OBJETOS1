@@ -5,9 +5,5 @@ descripcion: |
 
 conferencia:
   url: https://meet.jit.si/obj1#config.startWithVideoMuted=true
-  horarios: Tenemos **dos** encuentros. 
-  
-  El primero es el martes 21 de abril, de 14.30 a 16.00, y de 18.00 a 19.30. 
-  
-  El segundo es el jueves 23 de abril, de 14.30 a 16.00, y de 18.00 a 19.30.
+  horarios: Tenemos **dos** encuentros. <br/> El primero es el martes 21 de abril, de 14.30 a 16.00, y de 18.00 a 19.30. <br/> El segundo es el jueves 23 de abril, de 14.30 a 16.00, y de 18.00 a 19.30.
 
