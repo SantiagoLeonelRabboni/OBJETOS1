@@ -19,7 +19,9 @@
 
 **Link**: [entrar acá]({{semana.conferencia.url}})
 
+{% if semana.conferencia.horarios %}
 **Horarios**: {{semana.conferencia.horarios}}
+{% endif %}
 
 {% endif %}
 
