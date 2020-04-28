@@ -28,9 +28,11 @@
         <i class="fas fa-chalkboard-teacher fa-fw"></i> Comentarios
         {% for c in ej.comentarios %}
         <ul>
-            <li markdown="span">{{c.name}}</li>
+            {% if c.name %}
+              <li markdown="span">{{c.name}}</li>
+            {% endif %}
             {% if c.repo %}
-              <li markdown="span">[Formulario de Soluciones](https://forms.gle/HjVQM8gTE5kJpLYs6)</li>
+              <li markdown="span">[Formulario de Soluciones]({{c.name}})</li>
             {% endif %}              
         </ul>
         {% endfor %}
