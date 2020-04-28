@@ -4,7 +4,6 @@
 
 Dos videos de Joaquín Pettinari.
 
-
 ### En Linux
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lkrlQ-O3dHU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -29,6 +28,13 @@ Otro de Joaquín Pettinari.
 Producción de Pablo Gerez.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g0RoiAd2NZU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+## Cargar un ejercicio desde GitHub bajándolo como Zip, y llevarlo al ambiente Wollok
+
+De Joaquín Pettinari para todes.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PDEGqUcXlV4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Cómo ver las correcciones en GitHub
