@@ -34,8 +34,7 @@ videos:
 
 conferencia:
   url: https://meet.jit.si/obj1#config.startWithVideoMuted=true
-
-  horario: Jueves 30 de abril, de 14.30 a 16.00, y de 18.00 a 19.30.
+  horarios: Jueves 30 de abril, de 14.30 a 16.00, y de 18.00 a 19.30.
 
 entrega:
   fecha: 2020-05-05T14:00
