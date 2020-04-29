@@ -14,11 +14,22 @@ descripcion: |
 
 videos:
   - nombre: Referencias - usando el ejercicio de gustos.
-    url: https://youtu.be/CGO3htDNY-8
-  - nombre: Juego con personajes y elementos - un dominio más complejo - intro y Floki
+    url: https://youtu.be/CGO3htDNY-8`
+  - nombre: Empanadas Giménez parte 1 - Giménez, dos empleados, un test
+    url: https://youtu.be/Kalojrle0kk
+  - nombre: Empanadas Giménez parte 2 - que hace cada empleado cuando cobra, uso de self
+    url: https://youtu.be/3dWYlQw6TXA
+  - nombre: Empanadas Giménez parte 3 - Galván hace cuentas
+    url: https://youtu.be/2Tig9MVfCfk
+  - nombre: Juego con personajes y elementos, un dominio más complejo - intro y Floki
     url: https://youtu.be/yFYL0XIktzU
   - nombre: Juego con personajes y elementos - Mario
     url: https://youtu.be/LBJPZR9vZpI
+  - nombre: Juego con personajes y elementos - Luisa
+    url: https://youtu.be/DKeIXyaj8gU
+  - nombre: Juego con personajes y elementos - Test
+    url: https://youtu.be/dp1nGdIFQRA
+
 
 
 conferencia:
