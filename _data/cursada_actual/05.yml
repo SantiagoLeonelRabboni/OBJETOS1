@@ -1,0 +1,65 @@
+descripcion: |
+  Esta semana toca aprender a usar **listas** usando programación con objetos.  
+  Como no podría ser de otra forma, vamos a representar cada lista como un objeto. Los objetos que representan listas "ya vienen" en Wollok, son fáciles de armar, y tienen un montón de mensajes útiles.  
+  Muchos de estos mensajes resuelven casos de _recorrido_ sobre listas en forma sencilla ... una vez que los aprendemos a usar. Para poder hacer recorridos de esta forma, necesitamos la asistencia de otros objetos, a los que llamamos **closures** o **bloques**. Hay toda una serie de videos sobre el tema de bloques y recorridos.
+
+  También vamos a conocer a los **conjuntos**, unos "primos" de las listas. Hay un video específico para conjuntos.
+
+  A su vez, tener la capacidad de manejar listas, nos permite encarar enunciados un poco más ambiciosos. Incluimos varios ejercicios. Uno se va resolviendo en dos videos. Uno es la entrega para la semana que viene. El tercero se lo dejamos como práctica adicional. Y también tienen ejercicios en Mumuki para entretenerse.
+
+  Y ... se viene se viene ... usar Git (googleen qué es "Git") que es un tema ... que se puede complicar. Hay que instalar un software en la compu que estén usando, y usar una consola para ingresar comandos por teclado. Todas cosas que son comunes en el trabajo como desarrollador, por eso queremos que se acostumbren desde ahora.
+
+  Por favor, vayan leyendo el "otro apunte sobre Git" que está en la página de material, es cortesía de colegas de la Universidad Tecnológica Nacional - regionales Buenos Aires y Delta. Quienes puedan, instalen Git, en este apunte está el link.  
+  **Después** de leer el "otro apunte sobre Git" y de tenerlo instalado, léanse la "Guía rápida de cómo usar Git".  
+
+  Finalmente, si hay consultas, nos va a servir **mucho** el dato de qué SO usa cada quién. Por eso, por favor, llenen esta encuesta, les va a tomar 23 segundos: https://forms.gle/7UgYnBFugFGhzm3E8 . ¡Gracias!
+
+
+
+videos:
+  - nombre: Introducción a listas.
+  - nombre: Qué es eso de los bloques.
+    url: https://youtu.be/e0vUqLxhKdA
+  - nombre: Recorridos usando listas y bloques - intro + recorridos con condición
+    url: https://youtu.be/GVr4UA_DgjY
+  - nombre: Recorridos usando listas y bloques - recorridos con transformación
+    url: https://youtu.be/CeSixTiENVU
+  - nombre: Recorridos usando listas y bloques - recorridos con indicación
+    url: https://youtu.be/hX8PMSeryMA
+  - nombre: Conjuntos.
+  - nombre: Golosinas - algunas golosinas, varios métodos que usan una lista
+    url: https://youtu.be/sYLPxKc_QmA
+  - nombre: Golosinas - más métodos usando listas
+    url: https://youtu.be/kiQS1hRiowY
+
+
+
+conferencia:
+  url: https://meet.jit.si/obj1#config.startWithVideoMuted=true
+  horarios: Jueves 7 de mayo, de 14.30 a 16.00, y de 18.00 a 19.30.
+
+entrega:
+  fecha: 2020-12-05T14:00
+  ejercicios:
+    - name: Producción de una máquina
+      repo: obj1-unahur/produccion-maquina
+      comentarios: 
+        - name: Entregar pegando el código en este Google Form
+          repo: https://forms.gle/H4qsQaVqEK2yJde8A
+
+ejercicios:
+  - name: Golosinas (el de los videos)
+    repo: obj1-unahur/golosinas-objetos-2020s1
+  - name: Casa de Pepe y Julián - este vayan haciéndolo parte por parte, se va complicando
+    repo: obj1-unahur/casaDePepeYJulian-2019s2
+
+mumuki:
+  - nombre: Recorridos
+    url: https://mumuki.io/wollok-obj1/lessons/569-colecciones-recorridos
+    ejercicios: Son dos solitos, háganlos
+  - nombre: Colecciones
+    url: https://mumuki.io/wollok-obj1/lessons/511-colecciones-colecciones
+    ejercicios: Pueden hacer todos, refuerzan lo que se ve en los videos
+  
+    
+
