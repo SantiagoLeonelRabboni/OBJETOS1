@@ -10,11 +10,11 @@
 ### Videos
 
 {% for video in semana.videos %}
-    {% if video.url %}
-        * [{{video.nombre}}]({{video.url}}). 
-    {% else %}
-        * {{video.nombre}} - en breve. 
-    {% endif %}
+{% if video.url %}
+* [{{video.nombre}}]({{video.url}}). 
+{% else %}
+* {{video.nombre}} - en breve. 
+{% endif %}
 {% endfor %}
 {% endif %}
 

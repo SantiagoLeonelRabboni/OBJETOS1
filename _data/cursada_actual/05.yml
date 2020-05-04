@@ -12,7 +12,7 @@ descripcion: |
   Por favor, vayan leyendo el "otro apunte sobre Git" que está en la página de material, es cortesía de colegas de la Universidad Tecnológica Nacional - regionales Buenos Aires y Delta. Quienes puedan, instalen Git, en este apunte está el link.  
   **Después** de leer el "otro apunte sobre Git" y de tenerlo instalado, léanse la "Guía rápida de cómo usar Git".  
 
-  Finalmente, si hay consultas, nos va a servir **mucho** el dato de qué SO usa cada quién. Por eso, por favor, llenen esta encuesta, les va a tomar 23 segundos: https://forms.gle/7UgYnBFugFGhzm3E8 . ¡Gracias!
+  Finalmente, si hay consultas, nos va a servir **mucho** el dato de qué SO usa cada quién. Por eso, por favor, llenen [esta encuesta](https://forms.gle/7UgYnBFugFGhzm3E8), les va a tomar 23 segundos. ¡Gracias!
 
 
 
@@ -50,8 +50,10 @@ entrega:
 ejercicios:
   - name: Golosinas (el de los videos)
     repo: obj1-unahur/golosinas-objetos-2020s1
-  - name: Casa de Pepe y Julián - este vayan haciéndolo parte por parte, se va complicando
+  - name: Casa de Pepe y Julián
     repo: obj1-unahur/casaDePepeYJulian-2019s2
+    comentarios: 
+      - name: este vayan haciéndolo parte por parte, se va complicando
 
 mumuki:
   - nombre: Recorridos
