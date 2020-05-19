@@ -1,5 +1,7 @@
 descripcion: |
-  Esta semana empezamos a trabajar con **clases**, un concepto que nos va a permitir tener muchos objetos que comparten su definición de memoria y métodos. Esto para poder tener p.ej. muchas golondrinas sin tener que definir los objetos `pepita1`, `pepita2`, etc..
+  Esta semana empezamos a trabajar con **clases**, un concepto que nos va a permitir tener muchos objetos que comparten su definición de memoria y métodos. Esto para poder tener p.ej. muchos chocolatines sin tener que definir los objetos `chocolatin1`, `chocolatin2`, etc..
+
+  Hay varios videos sobre clases, terminaron siendo cuatro. Además de ir agregando conceptos, se va repitiendo la idea principal varias veces, traten de mirárselos en orden, tal vez con el segundo se entiende muy más o menos, y después de los otros dos va quedando un poco más claro.
 
   La entrega obligatoria de esta semana trata de ser más tranca, es la primera parte de un ejercicio. Entre los que les dejamos para practicar, está el mismo ejercicio pero entero. Lo obligatorio es la entrega, no se vuelvan locos, cada uno hace hasta donde puede y sus circunstancias lo permitan.
 
@@ -9,8 +11,18 @@ descripcion: |
 
 
 videos:
-  - nombre: ... próximamente ... 
-    url: https://obj1-unahur.github.io/cursada
+  - nombre: expresiones compuestas con colecciones, operaciones combinadas
+    url: https://youtu.be/hji1pHqFhPo
+  - nombre: método tiene(cosa) en la casa de Pepe y Julián: hay que agregar métodos a muchos objetos
+    url: https://youtu.be/ES88DQhFJOY
+  - nombre: clases - motivación - Mariano quiere 3 caramelos
+    url: https://youtu.be/m-D-Q6BNNfE
+  - nombre: clases - concepto e introducción - muchos caramelos para Mariano
+    url: https://youtu.be/uFdeBhzaXBA
+  - nombre: clases - cómo usarlas en los tests
+    url: https://youtu.be/0pggtvrIXYY
+  - nombre: clases - cómo es el self ahora que tenemos clases
+    url: https://youtu.be/I6bOjRAr3Wo
 
 
 
