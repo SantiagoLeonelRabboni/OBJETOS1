@@ -1,0 +1,30 @@
+descripcion: |
+  Esta semana empezamos a trabajar con **clases**, un concepto que nos va a permitir tener muchos objetos que comparten su definición de memoria y métodos. Esto para poder tener p.ej. muchas golondrinas sin tener que definir los objetos `pepita1`, `pepita2`, etc..
+
+  La entrega obligatoria de esta semana trata de ser más tranca, es la primera parte de un ejercicio. Entre los que les dejamos para practicar, está el mismo ejercicio pero entero. Lo obligatorio es la entrega, no se vuelvan locos, cada uno hace hasta donde puede y sus circunstancias lo permitan.
+
+  Sería bueno que intentaran hacer la entrega por Git, con lo que vieron el martes 19. Igual les dejamos el Google Form como las semanas anteriores, pero inténtenlo, si sale sale, si no lo vamos hablando por discord, por el campus, o en las próximas sesiones.  
+  Para eso les dejamos un campo en la entrega para que pongan el repositorio en el que armaron la solución.  
+  También hay otro campo en el que tienen que poner su usuario GitHub. Ese es obligatorio, o sea, por lo menos la cuenta en GitHub la tienen que sacar.
+
+
+videos:
+  - nombre: ... próximamente ... 
+    url: https://obj1-unahur.github.io/cursada
+
+
+
+conferencia:
+  url: https://meet.jit.si/obj1#config.startWithVideoMuted=true
+  horario0: Martes 19 de mayo, de 14.30 a 16.00, y de 18.00 a 19.30  --  especial Git.
+  horario1: Jueves 21 de mayo, de 14.30 a 16.00, y de 18.00 a 19.30.
+
+entrega:
+  fecha: 2020-05-26T14:00
+  ejercicios:
+    - name: Flota de rodados
+      repo: obj1-unahur/flotasDeRodados-2020s1-parcial
+      comentarios: 
+        - name: Entregar pegando el código en este Google Form. 
+          repo: https://forms.gle/emKz76ZRRHbJq7AeA
+
