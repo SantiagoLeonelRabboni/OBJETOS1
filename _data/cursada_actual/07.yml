@@ -19,12 +19,23 @@ conferencia:
   horario0: Martes 19 de mayo, de 14.30 a 16.00, y de 18.00 a 19.30  --  especial Git.
   horario1: Jueves 21 de mayo, de 14.30 a 16.00, y de 18.00 a 19.30.
 
+
 entrega:
   fecha: 2020-05-26T14:00
   ejercicios:
-    - name: Flota de rodados
+    - name: Flotas de rodados
       repo: obj1-unahur/flotasDeRodados-2020s1-parcial
       comentarios: 
         - name: Entregar pegando el código en este Google Form. 
           repo: https://forms.gle/emKz76ZRRHbJq7AeA
 
+
+ejercicios:
+  - name: Infraestructura ferroviaria
+    repo: obj1-unahur/infraFerroviaria-2019s2
+    comentarios:
+    - name: otro buen ejercicio para practicar lo que venimos viendo.
+  - name: Flotas de rodados - con agregados
+    repo: obj1-unahur/flotasDeRodados-2019s2
+    comentarios:
+    - name: tiene la entrega obligatoria y varias partes más. Sobre el final se vuelve bien áspero. Para quienes estén con ganas, y tiempo, de desafíos.
