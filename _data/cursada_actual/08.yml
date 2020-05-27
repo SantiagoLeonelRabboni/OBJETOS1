@@ -1,7 +1,7 @@
 descripcion: |
   Esta semana paramos un poco la pelota, y reforzamos el trabajo con los conceptos vistos hasta ahora, integrando clases e instancias.
 
-  Algunos de los videos (que van a estar próximamente) son para seguir pensando y trabajando los conceptos que vimos, y cómo aplicarlos a resolver distintas situaciones. En particular, en uno se resuelve la parte de bultos de la entrega de camión de transporte, que es un caso en el que tenés que agregar métodos a definiciones que ya tenías.  
+  Algunos de los videos (que van a estar próximamente) son para seguir pensando y trabajando los conceptos que vimos, y cómo aplicarlos a resolver distintas situaciones. En particular, en uno se resuelve la parte de bultos de la entrega de camión de transporte, que es un caso en el que hay que agregar métodos en objetos que ya vienen definidos de partes anteriores de la consigna.  
   Los otros dos son de dos características del lenguaje que sirven para poder "escribir más corto" algunas cosas.
 
   La entrega obligatoria de esta semana ... supongo que les va a traer recuerdos. Por favor, en particular los que vienen entregando salteado, hagan lo posible para no saltearse esta. Nos va a venir muy bien para charlar la semana que viene.  
@@ -10,8 +10,7 @@ descripcion: |
   **Atención - 2**  
   hay un punto que es desafío. Este es un extra, no "sube nota", no vamos a tomar nada parecido en el examen. Es para quienes quieran y tengan el tiempo y la cabeza de ir metiéndose con otras cosas. No la cuelguen con los desafíos, ¡¡o no hay más desafíos!!
 
-  Quienes no hayan podido hacer la entrega por Git, intenten con esta, la idea es que estemos todes "subides" a Git para el TP.  
-  Recuerden que los sábados Joaquín pone un horario para consultas, lo que no les haya funcionado de Git lo pueden ver con él.  
+  Recuerden que los sábados Joaquín pone un horario para consultas, quienes no les haya funcionado de Git lo pueden ver con él.  
   También tienen siempre discord y campus.
 
   **Aviso del futuro - 1**  
@@ -23,14 +22,14 @@ descripcion: |
 
 
 videos:
-  - nombre: ¿Cómo es esto del polimorfismo ahora que tenemos clases e instancias?
-    url: ... próximamente ...
-  - nombre: var property, una forma de ahorrarse un poco de código
-    url: ... próximamente ...
-  - nombre: resolución de bultos en camión de transporte - hay que agregarle más consultas a objetos que ya teníamos
-    url: ... próximamente ...
-  - nombre: expresión ternaria - un lindo truquito para escribir un poco menos, y entender un poco más
-    url: ... próximamente ...
+  - nombre: ¿Cómo es esto del polimorfismo ahora que tenemos clases e instancias? ... próximamente ...
+    url: https://obj1-unahur.github.io/cursada
+  - nombre: var property, una forma de ahorrarse un poco de código ... próximamente ...
+    url: https://obj1-unahur.github.io/cursada
+  - nombre: resolución de bultos en camión de transporte - hay que agregarle más consultas a objetos que ya teníamos ... próximamente ...
+    url: https://obj1-unahur.github.io/cursada
+  - nombre: expresión ternaria - un lindo truquito para escribir un poco menos, y entender un poco más ... próximamente ...
+    url: https://obj1-unahur.github.io/cursada
 
 
 
