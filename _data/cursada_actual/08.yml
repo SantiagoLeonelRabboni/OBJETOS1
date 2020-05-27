@@ -1,0 +1,53 @@
+descripcion: |
+  Esta semana paramos un poco la pelota, y reforzamos el trabajo con los conceptos vistos hasta ahora, integrando clases e instancias.
+
+  Algunos de los videos (que van a estar próximamente) son para seguir pensando y trabajando los conceptos que vimos, y cómo aplicarlos a resolver distintas situaciones. En particular, en uno se resuelve la parte de bultos de la entrega de camión de transporte, que es un caso en el que tenés que agregar métodos a definiciones que ya tenías.  
+  Los otros dos son de dos características del lenguaje que sirven para poder "escribir más corto" algunas cosas.
+
+  La entrega obligatoria de esta semana ... supongo que les va a traer recuerdos. Por favor, en particular los que vienen entregando salteado, hagan lo posible para no saltearse esta. Nos va a venir muy bien para charlar la semana que viene.  
+  **Atención - 1**  
+  Vamos a avisar en estos días quiénes están "OK Git". Quienes estén en esta condición, ya no es necesario que copien el código y lo peguen, es suficiente con que pongan la URL del repo. El resto, por favor haga las dos cosas, repo y código en el form, así nos vamos subiendo a Git, que va a ser práctico para la 2da parte del TP que es grupal.  
+  **Atención - 2**  
+  hay un punto que es desafío. Este es un extra, no "sube nota", no vamos a tomar nada parecido en el examen. Es para quienes quieran y tengan el tiempo y la cabeza de ir metiéndose con otras cosas. No la cuelguen con los desafíos, ¡¡o no hay más desafíos!!
+
+  Quienes no hayan podido hacer la entrega por Git, intenten con esta, la idea es que estemos todes "subides" a Git para el TP.  
+  Recuerden que los sábados Joaquín pone un horario para consultas, lo que no les haya funcionado de Git lo pueden ver con él.  
+  También tienen siempre discord y campus.
+
+  **Atenti**  
+  La semana que viene hay "especial", o sea, hay sesión martes y jueves. La del martes es para introducir Wollok Game, una parte de Wollok que  facilita el desarrollo de juegos gráficos. En particular, el TP va a ser armar un juego o simulación gráfica.  
+  Ojalá se enganchen, van a poder programar personajes que se mueven, y (un poco más adelante), que también se chocan e interactúan.  
+  
+
+videos:
+  - nombre: ¿Cómo es esto del polimorfismo ahora que tenemos clases e instancias?
+    url: ... próximamente ...
+  - nombre: var property, una forma de ahorrarse un poco de código
+    url: ... próximamente ...
+  - nombre: resolución de bultos en camión de transporte - hay que agregarle más consultas a objetos que ya teníamos
+    url: ... próximamente ...
+  - nombre: expresión ternaria - un lindo truquito para escribir un poco menos, y entender un poco más
+    url: ... próximamente ...
+
+
+
+conferencia:
+  url: https://meet.jit.si/obj1#config.startWithVideoMuted=true
+  horarios: Jueves 28 de mayo, de 14.30 a 16.00, y de 18.00 a 19.30. Pedido especial: quienes tengan cámara ténganla preparada, la idea es que nos veamos las caras al menos unos minutos.
+
+
+entrega:
+  fecha: 2020-06-02T14:00
+  ejercicios:
+    - name: Bicicletas
+      repo: obj1-unahur/flotasDeRodados-2020s1-parcial
+      comentarios: 
+        - name: Entregar pegando el código en este Google Form. En cinco archivos - uno para bicis, uno para accesorios, uno para depósito, uno para test de bicis, uno para test de depósito.
+          repo: https://forms.gle/P14qgtTzir4FmBou5
+
+
+ejercicios:
+  - name: Servicios profesionales
+    repo: obj1-unahur/serviciosProfesionales-2019s2
+    comentarios:
+    - name: uno para definir muchas clases, con partes picantitas para resolver
