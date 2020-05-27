@@ -22,13 +22,13 @@ descripcion: |
 
 
 videos:
-  - nombre: ¿Cómo es esto del polimorfismo ahora que tenemos clases e instancias? ... próximamente ...
+  - nombre: ... próximamente ... ¿Cómo es esto del polimorfismo ahora que tenemos clases e instancias? 
     url: https://obj1-unahur.github.io/cursada
-  - nombre: var property, una forma de ahorrarse un poco de código ... próximamente ...
+  - nombre: ... próximamente ... var property, una forma de ahorrarse un poco de código
     url: https://obj1-unahur.github.io/cursada
-  - nombre: resolución de bultos en camión de transporte - hay que agregarle más consultas a objetos que ya teníamos ... próximamente ...
+  - nombre: ... próximamente ... resolución de bultos en camión de transporte - hay que agregarle más consultas a objetos que ya teníamos
     url: https://obj1-unahur.github.io/cursada
-  - nombre: expresión ternaria - un lindo truquito para escribir un poco menos, y entender un poco más ... próximamente ...
+  - nombre: ... próximamente ... expresión ternaria - un lindo truquito para escribir un poco menos, y entender un poco más
     url: https://obj1-unahur.github.io/cursada
 
 
@@ -42,7 +42,7 @@ entrega:
   fecha: 2020-06-02T14:00
   ejercicios:
     - name: Bicicletas
-      repo: obj1-unahur/flotasDeRodados-2020s1-parcial
+      repo: obj1-unahur/bicis_2019s2
       comentarios: 
         - name: Entregar pegando el código en este Google Form. En cinco archivos - uno para bicis, uno para accesorios, uno para depósito, uno para test de bicis, uno para test de depósito.
           repo: https://forms.gle/P14qgtTzir4FmBou5
