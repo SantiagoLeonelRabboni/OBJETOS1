@@ -22,10 +22,10 @@ descripcion: |
 
 
 videos:
-  - nombre: ... próximamente ... ¿Cómo es esto del polimorfismo ahora que tenemos clases e instancias? 
-    url: https://obj1-unahur.github.io/cursada
-  - nombre: ... próximamente ... var property, una forma de ahorrarse un poco de código
-    url: https://obj1-unahur.github.io/cursada
+  - nombre: ¿Cómo es esto del polimorfismo ahora que tenemos clases e instancias? 
+    url: https://youtu.be/Wy6odKeE-4o
+  - nombre: var property, una forma de ahorrarse un poco de código
+    url: https://youtu.be/A5YahcZZ7Is
   - nombre: ... próximamente ... resolución de bultos en camión de transporte - hay que agregarle más consultas a objetos que ya teníamos
     url: https://obj1-unahur.github.io/cursada
   - nombre: ... próximamente ... expresión ternaria - un lindo truquito para escribir un poco menos, y entender un poco más
