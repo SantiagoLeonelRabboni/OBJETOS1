@@ -1,0 +1,54 @@
+descripcion: >
+  Esta semana seguimos trabajando los conceptos que ya vimos, y agregamos Wollok Game.
+
+  Para Game tenemos una serie de videos, y la sesión especial del martes 2.
+  Los otros dos videos son de temas bien puntuales, para seguir aprendiendo técnicas de codificación.
+
+  La entrega obligatoria de esta semana viene potente, por favor consideren que les puede llevar un rato. Incluye una parte de Game para que empiecen a practicar.  
+
+  Otra vez, les va a traer recuerdos, es la continuación de flotas de rodados. Creemos que es interesante que practiquen el tema de agregar cosas sobre código que hicieron antes, esto es lo más común en entornos laborales.  
+
+  **Importante**  
+  La parte obligatoria de la entrega es hasta la etapa 4, "posiciones y Game", inclusive. Las otras dos etapas son opcionales.  
+  Por eso también no les dejamos más ejercicios, con los opcionales tienen para divertirse.
+
+  Les conviene arrancar con un repo nuevo, le pasan los archivos de la entrega previa y a partir de ahí siguen.  
+  **Tip** sobre esto que les puede ser muy útil - si copian archivos por afuera de Wollok, a un proyecto que tienen abierto en Wollok, después tienen que ir al proyecto y pulsar F5 para que tome los cambios. Wollok no se da cuenta solo. ¡¡OJO!! con esto.
+
+  Quienes tengan el "OK Git" pueden completar solamente nombre y apellido, y el link al repo. El resto, tiene que pegar el código como veníamos haciendo. Quienes tengan que hacer esto, por favor miren **antes de empezar** cómo organizar los archivos. Y les pedimos que hagan el intento para que les ande Git, si tienen algún problema ya saben que tienen la sesión de consulta de los sábados con Joaquín, o pueden consultar por discord o campus en cualquier momento.
+
+  (repito el aviso)  
+  Recuerden que los sábados Joaquín pone un horario para consultas, quienes tengan problemas con Git, con Game, o con lo que sea (de la materia claro), lo pueden ver con él.  
+  También tienen siempre discord y campus.
+
+
+videos:
+  - nombre: Inicialización rápida de instancias
+    url: https://youtu.be/APUODwZE0Go
+  - nombre: ... próximamente ... Fixture tests
+    url: https://obj1-unahur.github.io/cursada
+  - nombre: ... próximamente ... Arrancando con Wollok Game 1
+    url: https://obj1-unahur.github.io/cursada
+  - nombre: ... próximamente ... Arrancando con Wollok Game 2
+    url: https://obj1-unahur.github.io/cursada
+  - nombre: ... próximamente ... Arrancando con Wollok Game 3
+    url: https://obj1-unahur.github.io/cursada
+
+
+
+conferencia:
+  url: https://meet.jit.si/obj1#config.startWithVideoMuted=true
+  horario0: Martes 2 de junio, de 14.30 a 16.00, y de 18.00 a 19.30. Especial Wollok Game.
+  horario1: Jueves 4 de junio, de 14.30 a 16.00, y de 18.00 a 19.30. "La de siempre"
+
+
+entrega:
+  fecha: 2020-06-02T14:00
+  ejercicios:
+    - name: Flotas de rodados - reloaded y con algo de Game - hasta la etapa 4, "posiciones y Game", inclusive
+      repo: obj1-unahur/flotasDeRodadosConGame
+      comentarios: 
+        - name: Entregar en este Google Form, link a Git o código. ¡¡Lean los comentarios arriba **antes** de arrancar!!
+          repo: https://forms.gle/P14qgtTzir4FmBou5
+
+
