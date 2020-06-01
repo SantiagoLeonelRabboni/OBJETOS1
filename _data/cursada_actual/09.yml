@@ -43,7 +43,7 @@ conferencia:
 
 
 entrega:
-  fecha: 2020-06-02T14:00
+  fecha: 2020-06-09T14:00
   ejercicios:
     - name: Flotas de rodados - reloaded y con algo de Game - hasta la etapa 4, "posiciones y Game", inclusive
       repo: obj1-unahur/flotasDeRodadosConGame
