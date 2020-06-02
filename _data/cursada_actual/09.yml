@@ -23,15 +23,13 @@ descripcion: |
 
 
 videos:
+  - nombre: Arrancando con Wollok Game 1
+    url: https://youtu.be/9mBGMNL4SXE
+  - nombre: Arrancando con Wollok Game 2
+    url: https://youtu.be/ZWN_gFg2fK8
   - nombre: Inicialización rápida de instancias
     url: https://youtu.be/APUODwZE0Go
   - nombre: ... próximamente ... Fixture tests
-    url: https://obj1-unahur.github.io/cursada
-  - nombre: ... próximamente ... Arrancando con Wollok Game 1
-    url: https://obj1-unahur.github.io/cursada
-  - nombre: ... próximamente ... Arrancando con Wollok Game 2
-    url: https://obj1-unahur.github.io/cursada
-  - nombre: ... próximamente ... Arrancando con Wollok Game 3
     url: https://obj1-unahur.github.io/cursada
 
 
