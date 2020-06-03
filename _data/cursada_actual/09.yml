@@ -49,4 +49,10 @@ entrega:
         - name: Entregar en este Google Form, link a Git o código. ¡¡Lean los comentarios arriba **antes** de arrancar!!
           repo: https://forms.gle/9hmnjrp4zpmNFcse6
 
+ejercicios:
+  - name: Game Básico (Código para comenzar con Wollok Game)
+    repo: obj1-unahur/gameDemoBasico
+    comentarios: 
+        - name: Código que se realizo en la conferencia de las 18:00 hs. del día 02-06.
+
 
