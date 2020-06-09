@@ -1,0 +1,46 @@
+descripcion: |
+  Entramos en la recta final de la cursada donde las cosas se ponen muy intersantes en la materia.
+
+  Esta semana comenzamos con el último concepto fuerte de la cursada: **Herencia**. Hay dos videos bien puntuales sobre esto, otro video más para seguir aprendiendo técnicas de codificación y un último video de modelado para entender de quién es la responsabilidad de responder cada mensaje.
+
+  La entrega obligatoria de esta semana es el ejercicio **Plagas**, no es un ejercicio muy pesado pero atentos porque incorpora el concepto de **Herencia**. Tiene que entregar 4 archivos, 2 de codigo (plagas.wlk y elementos.wlk) y 2 de test (plagas.wtest y elementos.wtest).
+  También les dejamos otro ejercicio complementario para seguir practicando el tema nuevo de la semana.
+
+  Ya se nos viene el trabajo práctico que es bastante potente y con un dominio de mucha actualidad. Vayan armando grupos de hasta 3 personas. No pueden ser 4 y tampoco queremos que sea individual. 
+  
+  **Importante**  
+  Intenten realizar la entrega en Git y recuerden que los que suban sus código pueden completar solamente nombre y apellido, y el link al repo. El resto, tiene que pegar el código en el formulario como veníamos haciendo. Y les pedimos que hagan el intento para que les ande Git, si tienen algún problema ya saben que tienen la sesión de consulta de los sábados con Joaquín, o pueden consultar por discord o campus en cualquier momento.
+  
+
+videos:
+  - nombre: ... próximamente ... Herencia Parte I
+    url: https://obj1-unahur.github.io/cursada
+  - nombre: ... próximamente ... Herencia Parte II
+    url: https://youtu.be/9mBGMNL4SXE
+  - nombre: Nueva Instancia dentro de una expresión
+    url: https://youtu.be/01ewdTUk658
+  - nombre: ... próximamente ... Modelado con Responsabilidades
+    url: https://obj1-unahur.github.io/cursada
+
+
+conferencia:
+  url: https://meet.jit.si/obj1#config.startWithVideoMuted=true
+  horario1: Jueves 11 de junio, de 14.30 a 16.00, y de 18.00 a 19.30.
+
+
+entrega:
+  fecha: 2020-06-16T14:00
+  ejercicios:
+    - name: Plagas
+      repo: obj1-unahur/plagas_2019s2
+      comentarios: 
+        - name: Entregar en este Google Form, link a Git o código. ¡¡Lean los comentarios arriba **antes** de arrancar!!
+          repo: https://forms.gle/pMXwQDDb3PotwmAm7
+
+ejercicios:
+  - name: Destinos 
+    repo: obj1-unahur/destinos_2019s2
+    comentarios: 
+        - name: Ejercicio para practicar herencia y modelado.
+
+
