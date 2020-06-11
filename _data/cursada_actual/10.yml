@@ -13,10 +13,12 @@ descripcion: |
   
 
 videos:
-  - nombre: ... próximamente ... Herencia Parte I
-    url: https://obj1-unahur.github.io/cursada
-  - nombre: ... próximamente ... Herencia Parte II
-    url: https://youtu.be/9mBGMNL4SXE
+  - nombre: Herencia Parte 1 - una clase puede heredar de otra
+    url: https://youtu.be/SA7s_yIk-fc
+  - nombre: Herencia Parte 2 - super
+    url: https://youtu.be/xCwNJ8N0bGs
+  - nombre: Herencia Parte 3 - jerarquía de herencia
+    url: https://youtu.be/akiTj8ZZhPU
   - nombre: Nueva Instancia dentro de una expresión
     url: https://youtu.be/01ewdTUk658
   - nombre: Modelado con Responsabilidades (Bicis Compañeras)
@@ -42,5 +44,13 @@ ejercicios:
     repo: obj1-unahur/destinos_2019s2
     comentarios: 
         - name: Ejercicio para practicar herencia y modelado.
+  - name: Golosinas - clases y herencia
+    repo: obj1-unahur/golosinas-clases-2020s1
+    comentarios: 
+        - name: El ejercicio que usamos en los videos de herencia, para que lo puedan practicar. Están implementadas las clases de cada golosina, está para arrancar con el enunciado.
+  - name: Golosinas - la primera versión
+    repo: obj1-unahur/golosinas-objetos-2020s1
+    comentarios: 
+        - name: Dejamos este a mano (es el mismo de la semana 5) por si quieren ver la definición de cada golosina.
 
 
