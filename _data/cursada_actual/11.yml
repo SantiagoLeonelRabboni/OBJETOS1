@@ -1,0 +1,44 @@
+descripcion: |
+  Esta semana seguimos trabajando el concepto de **Herencia de Clases**. Entramos en el terreno donde es necesario afianzar los conocimientos adquiridos y comprender la diferencia en lo dinámico/estado (las instancias) y lo estático/código (las clases).
+  Hay varios videos que complementan y cierran el tema **Herencia de Clases** con nuevos conceptos como template y lookup method.
+
+  La entrega obligatoria de esta semana es el ejercicio **Oktubre Fest**, Es obligatorio entregar hasta los requerimientos de la segunda parte inclusive. No se dejen estar y todos los que quieran y puedan hagan los requerimientos avanzandos y el bonus así siguen practicado.
+
+  Y hablando de lo que falta, el parcial será el **2 de Julio** y esta semana se presenta el trabajo práctico grupal, que lo hemos bautizado **Pandemia Game**.
+  
+  Como es habitual, también les dejamos otros ejercicios complementarios y algunos resultos para seguir practicando y mejorando.
+
+  **Temas Importante**  
+  * TP Grupal. Completar el siguiente [formulario](https://forms.gle/W6WmpkaPnXft23uH8) con un nombre de grupo que definan y los apellidos y nombres de cada integrante del grupo. Recuerden que los grupos pueden ser de  hasta 3 personas, no pueden ser 4 y tampoco queremos que sea individual. Por favor que un solo integrante complete el formulario con todos los datos del grupo.
+  
+  * Todos aquellos que aún no subiron sus entregas con git por favor traten de hacelo si o si con Git esta semana.
+  
+  * Parcial **2 de Julio**
+
+videos:
+  - nombre: ... proximamente... dinámico/estado (las instancias) vs lo estático/código (las clases)
+    url: https://obj1-unahur.github.io/cursada
+  - nombre: ...proximamente... Herencia ultimo episodio 
+    url: https://obj1-unahur.github.io/cursada
+
+
+conferencia:
+  url: https://meet.jit.si/obj1#config.startWithVideoMuted=true
+  horario0: Jueves 18 de junio, de 14.30 a 16.00, y de 18.00 a 19.30.
+
+
+entrega:
+  fecha: 2020-06-23T14:00
+  ejercicios:
+    - name: Oktubre Fest
+      repo: obj1-unahur/oktubre-fest-2019_s2
+      comentarios: 
+        - name: Es obligatorio entregar hasta los requerimientos de la segunda parte inclusive.
+          repo: https://forms.gle/emLgpD1UKtWFvXCt6
+
+ejercicios:
+  - name: Naves Espaciales
+    repo: obj1-unahur-2020s1/navesEspaciales-clase
+    comentarios: 
+        - name: Ejercicio para practicar herencia de clases
+
