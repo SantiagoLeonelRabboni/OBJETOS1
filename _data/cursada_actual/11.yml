@@ -1,6 +1,6 @@
 descripcion: |
   Esta semana seguimos trabajando el concepto de **Herencia de Clases**. Entramos en el terreno donde es necesario afianzar los conocimientos adquiridos y comprender la diferencia en lo dinámico/estado (las instancias) y lo estático/código (las clases).
-  Hay varios videos que complementan y cierran el tema **Herencia de Clases** con nuevos conceptos como template y lookup method.
+  Hay varios videos que complementan y cierran el tema **Herencia de Clases** con nuevos conceptos como lookup method.
 
   La entrega obligatoria de esta semana es el ejercicio **Oktubre Fest**, Es obligatorio entregar hasta los requerimientos de la segunda parte inclusive. No se dejen estar y todos los que quieran y puedan hagan los requerimientos avanzandos y el bonus así siguen practicado.
 
@@ -16,11 +16,17 @@ descripcion: |
   * Parcial **2 de Julio**
 
 videos:
+ 
+  - nombre: Herencia -  Naves Espaciales Parte I
+    url: https://youtu.be/hmO-G8OLuXY
+  - nombre: Herencia - Naves Espaciales Parte II
+    url: https://youtu.be/5orRG9AW4b8
+  - nombre: Herencia -  Naves Espaciales Parte III
+    url: https://youtu.be/fFf9Kxu9PWs
+  - nombre: Herencia - Naves Espaciales Parte IV
+    url: https://youtu.be/FDhPs8Gqsz8
   - nombre: ... proximamente... dinámico/estado (las instancias) vs lo estático/código (las clases)
     url: https://obj1-unahur.github.io/cursada
-  - nombre: ...proximamente... Herencia ultimo episodio 
-    url: https://obj1-unahur.github.io/cursada
-
 
 conferencia:
   url: https://meet.jit.si/obj1#config.startWithVideoMuted=true
