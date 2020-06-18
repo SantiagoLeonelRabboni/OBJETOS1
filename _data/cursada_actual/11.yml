@@ -51,4 +51,9 @@ ejercicios:
     repo: obj1-unahur/infraFerroviaria
     comentarios: 
         - name: Resuelto todo completo.
+  - name: Flota Rodados con Game (Resuelto)
+    repo: obj1-unahur/flotasDeRodadosConGameResuelto
+    comentarios: 
+        - name: Resuelto hasta etapa 4 sin tests.
+      
 
