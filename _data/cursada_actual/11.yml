@@ -47,8 +47,6 @@ ejercicios:
     repo: obj1-unahur-2020s1/navesEspaciales-clase
     comentarios: 
         - name: Ejercicio para practicar herencia de clases
-
-ejercicios:
   - name: Infra Ferroviaria (Resuelto)
     repo: obj1-unahur/infraFerroviaria
     comentarios: 
