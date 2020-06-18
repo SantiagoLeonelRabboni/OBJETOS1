@@ -41,6 +41,10 @@ entrega:
       comentarios: 
         - name: Es obligatorio entregar hasta los requerimientos de la segunda parte inclusive.
           repo: https://forms.gle/emLgpD1UKtWFvXCt6
+    - name: Pandemia Game - ¡¡TP!!
+      repo: obj1-unahur/pandemiaGame-2020s1
+      comentarios: 
+        - name: Este es el TP grupal, la fecha de entrega de este es 14 de julio. Lo publicamos para que lo vayan leyendo y saliendo dudas. Puede ser que se le agreguen bonus más adelante.
 
 ejercicios:
   - name: Naves Espaciales
