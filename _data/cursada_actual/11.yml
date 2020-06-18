@@ -25,8 +25,8 @@ videos:
     url: https://youtu.be/fFf9Kxu9PWs
   - nombre: Herencia - Naves Espaciales Parte IV
     url: https://youtu.be/FDhPs8Gqsz8
-  - nombre: ... proximamente... dinámico/estado (las instancias) vs lo estático/código (las clases)
-    url: https://obj1-unahur.github.io/cursada
+  - nombre: dinámico/estado (las instancias) vs lo estático/código (las clases)
+    url: https://youtu.be/DfzCqQnT5g0
 
 conferencia:
   url: https://meet.jit.si/obj1#config.startWithVideoMuted=true
@@ -47,4 +47,10 @@ ejercicios:
     repo: obj1-unahur-2020s1/navesEspaciales-clase
     comentarios: 
         - name: Ejercicio para practicar herencia de clases
+
+ejercicios:
+  - name: Infra Ferroviaria (Resuelto)
+    repo: obj1-unahur/infraFerroviaria
+    comentarios: 
+        - name: Resuelto todo completo.
 
