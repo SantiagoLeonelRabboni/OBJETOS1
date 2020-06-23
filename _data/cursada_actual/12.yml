@@ -1,0 +1,36 @@
+descripcion: |
+  En esta semana previa al parcial nos vamos a concentrar en cómo encarar y hacer un ejercicio de punta a punta. Resolveremos el ejercicio Oktubre-Fest en la conferencia del jueves haciendolo paso por paso y repasando todos los conceptos de la cursada.
+
+  Vamos a dejar una entrega más para todos aquellos alumnos que quieran seguir practicando, y además subiremos algunos resueltos adicionales para que puedan revisar el código.
+
+  El próximo martes haremos una última clase de consulta para todes los que quieran participar y ajustar los últimos detalles previo al parcial.
+
+  **Temas Importante**  
+  * El enunciado del parcial se publicará en la semana 13, minutos antes de las 18:00 hs del día 02 de Julio del 2020. A las 18:00 hs los docentes nos conectaremos para hacer un repaso en conjunto del enunciado y permaneceremos en línea hasta la hora de finalización.
+  
+  * Esperamos que todos puedan hacer la entrega del parcial por git, así que para todos aquellos que todavía tienen alguna dificultad con esto recuerden que los sábados Joaquín pone un horario que pueden aprovechar para hacer consultas sobre este tema también.
+  
+  * TP grupal, la fecha de entrega de este es 14 de julio. Completar el siguiente [formulario](https://forms.gle/W6WmpkaPnXft23uH8) con un nombre de grupo que definan y los apellidos y nombres de cada integrante del grupo. Recuerden que los grupos pueden ser de  hasta 3 personas, no pueden ser 4 y tampoco queremos que sea individual. Por favor que un solo integrante complete el formulario con todos los datos del grupo.
+  
+
+conferencia:
+  url: https://meet.jit.si/obj1#config.startWithVideoMuted=true
+  horario0: Jueves 25 de junio, de 14.30 a 16.00, y de 18.00 a 19.30.
+  horario1: Martes 30 de junio (Horario a Definir)
+
+entrega:
+  fecha: 2020-06-30T14:00
+  ejercicios:
+    - name: Vendedores
+      repo: obj1-unahur/vendedores_2019s2
+      comentarios: 
+        - name: Armar los archivos clientes, vendedores, centros y geografía
+          repo: https://forms.gle/C1qgDcV1qVEQvXcu6
+
+ejercicios:
+  - name: Plagas (Resuelto)
+    repo: obj1-unahur/plagas_2020s1_resuelto
+    comentarios: 
+        - name: Ejercicio resuelto para practicar
+
+
