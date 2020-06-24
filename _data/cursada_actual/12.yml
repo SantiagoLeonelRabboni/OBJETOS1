@@ -29,7 +29,7 @@ entrega:
 
 ejercicios:
   - name: Plagas (Resuelto Joaquin)
-    repo: https://github.com/obj1-unahur-2019s1/plagas-JoaquinPettinari
+    repo: obj1-unahur-2019s1/plagas-JoaquinPettinari
     comentarios: 
         - name: Ejercicio resuelto para practicar
 
