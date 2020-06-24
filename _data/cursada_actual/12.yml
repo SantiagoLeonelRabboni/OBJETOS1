@@ -28,8 +28,8 @@ entrega:
           repo: https://forms.gle/C1qgDcV1qVEQvXcu6
 
 ejercicios:
-  - name: Plagas (Resuelto)
-    repo: obj1-unahur/plagas_2020s1_resuelto
+  - name: Plagas (Resuelto Joaquin)
+    repo: https://github.com/obj1-unahur-2019s1/plagas-JoaquinPettinari
     comentarios: 
         - name: Ejercicio resuelto para practicar
 
