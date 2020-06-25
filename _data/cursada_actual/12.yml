@@ -13,10 +13,19 @@ descripcion: |
   * TP grupal, la fecha de entrega de este es 14 de julio. Completar el siguiente [formulario](https://forms.gle/W6WmpkaPnXft23uH8) con un nombre de grupo que definan y los apellidos y nombres de cada integrante del grupo. Recuerden que los grupos pueden ser de  hasta 3 personas, no pueden ser 4 y tampoco queremos que sea individual. Por favor que un solo integrante complete el formulario con todos los datos del grupo.
   
 
+videos:
+  - nombre: Clases y métodos abstractos -  Naves Espaciales Parte V
+    url: https://youtu.be/fo558IPpuXI
+  - nombre: Template method - Naves Espaciales Parte VI
+    url: https://youtu.be/0CI01a77_K0
+  - nombre: Lo mismo aplicado a una consulta (en lugar de indicación) -  Naves Espaciales Parte VII
+    url: https://youtu.be/8Bzgo8Kr0ro
+
+
 conferencia:
   url: https://meet.jit.si/obj1#config.startWithVideoMuted=true
   horario0: Jueves 25 de junio, de 14.30 a 16.00, y de 18.00 a 19.30.
-  horario1: Martes 30 de junio (Horario a Definir)
+  horario1: Martes 30 de junio - 18.00 
 
 entrega:
   fecha: 2020-06-30T14:00
