@@ -1,12 +1,16 @@
 descripcion: |
-  Comenzaremos trabajando con las guías de **Mumuki** pero antes vas a tener que hacer lo siguiente:
+  Esta semana vamos a trabajar con un ejercicio de diagnóstico, cuyo enunciado podés encontrar más abajo.
+
+  Además trabajaremos con las guías de **Mumuki** pero antes vas a tener que hacer lo siguiente:
     * Registrarte ingresando en [Mumuki](https://mumuki.io/login)
-    * Una vez registrado y dentro de Mumuki debes [ingresar aquí](https://mumuki.io/wollok-obj1/join/BrfQkQ) para unirse al curso de la materia.
+    * Una vez registrado y dentro de Mumuki debes [ingresar aquí](https://mumuki.io/wollok-obj1/join/Sjcy9A) para unirse al curso de la materia.
      **Ojo:** podés entrar con tu cuenta de Google, de GitHub o crearte una nueva dentro de Mumuki con mail y contraseña. Lo importante es que entres _siempre de la misma forma_, caso contrario no podremos registrar correctamente tu progreso
 
 videos:
   - nombre: Presentación
     url: https://youtu.be/CbZ_PCGGnxA
+  - nombre: Organización de la materia
+    url: https://youtu.be/M5OgOVHGfq8
   - nombre: Qué es un objeto, qué es un mensaje
     url: https://youtu.be/zZe0AaSKdyo
   - nombre: Interactuamos con un objeto
@@ -16,14 +20,21 @@ videos:
 
 conferencia:
   url: https://meet.jit.si/obj1#config.startWithVideoMuted=true
-  horarios: martes 11 de Agosto, de  18.30 a 20.00 hs.
+  horarios: martes 7 de abril, de 14.30 a 16.00, y de 18.00 a 19.30
 
 entrega:
-  fecha: 2020-08-18T14:00
+  fecha: 2020-04-14T14:00
   mumuki:
     - nombre: Multipepita la golondrina
       url: https://mumuki.io/wollok-obj1/lessons/731-objetos-y-mensajes-acompanamiento-multipepita-etapa-1
       ejercicios: Obligatorios 1 y 2. Opcionales 3 y 4
+  ejercicios:
+    - name: Depósito de Bicicletas (gobstones)
+      repo: obj1-unahur/bicis-gobstones
+      comentarios: 
+        - name: Resolver hasta donde puedan
+          repo: https://forms.gle/HjVQM8gTE5kJpLYs6
+
 
 mumuki:
   - nombre: Conociendo a los objetos
