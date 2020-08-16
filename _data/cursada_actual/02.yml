@@ -1,0 +1,42 @@
+descripcion: |
+  En esta semana, empezamos a armar programas en los que intervienen varios objetos, y estudiar cómo pueden relacionarse entre ellos.
+  En particular, vamos a ver qué es el **polimorfismo** en objetos, y a empezar a hablar de las ventajas que nos da para construir programas. 
+  Relacionado con esto, también vamos a hablar de cómo se refleja la idea de **contrato** en la programación con objetos.
+  Uf, bastantes cosas ... que vamos a ir profundizando y repasando más adelante, el objetivo de esta semana es introducir algunas ideas que vamos a desarrollar durante todo el curso. 
+
+videos:
+  - nombre: Agregándole métodos a Pepita
+    url: https://youtu.be/TQba-e_m5Lc
+  - nombre: Manejo correcto de valores booleanos - "miedo al booleano"
+    url: https://youtu.be/o8a-ngbRnxc
+  - nombre: Varios objetos interactuando, polimorfismo
+    url: https://youtu.be/sTirUmBeY58
+  - nombre: Self - cuando un objeto se tiene que enviar un mensaje a sí mismo
+    url: https://youtu.be/SqzokSK7ckk
+  - nombre: Variantes para definir la memoria de un objeto
+    url: https://youtu.be/_JSncjztLAY
+  - nombre: Ejercicio "Gustos" - comentarios para encararlo
+    url: https://youtu.be/dRy92EB4ppM
+
+conferencia:
+  url: https://meet.jit.si/obj1#config.startWithVideoMuted=true
+  horarios: jueves 18 de Agosto, de 18.30 a 20.00
+
+entrega:
+  fecha: 2020-08-25T14:00
+  mumuki:
+    - nombre: Los booleanos - evitando el "miedo al booleano"
+      url: https://mumuki.io/wollok-obj1/lessons/498-objetos-y-mensajes-los-booleanos
+      ejercicios: Obligatorios 1 y 2. Opcionales 3 y 4.
+    - nombre: Alternativa - practicamos el "if"
+      url: https://mumuki.io/wollok-obj1/lessons/560-objetos-y-mensajes-alternativa
+      ejercicios: Obligatorios 1, 2 y 3. Opcionales 4 y 5.
+    - nombre: Gustos
+      url: https://mumuki.io/wollok-obj1/lessons/736-objetos-y-mensajes-acompanamiento-gustos
+      ejercicios: Obligatorio el 1. Opcionales 2 y 3.
+
+
+mumuki:
+  - nombre: Pepita la Golondrina
+    url: https://mumuki.io/wollok-obj1/lessons/731-objetos-y-mensajes-acompanamiento-pepita-la-golondrina
+    ejercicios: Completarla, deberían poder hacer todos los ejercicios.
