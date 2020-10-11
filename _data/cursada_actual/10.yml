@@ -1,0 +1,44 @@
+descripcion: |
+  Entramos en la recta final de la cursada donde las cosas se ponen muy intersantes en la materia.
+
+  Esta semana comenzamos con el último concepto fuerte de la cursada: **Herencia**. Hay dos videos bien puntuales sobre esto, otro video más para seguir aprendiendo técnicas de codificación y un último video de modelado para entender de quién es la responsabilidad de responder cada mensaje.
+
+  En esta oportunidad **NO** hay entrega obligatoria pero igualmente puden y deben practicar con el ejercicio **Plagas**, no es un ejercicio muy pesado pero atentos porque incorpora el concepto de **Herencia**. Pueden armar 4 archivos, 2 de codigo (plagas.wlk y elementos.wlk) y 2 de test (plagas.wtest y elementos.wtest).
+  También les dejamos otro ejercicio complementario para seguir practicando el tema nuevo de la semana.
+
+  Ya se nos viene el trabajo práctico. Vayan armando grupos de hasta 4 personas.  
+  
+  **Importante**  
+  Intenten practicar con en Git y recuerden que los que suban sus código pueden completar solamente nombre y apellido, y el link al repo. El resto, tiene que pegar el código en el formulario como veníamos haciendo. Y les pedimos que hagan el intento para que les ande Git, si tienen algún problema ya saben que tienen la sesión de consulta de los sábados con Joaquín, o pueden consultar por discord o campus en cualquier momento.
+  
+
+videos:
+  - nombre: Herencia Parte 1 - una clase puede heredar de otra
+    url: https://youtu.be/SA7s_yIk-fc
+  - nombre: Herencia Parte 2 - super
+    url: https://youtu.be/xCwNJ8N0bGs
+  - nombre: Herencia Parte 3 - jerarquía de herencia
+    url: https://youtu.be/akiTj8ZZhPU
+  - nombre: Nueva Instancia dentro de una expresión
+    url: https://youtu.be/01ewdTUk658
+  - nombre: Modelado con Responsabilidades (Bicis Compañeras)
+    url: https://youtu.be/Xxrcze6OUQU
+
+
+conferencia:
+  url: https://meet.jit.si/obj1#config.startWithVideoMuted=true
+  horarios: Martes 13 de Octubre, de 18.30 a 20.00.
+
+ejercicios:
+  - name: Plagas
+    repo: obj1-unahur/plagas_2019s2
+    comentarios: 
+      - name: Ejercio con el cual deben practicar durante la semana herencia y modelado.
+  - name: Destinos 
+    repo: obj1-unahur/destinos_2019s2
+    comentarios: 
+        - name: Ejercicio adicional para practicar herencia y modelado.
+  - name: Golosinas - clases y herencia
+    repo: obj1-unahur/golosinas-clases-2020s1
+    comentarios: 
+        - name: El ejercicio que usamos en los videos de herencia, para que lo puedan practicar. Están implementadas las clases de cada golosina, está para arrancar con el enunciado.
