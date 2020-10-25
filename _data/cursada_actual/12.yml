@@ -1,0 +1,40 @@
+descripcion: |
+  El próximo martes haremos una última clase de consulta para todes los que quieran participar y ajustar los últimos detalles previo al parcial.
+
+  También nos vamos a concentrar en cómo encarar y hacer un ejercicio de punta a punta. Vamos a usar el ejercicio **Oktubre-Fest** haciendolo paso por paso y repasando todos los conceptos de la cursada.
+
+  Dejamos el ejercicio **Vendedores** para todos aquellos alumnos que quieran seguir practicando, y además subiremos algunos resueltos adicionales para que puedan revisar el código.
+
+  **Temas Importante**  
+   * El enunciado del parcial se publicará en la semana 13, minutos antes de las 18:30 hs del día 03 de Noviembre del 2020. A las 18:30 hs los docentes nos conectaremos para hacer un repaso en conjunto del enunciado y permaneceremos en línea hasta la hora de finalización (21:30 hs)
+   * TP grupal, la fecha de entrega será la semana 14, hasta el día 10 de Noviembre a las 18 hs. Completar el siguiente [formulario](https://forms.gle/CCU22GTjjt6MqbhdA) con un nombre de grupo que definan y los apellidos y nombres de cada integrante del grupo. Recuerden que los grupos pueden ser de  hasta 4 personas, no pueden ser 5 y tampoco queremos que sea individual. Por favor que un solo integrante complete el formulario con todos los datos del grupo.
+   * Esta semana la conferencia la realizaremos por google meet
+  
+videos:
+  - nombre: Clases y métodos abstractos -  Naves Espaciales Parte V
+    url: https://youtu.be/fo558IPpuXI
+  - nombre: Template method - Naves Espaciales Parte VI
+    url: https://youtu.be/0CI01a77_K0
+  - nombre: Lo mismo aplicado a una consulta (en lugar de indicación) -  Naves Espaciales Parte VII
+    url: https://youtu.be/8Bzgo8Kr0ro
+
+
+conferencia:
+  url: https://meet.google.com/qru-osus-eqs
+  horario0: Martes 27 de Octubre - 18.30  (Por google meet)
+
+ejercicios:
+  - name: Vendedores
+    repo: obj1-unahur/vendedores_2019s2
+    comentarios: 
+      - name: Ejercicio sin resolver para practicar
+  - name: Plagas (Resuelto Joaquin)
+    repo: obj1-unahur-2019s1/plagas-JoaquinPettinari
+    comentarios: 
+      -name: Ejercicio resuelto para practicar
+  - name: TP Grupal - La huerta de Toni - Game
+    repo: obj1-unahur/huertaDeToniGame_2020s2
+    comentarios: 
+      - name: Este es el TP grupal, la fecha de entrega de este es 10 de Noviembre. Actualización del enunciado del trabajo practico qye incluye la parte del modelado y game. También hay 5 bonus para sumar nota.
+
+
