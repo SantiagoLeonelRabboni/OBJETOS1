@@ -14,3 +14,11 @@ conferencia:
   url: https://meet.jit.si/obj1#config.startWithVideoMuted=true
   horario0: Martes 3 de Noviembre, de 18.30 hs. a 22:00 hs.
 
+entrega:
+  fecha: 2020-11-03T22:00
+  ejercicios:
+    - name: La parrilla de Rosendo
+      repo: obj1-unahur/parrillada_2020s2
+      comentarios: 
+        - name: Es obligatorio entregar comidas y comensales
+          repo: https://forms.gle/dsrHtpEfzZSq2s7H9
