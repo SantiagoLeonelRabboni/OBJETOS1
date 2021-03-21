@@ -3,7 +3,7 @@ layout: landing
 ---
 
 ## Muy Importante antes de comenzar
-Si todavía no lo hiciste y antes de seguír leyendo por favor completa el [formulario de arranque de cursada](https://forms.gle/GBBPQvpW4cdpgF8z6) 
+Si todavía no lo hiciste y antes de seguír leyendo por favor completa el [formulario de arranque de cursada](https://forms.gle/q5zca9VjcFRJYhPv5) 
 
 ## ¡Bienvenido/a!
 
@@ -20,9 +20,8 @@ Si ya viniste varias veces, probablemente quieras ir a la sección [cursada](/cu
 ## Datos de las cursada
 
 * Modalidad virtual. 
-* Los profes somos Sebastián Pedersen y [Gerardo González](https://youtu.be/Mz30L5TGsfY).
+* Este cuantrimestre los profesores somos [Gerardo González](https://youtu.be/Mz30L5TGsfY) y [Joaquín Pettinari](https://youtu.be/wdx8u8kYviI)
 * Vamos a tener distintas alternativas de horarios para consultas y práctica.
-* Los ayudantes y colaboradores son: [Joaquín Pettinari](https://youtu.be/wdx8u8kYviI), [Pablo Gerez](https://youtu.be/eoKzShB9dqo) y [Eduardo Silva](https://youtu.be/B29n7TmXOKA).
 
 ## Canales de comunicación
 
@@ -30,7 +29,7 @@ Vamos a utilizar esta página para subir material, fechas importantes y todo lo 
 
 Para tener una comunicación más fluida vamos a utilizar un canal de [Discord](https://www.discordapp.com).
 * Si aún no tenes cuenta debes registrarte [ingreando aquí](https://www.discordapp.com)
-* Una vez registrado y dentro de Discord, por única vez y si no lo hiciste antes, debes entrar a este  [servidor de la carrera](https://discord.gg/2mCuDPN).
+* Una vez registrado y dentro de Discord, por única vez y si no lo hiciste antes, debes entrar a este  [servidor de la carrera](https://discord.gg/XPYRSHE).
 * Si ya estás en el servidor de la carrera y además pusiste tu usuario en el [formulario de arranque de cursada]( https://forms.gle/GBBPQvpW4cdpgF8z6), las dos cosas, entonces ya está, no tenés que hacer nada.
 
 Para toda la comunicación formal de la materia vamos a utilizar el [campus de la Universidad](http://campus.unahur.edu.ar/). Es importante que lo revises regularmente para no perderte nada.
