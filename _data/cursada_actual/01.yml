@@ -1,8 +1,8 @@
 descripcion: |
   Comenzaremos trabajando con las guías de **Mumuki** pero antes vas a tener que hacer lo siguiente:
-    * Registrarte ingresando en [Mumuki]
-    * Una vez registrado y dentro de Mumuki debes [ingresar aquí] para unirse al curso de la materia.
-     **Ojo:** podés entrar con tu cuenta de Google, de GitHub o crearte una nueva dentro de Mumuki con mail y contraseña. Lo importante es que entres _siempre de la misma forma_, caso contrario no podremos registrar correctamente tu progreso
+    * Registrarte ingresando en [Mumuki](https://mumuki.io/login) utilizando el mail que tenes registrado en el campus universitario.
+    * Una vez registrado podes acceder directamente al curso de la materia ingresando en [UnaHur-Obj1](https://mumuki.io/login?organization=unahur-obj1)
+    * **Importante:** podés registrarte con tu cuenta de Google pero recorda que debe ser la misma que tenes registrada en el campus del la universidad o crearte una nueva dentro de Mumuki con mail registrado en el campus de la universidad y contraseña. 
 
 videos:
   - nombre: Presentación
@@ -15,11 +15,11 @@ videos:
     url: https://youtu.be/aAfjr8-1-0Y
 
 conferencia:
-  url: 
-  horarios: 
+  url: https://meet.jit.si/obj1#config.startWithVideoMuted=true
+  horarios: martes 30 de Marzo, de  18.30 a 20.00 hs.
 
 entrega:
-  fecha: 
+  fecha: 2021-04-05T23:59
   mumuki:
     - nombre: Multipepita la golondrina
       url: https://mumuki.io/wollok-obj1/lessons/731-objetos-y-mensajes-acompanamiento-multipepita-etapa-1
