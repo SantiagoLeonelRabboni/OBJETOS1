@@ -22,13 +22,13 @@ entrega:
   fecha: 2021-04-05T23:59
   mumuki:
     - nombre: Multipepita la golondrina
-      url: https://mumuki.io/wollok-obj1/lessons/731-objetos-y-mensajes-acompanamiento-multipepita-etapa-1
+      url: https://mumuki.io/unahur-obj1/lessons/731-objetos-y-mensajes-acompanamiento-multipepita-etapa-1
       ejercicios: Obligatorios 1 y 2. Opcionales 3 y 4
 
 mumuki:
   - nombre: Conociendo a los objetos
-    url: https://mumuki.io/wollok-obj1/lessons/687-objetos-y-mensajes-conociendo-a-los-objetos
+    url: https://mumuki.io/unahur-obj1/lessons/687-objetos-y-mensajes-conociendo-a-los-objetos
     ejercicios: Guía completa, los 12 ejercicios
   - nombre: Métodos y estados 
-    url: https://mumuki.io/wollok-obj1/lessons/489-objetos-y-mensajes-metodos-y-estado
+    url: https://mumuki.io/unahur-obj1/lessons/489-objetos-y-mensajes-metodos-y-estado
     ejercicios: Hasta el 12 inclusive. Bonus 13 y 14.
