@@ -1,0 +1,50 @@
+descripcion: |
+  Esta semana viene con mucho para pensar y repasar sobre lo que hablamos en las dos anteriores, y dos temas nuevos.
+  En los videos hay distintos casos de interacción entre distintos objetos. En algunos hay un objeto que tiene que memorizar algo, y hay que decidir en qué objeto hay que agregar un atributo, y qué valor conviene recordar. 
+  A veces, el valor de un atributo es un objeto definido por nosotros, en lugar de un número o un booleano como era hasta ahora.
+  También aparece el polimorfismo y la necesidad de respetar contratos. 
+
+  Los dos temas nuevos son: 1. el ambiente Wollok, y 2. los tests.
+
+  Por favor, no se olviden, después de tener Wollok instalado y andando, llenen la encuesta en [Status instalación Wollok](https://forms.gle/oYD36ks42xbGLV7L6).
+
+  Aparece un nuevo ejercicio, que es una extensión del modelo de Pepita la golondrina. Trabajamos con ese, y con el de gustos.
+
+  Todo esto está en los videos, mírenselos bien por favor.
+
+videos:
+  - nombre: El modelo de Pepita se extiende - Roque el entrenador, y dos amigas de Pepita.
+    url: https://youtu.be/1RlwP_WLHRg
+  - nombre: Atributos que hacen referencia a objetos "nuestros" - el bolichito en el ejercicio de Gustos.
+    url: https://youtu.be/IEfOZLDgzDI
+  - nombre: Práctica sobre lo que venimos viendo - Pepita viajera.
+    url: https://youtu.be/COoSQb9JuyQ
+  - nombre: Creamos nuevos objetos - las temporadas de Mar del Plata en Pepita viajera.
+    url: https://youtu.be/7QRWdouBcsY
+  - nombre: Cambiar la interface - se agrega el destino Noroeste.
+    url: https://youtu.be/Ly8TSZcfon8
+  - nombre: Introducción a los tests automáticos.
+    url: https://youtu.be/1BNEa7ma5cA
+
+
+conferencia:
+  url: https://meet.jit.si/obj1#config.startWithVideoMuted=true
+  horarios: Martes 13 de Abril, de 18.30 a 20.00.  
+
+entrega:
+  fecha: 2021-04-19T23:59
+  mumuki:
+    - nombre: Atributos 
+      url: https://mumuki.io/unahur-obj1/lessons/499-objetos-y-mensajes-atributos
+      ejercicios: Todos.
+    - nombre: Personas y barrios - qué anda, qué no, cuánto da
+      url: https://mumuki.io/unahur-obj1/lessons/482-objetos-y-mensajes-personas-y-barrios-que-anda-que-no-cuanto-da
+      ejercicios: Todos.
+
+mumuki:
+  - nombre: Gustos
+    url: https://mumuki.io/unahur-obj1/lessons/736-objetos-y-mensajes-acompanamiento-gustos
+    ejercicios: El 1 quienes no les salió, ya están para hacer 2 y 3.
+  - nombre: Pepita extiende sus horizontes.
+    url: https://mumuki.io/unahur-obj1/lessons/747-objetos-y-mensajes-acompanamiento-pepita-extiende-sus-horizontes
+    ejercicios: Este deberían poder hacerlo todo. De hecho, la mayor parte está en los videos, lo único que les queda totalmente a ustedes es la definición de Pepón. Sería muy bueno que lo pasaran al ambiente Wollok, y que le pudieran hacer un test. Uno fácil es ver cómo queda Pepita después de visitar distintos destinos. A partir de la semana que viene, las entregas van a incluir test.
