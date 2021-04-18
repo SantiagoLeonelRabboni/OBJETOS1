@@ -1,0 +1,58 @@
+descripcion: |
+  Esta semana vamos a reforzar varias cosas: definición del estado de un objeto, contratos, uso de parámetros, tests.
+  Vamos a ponerle foco al tema de las **referencias** entre objetos.  
+  También comenzamos la transición de Mumuki al ambiente Wollok. De paso, damos nuestros primeros pasitos con Git.
+
+  Por favor, no se olviden, quienes ¡todavía! no tengan instalado Wollok, háganlo, y después llenen la encuesta de [Status instalación Wollok](https://forms.gle/oYD36ks42xbGLV7L6).
+
+  A partir de esta semana los ejercicios se presentan como repositorios GitHub. Por ahora bájenselos como zip y cárguenlos en el entorno Wollok, hay un video [Cargar un ejercicio desde GitHub bajándolo como Zip, y llevarlo al ambiente Wollok](https://youtu.be/PDEGqUcXlV4) que agregamos en la sección "videos" que habla sobre eso. 
+  
+  Uno de los ejercicios es la entrega de esta semana. ¿Cómo se entrega? Pegando el código en un Google Form.
+
+  Hay varios videos, y algunos son largos, esperamos aprender a ser más concisos. Esperamos que estos valgan la pena del tiempo que inviertan en verlos.
+
+
+videos:
+  - nombre: Referencias - usando el ejercicio de gustos.
+    url: https://youtu.be/CGO3htDNY-8
+  - nombre: Empanadas Giménez parte 1 - Giménez, dos empleados, un test
+    url: https://youtu.be/Kalojrle0kk
+  - nombre: Empanadas Giménez parte 2 - que hace cada empleado cuando cobra, uso de self
+    url: https://youtu.be/3dWYlQw6TXA
+  - nombre: Empanadas Giménez parte 3 - Galván hace cuentas
+    url: https://youtu.be/2Tig9MVfCfk
+  - nombre: Juego con personajes y elementos, un dominio más complejo - intro y Floki
+    url: https://youtu.be/yFYL0XIktzU
+  - nombre: Juego con personajes y elementos - Mario
+    url: https://youtu.be/LBJPZR9vZpI
+  - nombre: Juego con personajes y elementos - Luisa
+    url: https://youtu.be/DKeIXyaj8gU
+  - nombre: Juego con personajes y elementos - Test
+    url: https://youtu.be/dp1nGdIFQRA
+
+
+
+conferencia:
+  url: https://meet.jit.si/obj1#config.startWithVideoMuted=true
+  horarios: Martes 20 de Abril, de 18.30 a 20.00.
+
+entrega:
+  fecha: 2021-04-26T23:59
+  ejercicios:
+    - name: Viajes en auto
+      repo: obj1-unahur-2021s1/viajesEnAutoWollok
+      comentarios: 
+        - name: Entregar pegando el código en este Google Form
+          repo: https://forms.gle/WFwvaG77H9hRHnwo7
+
+ejercicios:
+  - name: Gustos (el mismo que está en Mumuki, para practicar en el ambiente Wollok)
+    repo: obj1-unahur-2021s1/gustos-2021s1
+  - name: Empanadas Giménez
+    repo: obj1-unahur/empanadasGimenez
+  - name: Juego con personajes y elementos
+    repo: obj1-unahur/juego-personajes-elementos-2020s1
+  - name: Spa
+    repo: obj1-unahur-2021s1/spa-2021s1
+
+
