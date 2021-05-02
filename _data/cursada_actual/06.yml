@@ -1,0 +1,53 @@
+descripcion: |
+  Esta semana reforzamos el trabajo con **colecciones**, en particular trabajamos con consignas un poco más complejas en las que se necesita usar colecciones para resolverlas.  
+
+  En dos videos se cuenta cómo resolver parte del ejercicio de la casa de Pepe y Julián, que está muy pero muy bueno para practicar.  
+  En otro volvemos sobre las golosinas para resolver la golosina bañada y la pastilla de tutti-frutti. En este se explican cosas sobre arrays que son muy útiles, en particular el uso del módulo, no dejen de mirarlo.  
+  En otros dos volvemos sobre golosinas, para entender qué hicimos comparando la visión interna, que se ve en el diagrama dinámico, con la externa, que se ve en el código. Volvemos a machacar sobre los conceptos básicos: división de tareas en distintos objetos, contrato, polimorfismo, definición del estado (la memoria) de un objeto.  
+  En el último, repasamos las operaciones que resuelven recorridos, y planteamos cómo usar la idea de tipo para elegir cuál de las operaciones (filter / map / all / any / etc.) usar en cada caso. La noción de tipo los va a acompañar durante toda su carrera como programadores, es importante que se vayan haciendo amigues.
+  
+  La entrega obligatoria de esta semana también viene bastante más picante, tienen que manejar una colección de objetos que ustedes tienen que programar. 
+
+  Léanse el "otro apunte sobre Git" que está en la página de material, e intenten instalarse el Git, así si hay dudas se pueden ir hablando en Discord y/o Campus. 
+  Sí, es una semana "pesada", la anterior fue más livianita. Y esta hay bastante menos tiempo de videos.
+
+
+videos:
+  - nombre: Dos golosinas especiales, golosina bañada y tutti-frutti. 
+    url: https://youtu.be/LHL8fzExoAw
+  - nombre: Casa de Pepe y Julián - varios métodos de recorrido de una lista.
+    url: https://youtu.be/utgAk8PjB7w
+  - nombre: Casa de Pepe y Julián - pack de comida, compu, y métodos más jugosos sobre lista.
+    url: https://youtu.be/sIr9cHAyAJ4
+  - nombre: Visiones interna y externa - golosinas y mariano.
+    url: https://youtu.be/G1fothPss-Y
+  - nombre: Visiones interna y externa - modelo más complejo, se agrega lucila.
+    url: https://youtu.be/okf2VCfjvx4
+  - nombre: Pensar en los tipos para elegir qué operación me resuelve un recorrido.
+    url: https://youtu.be/cLfp2T_LSjg
+
+
+
+conferencia:
+  url: https://meet.jit.si/obj1#config.startWithVideoMuted=true
+  horarios: Martes 4 de Mayo, de 18.30 a 20.00.
+
+entrega:
+  fecha: 2021-05-10T23:59
+  ejercicios:
+    - name: Camión de transporte
+      repo: obj1-unahur-2021s1/camionTransporte-2021s1
+      comentarios: 
+        - name: Entregar pegando el código en este Google Form. ¡¡Miren bien las instrucciones al principio de la consigna!!
+          repo: https://forms.gle/jgrgm2it87CgMBoZ9
+
+mumuki:
+  - nombre: Tipos
+    url: https://mumuki.io/unahur-obj1/lessons/514-colecciones-los-tipos
+    ejercicios: Esta es rápida, son 5 multiple choice y uno de checks. Es para leer y entender. Practica lo que se cuenta en el video sobre tipos.
+  - nombre: Mensajeros
+    url: https://mumuki.io/unahur-obj1/lessons/512-colecciones-primera-practica-objetos-y-colecciones
+    ejercicios: Pueden hacer todos, es otro ejercicio para practicar definición de objetos y uso de colecciones.
+  
+    
+
