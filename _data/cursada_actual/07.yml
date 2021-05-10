@@ -1,0 +1,41 @@
+descripcion: |
+  Esta semana empezamos a trabajar con **clases**, un concepto que nos va a permitir tener muchos objetos que comparten su definición de memoria y métodos. Esto para poder tener por ej. muchos chocolatines sin tener que definir los objetos `chocolatin1`, `chocolatin2`, etc..
+
+  Hay varios videos sobre clases, terminaron siendo cuatro. Además de ir agregando conceptos, se va repitiendo la idea principal varias veces, traten de mirárselos en orden, tal vez con el segundo se entiende muy más o menos, y después de los otros dos va quedando un poco más claro.
+
+  Entre los ejercicio que les dejamos para practicar, está Flota de Rodados con toda la solución. Aunque NO hay entrega obligatoria intenten resolverlo solos, no se vuelvan locos, cada uno hace hasta donde puede y sus circunstancias lo permitan.
+
+  Por favor vayan sacando un cuenta de [GitHub](https://github.com/) e instalado la consola en sus PCs, que a partir de la semana que viene intentaremos hacer las entregas de este modo.
+
+
+videos:
+  - nombre: expresiones compuestas con colecciones, operaciones combinadas
+    url: https://youtu.be/hji1pHqFhPo
+  - nombre: método tiene(cosa) en la casa de Pepe y Julián - hay que agregar métodos a muchos objetos
+    url: https://youtu.be/ES88DQhFJOY
+  - nombre: clases - motivación - Mariano quiere 3 caramelos
+    url: https://youtu.be/m-D-Q6BNNfE
+  - nombre: clases - concepto e introducción - muchos caramelos para Mariano
+    url: https://youtu.be/uFdeBhzaXBA
+  - nombre: clases - cómo usarlas en los tests
+    url: https://youtu.be/0pggtvrIXYY
+  - nombre: clases - cómo es el self ahora que tenemos clases
+    url: https://youtu.be/I6bOjRAr3Wo
+
+
+
+conferencia:
+  url: https://meet.jit.si/obj1#config.startWithVideoMuted=true
+  horarios: Martes 11 de Mayo de 18:30 a 20:00.
+
+
+
+ejercicios:
+  - name: Infraestructura ferroviaria
+    repo: obj1-unahur-2020s1/infraFerroviaria
+    comentarios:
+    - name: otro buen ejercicio para practicar lo que venimos viendo.
+  - name: Flotas de rodados - con agregados
+    repo: obj1-unahur-2021s1/flotasDeRodados
+    comentarios:
+    - name: Solución completa. Sobre el final se vuelve bien áspero. Para quienes estén con ganas, y tiempo, de desafíos.
