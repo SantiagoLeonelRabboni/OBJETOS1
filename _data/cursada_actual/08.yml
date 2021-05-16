@@ -1,0 +1,52 @@
+descripcion: |
+  Esta semana paramos un poco la pelota, y reforzamos el trabajo con los conceptos vistos hasta ahora, integrando clases e instancias.
+
+  Algunos de los videos son para seguir pensando y trabajando los conceptos que vimos, y cómo aplicarlos a resolver distintas situaciones. En particular, en uno se resuelve la parte de bultos de la entrega de camión de transporte, que es un caso en el que hay que agregar métodos en objetos que ya vienen definidos de partes anteriores de la consigna.  
+  Los otros dos son de dos características del lenguaje que sirven para poder "escribir más corto" algunas cosas.
+
+  **Hay entrega obligatoria esta semana.** Por favor, en particular los que vienen entregando salteado, hagan lo posible para no saltearse esta. Nos va a venir muy bien para charlar la semana que viene.  
+  
+  **Atención - 1**  
+  Por favor complenten el siguiente formulario **[Usuario de GitHub](https://forms.gle/eHQep5u4fWo2hAvP7)** para que sepamos con que usuario se registraron en GitHub. Vamos a avisar en estos días quiénes están "OK Git". Quienes estén en esta condición, ya no es necesario que copien el código y lo peguen, es suficiente con que pongan la URL del repo. El resto, por favor haga las dos cosas, repo y código en el form, así nos vamos subiendo a Git.  
+  **Atención - 2**  
+  hay un punto que es desafío. Este es un extra, no "sube nota", no vamos a tomar nada parecido en el examen. Es para quienes quieran y tengan el tiempo y la cabeza de ir metiéndose con otras cosas. No la cuelguen con los desafíos, ¡¡o no hay más desafíos!!
+
+  Recuerden que los sábados Joaquín pone un horario para consultas, quienes no les haya funcionado de Git lo pueden ver con él.  
+  También tienen siempre discord y campus.
+
+  **Aviso del futuro - 1**  
+  La entrega de la semana siguiente, viene bien potente. Reservarle tiempo.
+
+
+videos:
+  - nombre: ¿Cómo es esto del polimorfismo ahora que tenemos clases e instancias? 
+    url: https://youtu.be/Wy6odKeE-4o
+  - nombre: var property, una forma de ahorrarse un poco de código
+    url: https://youtu.be/A5YahcZZ7Is
+  - nombre: resolución de bultos en camión de transporte - hay que agregarle más consultas a objetos que ya teníamos
+    url: https://youtu.be/c27MMRweTZM
+  - nombre: expresión ternaria - un lindo truquito para escribir un poco menos, y entender un poco más
+    url: https://youtu.be/1XdYc-91Vtg
+
+
+
+conferencia:
+  url: https://meet.jit.si/obj1#config.startWithVideoMuted=true
+  horarios: Martes 18 de Mayo, de 18.30 a 20.00.
+
+
+entrega:
+  fecha: 2021-05-24T23:50
+  ejercicios:
+    - name: Bicicletas
+      repo: obj1-unahur-2021s1/bicis
+      comentarios: 
+        - name: Entregar pegando el código en este Google Form. En cinco archivos - uno para bicis, uno para accesorios, uno para depósito, uno para test de bicis, uno para test de depósito.
+          repo: https://forms.gle/umPcDH2UkEdBhTuh7
+
+
+ejercicios:
+  - name: Servicios profesionales
+    repo: obj1-unahur-2021s1/serviciosProfesionales
+    comentarios:
+    - name: uno para definir muchas clases, con partes picantitas para resolver
