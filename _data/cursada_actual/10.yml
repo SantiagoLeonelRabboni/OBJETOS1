@@ -35,7 +35,7 @@ ejercicios:
     comentarios: 
       - name: Ejercio con el cual deben practicar durante la semana herencia y modelado.
   - name: Destinos 
-    repo: https://github.com/obj1-unahur-2021s1/destinos
+    repo: obj1-unahur-2021s1/destinos
     comentarios: 
         - name: Ejercicio adicional para practicar herencia y modelado.
   - name: Golosinas - clases y herencia
