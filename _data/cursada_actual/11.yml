@@ -1,0 +1,63 @@
+descripcion: |
+  Esta semana seguimos trabajando el concepto de **Herencia de Clases**. Entramos en el terreno donde es necesario afianzar los conocimientos adquiridos y comprender la diferencia entre lo dinámico/estado (las instancias) y lo estático/código (las clases).
+  Hay varios videos que complementan y cierran el tema **Herencia de Clases** con nuevos conceptos como lookup method.
+
+  La entrega obligatoria de esta semana es el ejercicio **Oktubre Fest**, Es obligatorio entregar hasta los requerimientos de la segunda parte inclusive con **fecha límite 22-Junio**. No se dejen estar y todos los que quieran y puedan hagan los requerimientos avanzandos y el bonus así siguen practicado.
+
+  Y hablando de lo que falta, el parcial será el **Martes 29 de Junio** y esta semana se presenta el trabajo práctico grupal, que lo hemos bautizado **Juego de Aventuras - Game**.
+  
+  Como es habitual, también les dejamos otros ejercicios complementarios y algunos resueltos para seguir practicando y mejorando.
+
+  **Temas Importante**  
+  * TP Grupal. Completar el siguiente [formulario](https://forms.gle/paJ55MDZcJfVsJC59) con un nombre de grupo que definan, y los apellidos y nombres de cada integrante del grupo. Recuerden que los grupos pueden ser de hasta 4 personas, no pueden ser más de 4 y tampoco queremos que sea individual. Por favor que un solo integrante complete el formulario con todos los datos del grupo.
+  
+  * Parcial **29 de Junio de 18:30 a 22:00 hs**
+
+  * Entrega y defensa del TP grupal  **06 de Julio a las 18:30 hs**
+
+videos:
+ 
+  - nombre: Herencia -  Naves Espaciales Parte I
+    url: https://youtu.be/hmO-G8OLuXY
+  - nombre: Herencia - Naves Espaciales Parte II
+    url: https://youtu.be/5orRG9AW4b8
+  - nombre: Herencia -  Naves Espaciales Parte III
+    url: https://youtu.be/fFf9Kxu9PWs
+  - nombre: Herencia - Naves Espaciales Parte IV
+    url: https://youtu.be/FDhPs8Gqsz8
+  - nombre: dinámico/estado (las instancias) vs lo estático/código (las clases)
+    url: https://youtu.be/DfzCqQnT5g0
+
+conferencia:
+  url: https://meet.jit.si/obj1#config.startWithVideoMuted=true
+  horario0: Martes 15 de Junio, de 18.30 hs. a 20:00 hs.
+
+
+entrega:
+  fecha: 2021-06-22T18:30
+  ejercicios:
+    - name: Oktubre Fest
+      repo: obj1-unahur-2021s1/oktubre-fest
+      comentarios: 
+        - name: Es obligatorio entregar hasta los requerimientos de la segunda parte inclusive.
+          repo: https://forms.gle/vWRHyM9Mt7rEZZJZ8
+    - name: TP Grupal - Juego de aventuras - Game - 2 Niveles
+      repo: obj1-unahur-2021s1/juego-aventura-2021s1
+      comentarios: 
+        - name: Este es el TP grupal, la fecha de entrega y defensa del TP es el 06 de Junio. Lo publicamos para que lo vayan leyendo, arranando y saliendo dudas. 
+
+ejercicios:
+  - name: Naves Espaciales
+    repo: obj1-unahur-2020s1/navesEspaciales-clase
+    comentarios: 
+        - name: Ejercicio para practicar herencia de clases
+  - name: Infra Ferroviaria (Resuelto)
+    repo: obj1-unahur/infraFerroviaria
+    comentarios: 
+        - name: Resuelto todo completo.
+  - name: Flota Rodados con Game (Resuelto)
+    repo: obj1-unahur/flotasDeRodadosConGameResuelto
+    comentarios: 
+        - name: Resuelto hasta etapa 4 sin tests.
+      
+
