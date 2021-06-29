@@ -1,0 +1,15 @@
+descripcion: |
+  **Parcial**
+  El enunciado del parcial se publicará en la semana 13, minutos antes de las 18:30 hs del día 29 de junio del 2021. A las 18:30 hs los docentes nos conectaremos para hacer un repaso en conjunto del enunciado y permaneceremos en línea hasta la hora de finalización (22:00 hs)
+ 
+
+conferencia:
+  url: https://meet.jit.si/obj1#config.startWithVideoMuted=true
+  horario0: Martes 29 de Junio - de 18.30 hs. a 22:00 hs.
+ejercicios:
+  - name: starwarsParcial 
+    repo: obj1-unahur-2021s1/starWarsParcial
+    comentarios: 
+        - name: Entregar en este Google Form.
+        - repo: https://forms.gle/1NB5KZYZc2SCMrYTA
+
