@@ -1,0 +1,30 @@
+descripcion: |
+  **Notas Parcial**
+  Las dejamos dentro de un repositorio de GitHub para que las puedan consultar
+
+  **Importante**  
+   * **Obligatoriamente** deben recuperar todos aquellos alumnos que se sacaron nota menor a **4**. **Opcionalmente** pueden recuperar aquellos alumnos que se sacaron notas entre **4 y 6** para evitar el examen integrador.
+  
+  Para la defensa de los trabajos practicos nos vamos a conectar en un horario especifico con cada grupo. En el horario asignado tienen que estar todos los integrantes, nos iremos a una sala aparte, 20 minutos aproximadamente,  y un miembreo del equipo deberá se el encargado de mostrar el juego funcionado.
+  
+  **Horarios Defensa TP**  
+    * **Grupo 1 - 18.30 hs** (GELAY J; CUTRI A.; ACOSTA M; GARCIA O.)
+    * **Grupo 2 - 18.50 hs** (GÓMEZ A.; PUDIT G.; LEGUIZAMON A.; ROBLEDO J.)
+    * **Grupo 3 - 19.10 hs** (PRAGLIOLA D.; LUJÁN C.; BARRETO E.)
+    * **Grupo 4 - 19.30 hs** (FERRARA F.; GONZALEZ N.;  ANDREASSI M)
+    * **Grupo 5 - 19.50 hs** (DE SOUSA M.; PINTOS M.; GARCIA A.; PACHECO C. )
+    * **Grupo 8 - 20.10 hs** (DIAZ ARTUCIO; DOMINGUEZ ALBORNOZ; BRUQUE LOPEZ; LEDESMA  Y.)
+    
+conferencia:
+  url: https://meet.jit.si/obj1#config.startWithVideoMuted=true
+  horario0: Martes 06 de Julio - Por turnos de Grupos.
+ejercicios:
+  - name: Notas del Parcial 
+    repo: obj1-unahur-2021s1/notasParcial1
+    comentarios:
+      - name: Ingresar al respositorio para ver la tabla con las notas
+  - name: Parcial Resuelto 
+    repo: obj1-unahur-2021s1/starWarsParcial
+    comentarios: 
+        - name: Solucion completa
+
