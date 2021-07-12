@@ -1,0 +1,15 @@
+descripcion: |
+  Semana del **Recuperatorio.**
+  
+  **Obligatoriamente** deben recuperar todos aquellos alumnos que se sacaron nota menor a **4**. **Opcionalmente** pueden recuperar aquellos alumnos que se sacaron notas entre **4 y 6** para evitar el examen integrador.
+  
+    
+conferencia:
+  url: https://meet.jit.si/obj1#config.startWithVideoMuted=true
+  horario0: Martes 13 de Julio - A las 18.30 hs.
+ejercicios:
+  - name: Notas del Parcial 
+    repo: obj1-unahur-2021s1/notasParcial1
+    comentarios:
+      - name: Ingresar al respositorio para ver la tabla con las notas
+  
