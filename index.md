@@ -30,8 +30,8 @@ Vamos a utilizar esta página para subir material, fechas importantes y todo lo 
 
 Para tener una comunicación más fluida vamos a utilizar un canal de [Discord](https://www.discordapp.com).
 * Si aún no tenes cuenta debes registrarte [ingreando aquí](https://www.discordapp.com)
-* Una vez registrado y dentro de Discord, por única vez y si no lo hiciste antes, debes entrar a este  [servidor de la carrera](https://discord.gg/XPYRSHE).
-* Si ya estás en el servidor de la carrera y además pusiste tu usuario en el [formulario de arranque de cursada](https://forms.gle/G2pd2ZAMTx2RK7MB6), las dos cosas, entonces ya está, no tenés que hacer nada.
+* Una vez registrado y dentro de Discord, por única vez y si no lo hiciste antes, debes entrar a este  [servidor de la carrera](https://discord.gg/eHHe45a).
+* Y por último, para que solo veas los canales de las materias que estas cursando completa los datos de este [Formulario](https://forms.gle/iidGnjzh6XaXAehu8) así el administrador del servidor de la carrera te habilita lo que corresponde de acuerdo a lo que completes.
 
 Para toda la comunicación formal de la materia vamos a utilizar el [campus de la Universidad](http://campus.unahur.edu.ar/). Es importante que lo revises regularmente para no perderte nada.
 
