@@ -16,7 +16,7 @@ guias:
 
 ## Mumuki
   * Registrarte ingreando en [Mumuki](https://mumuki.io/login)
-  * Una vez registrado y dentro de Mumuki debes [ingresar aquí](https://mumuki.io/wollok-obj1/join/Sjcy9A) para unirse al curso de la materia.
+  * Una vez registrado y dentro de Mumuki debes [ingresar aquí](https://mumuki.io/login?organization=unahur-obj1) para unirse al curso de la materia.
      **Ojo:** podés entrar con tu cuenta de Google, de GitHub o crearte una nueva dentro de Mumuki con mail y contraseña. Lo importante es que entres _siempre de la misma forma_, caso contrario no podremos registrar correctamente tu progreso
 
 
