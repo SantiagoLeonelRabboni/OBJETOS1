@@ -29,6 +29,10 @@ Producción de Pablo Gerez.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g0RoiAd2NZU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Tutorial de GIT
+Uso de GIT Por Joaquín Pettinari.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BdbDGxHdd4w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Cargar un ejercicio desde GitHub bajándolo como Zip, y llevarlo al ambiente Wollok
 
