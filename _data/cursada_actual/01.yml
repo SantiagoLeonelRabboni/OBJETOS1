@@ -5,6 +5,8 @@ descripcion: |
     * **Importante:** podés registrarte con tu cuenta de Google pero recorda que debe ser la misma que tenes registrada en el campus del la universidad o crearte una nueva dentro de Mumuki con mail registrado en el campus de la universidad y contraseña. 
 
 videos:
+  - nombre: Grabación Clase I (C1 y C2) 10-08-2021
+    url: https://www.youtube.com/watch?v=6GNxJv0-qnQ
   - nombre: Presentación
     url: https://youtu.be/CbZ_PCGGnxA
   - nombre: Qué es un objeto, qué es un mensaje
@@ -13,6 +15,8 @@ videos:
     url: https://youtu.be/7hXl2kJs2GUs
   - nombre: Definimos un objeto
     url: https://youtu.be/aAfjr8-1-0Y
+
+    
 
 conferencia:
   url: https://meet.google.com/svg-wttm-rbx
