@@ -20,28 +20,28 @@
 
 {% if semana.conferencia %}
 ### Conferencia
-
+{% if semana.conferencia.url %}
 **Link**: [entrar acá]({{semana.conferencia.url}})
+{% endif %}
 
 {% if semana.conferencia.horarios %}
 **Horarios**: {{semana.conferencia.horarios}}
 {% endif %}
 
 {% if semana.conferencia.horario0 %}
-**Horarios**: {{semana.conferencia.horario0}}
+**Comisión C1**: {{semana.conferencia.horario0}}
+{% endif %}
+
+**Link C1**: [entrar acá]({{semana.conferencia.url0}})
 
 {% if semana.conferencia.horario1 %}
-{{semana.conferencia.horario1}}
+**Comisión C2**: {{semana.conferencia.horario1}}
 {% endif %}
+
+**Link C2**: [entrar acá]({{semana.conferencia.url1}})
 
 {% if semana.conferencia.horario2 %}
 {{semana.conferencia.horario2}}
-{% endif %}
-
-{% if semana.conferencia.horario3 %}
-{{semana.conferencia.horario3}}
-{% endif %}
-
 {% endif %}
 
 {% endif %}
