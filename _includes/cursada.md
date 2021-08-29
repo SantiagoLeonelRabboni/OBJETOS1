@@ -32,13 +32,17 @@
 **Comisión C1**: {{semana.conferencia.horario0}}
 {% endif %}
 
+{% if semana.conferencia.url0 %}
 **Link C1**: [entrar acá]({{semana.conferencia.url0}})
+{% endif %}
 
 {% if semana.conferencia.horario1 %}
 **Comisión C2**: {{semana.conferencia.horario1}}
 {% endif %}
 
+{% if semana.conferencia.url1 %}
 **Link C2**: [entrar acá]({{semana.conferencia.url1}})
+{% endif %}
 
 {% if semana.conferencia.horario2 %}
 {{semana.conferencia.horario2}}
