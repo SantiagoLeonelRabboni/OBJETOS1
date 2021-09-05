@@ -1,0 +1,63 @@
+descripcion: |
+  Esta semana **NO hay entrega obligatoria**. Nos toca aprender a usar **listas** usando programación con objetos.  
+  Como no podría ser de otra forma, vamos a representar cada lista como un objeto. Los objetos que representan listas "ya vienen" en Wollok, son fáciles de armar, y tienen un montón de mensajes útiles.  
+  Muchos de estos mensajes resuelven casos de _recorrido_ sobre listas en forma sencilla ... obviamente una vez que los aprendemos a usar. Para poder hacer recorridos de esta forma, necesitamos la asistencia de otros objetos, a los que llamamos **closures** o **bloques**. Hay toda una serie de videos sobre el tema de bloques y recorridos.
+
+  También vamos a conocer a los **conjuntos**, unos "primos" de las listas. Hay un video específico para conjuntos.
+
+  A su vez, tener la capacidad de manejar listas, nos permite encarar enunciados un poco más ambiciosos. Incluimos varios ejercicios para practicar y algunos se van resolviendo en los videos. Y también tienen ejercicios en Mumuki para entretenerse.
+
+  Y ... se viene se viene ... usar Git ... que es un tema impotante. Hay que instalar un software en la compu que estén usando, y usar una consola para ingresar comandos por teclado o también se puede usar directamente desde wollok. Todas cosas que son comunes en el trabajo como desarrollador, por eso queremos que se acostumbren desde ahora.
+
+  Por favor, vayan leyendo el "otro apunte sobre Git" que está en la página de material, es cortesía de colegas de la Universidad Tecnológica Nacional - regionales Buenos Aires y Delta. Instalen Git, en este apunte está el link.  
+  **Después** de leer el "otro apunte sobre Git" y de tenerlo instalado, léanse la "Guía rápida de cómo usar Git".  
+
+videos:
+  - nombre: Introducción a listas
+    url: https://youtu.be/Nm3-USo-p_c
+  - nombre: Qué es eso de los bloques 
+    url: https://youtu.be/e0vUqLxhKdA
+  - nombre: Recorridos usando listas y bloques - intro + recorridos con condición
+    url: https://youtu.be/GVr4UA_DgjY
+  - nombre: Recorridos usando listas y bloques - recorridos con transformación
+    url: https://youtu.be/CeSixTiENVU
+  - nombre: Recorridos usando listas y bloques - recorridos con indicación
+    url: https://youtu.be/hX8PMSeryMA
+  - nombre: Conjuntos.
+    url: https://youtu.be/vLSs5-OYRIU
+  - nombre: Golosinas - algunas golosinas, varios métodos que usan una lista
+    url: https://youtu.be/sYLPxKc_QmA
+  - nombre: Golosinas - más métodos usando listas
+    url: https://youtu.be/kiQS1hRiowY
+
+
+
+conferencia:
+  horarios: Tenemos **dos** Comisiones. Ingresar al link que corresponde a su comisión.
+ 
+  horario0: Martes 24 de Agosto, a partir de las 18.15 con Gerardo Gonzalez Tulian 
+  url0: https://meet.google.com/ome-vhnw-vin
+
+  horario1: Martes 24 de Agosto, a partir de las 18.00 con Lucas Spigariol 
+  url1: https://meet.google.com/haa-wciy-mrt
+
+ejercicios:
+  - name: Golosinas (el de los videos)
+    repo: obj1-unahur-2021s1/golosinas-objetos
+    comentarios:
+      - name: El paso a paso de la solución esta en los videos de la semana.
+  - name: Casa de Pepe y Julián
+    repo: obj1-unahur-2021s1/casaDePepeYJulian
+    comentarios: 
+      - name: este vayan haciéndolo parte por parte, se va complicando
+
+mumuki:
+  - nombre: Recorridos
+    url: https://mumuki.io/unahur-obj1/lessons/569-colecciones-recorridos
+    ejercicios: Son dos solitos, háganlos
+  - nombre: Colecciones
+    url: https://mumuki.io/unahur-obj1/lessons/511-colecciones-colecciones
+    ejercicios: Pueden hacer todos, refuerzan lo que se ve en los videos
+  
+    
+
