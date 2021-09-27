@@ -22,7 +22,7 @@ Si ya viniste varias veces, probablemente quieras ir a la sección [cursada](/cu
 * Modalidad virtual. 
 * Este cuantrimestre los profesores somos [Gerardo González](https://youtu.be/Mz30L5TGsfY), **Lucas Spigariol** y  [Joaquín Pettinari](https://youtu.be/wdx8u8kYviI)
 * Un docente principal por comisión con clases independientes. 
-* Vamos a tener distintas alternativas de horarios para consultas y práctica.
+* Vamos a tener distintas alternativas de horarios para consultas y práctica. Presiona en el siguinte link de [acceso clase de consulta](https://meet.google.com/wga-oetp-gqx) 
 
 ## Canales de comunicación
 
