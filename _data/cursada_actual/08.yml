@@ -1,0 +1,55 @@
+descripcion: |
+  Esta semana paramos un poco la pelota, y reforzamos el trabajo con los conceptos vistos hasta ahora, integrando clases e instancias.
+
+  Algunos de los videos son para seguir pensando y trabajando los conceptos que vimos, y cómo aplicarlos a resolver distintas situaciones. En particular, en uno se resuelve la parte de bultos de la entrega de camión de transporte, que es un caso en el que hay que agregar métodos en objetos que ya vienen definidos de partes anteriores de la consigna.  
+  Los otros dos son de dos características del lenguaje que sirven para poder "escribir más corto" algunas cosas.
+
+  **Hay entrega obligatoria esta semana**. Pero cambiamos la modalidad de la entrega. Deberán formar grupos de hasta 4 integrantes como máximo y la entrega será **oblitatoria** en un repositorio de Git. 
+  
+  [**Formación de grupos para las entregas**](https://forms.gle/CSziyj6jn7KqZ3tR9) Deben completar el formulario con un nombre de grupo que definan, a qué comision pertenecen los integrantes y los apellidos y nombres de cada integrante del grupo. **No** se pueden mezclar alumnos de las comisiones y los grupos pueden ser de hasta 4 personas, no pueden ser más de 4 y tampoco queremos que sea individual. Por favor que un solo integrante complete el formulario con todos los datos del grupo dentro del formulario lo antes posible.
+ 
+  En la entrega de esta semana hay un punto que es desafío que esta muy bueno para discutir en grupo. Este es un extra, no "sube nota", no vamos a tomar nada parecido en el examen. Es para quienes quieran y tengan el tiempo y la cabeza de ir metiéndose con otras cosas. 
+  
+  **Atención**  
+  Recuerden que los sábados a las 15 hs Joaquín se conecta al siguiente [link](https://meet.google.com/wga-oetp-gqx) para la clase de apoyo. Es muy importante que se conecten, hablen de programción, hagan pruebas, discutan soluciones, propongan mejoras de la cursada, etc.
+  También tienen siempre discord y campus.
+
+
+
+videos:
+  - nombre: ¿Cómo es esto del polimorfismo ahora que tenemos clases e instancias? 
+    url: https://youtu.be/Wy6odKeE-4o
+  - nombre: var property, una forma de ahorrarse un poco de código
+    url: https://youtu.be/A5YahcZZ7Is
+  - nombre: resolución de bultos en camión de transporte - hay que agregarle más consultas a objetos que ya teníamos
+    url: https://youtu.be/c27MMRweTZM
+  - nombre: expresión ternaria - un lindo truquito para escribir un poco menos, y entender un poco más
+    url: https://youtu.be/1XdYc-91Vtg
+
+
+
+conferencia:
+  horarios: Tenemos **dos** Comisiones. Ingresar al link que corresponde a su comisión.
+ 
+  horario0: Martes 05 de Octurbe, a partir de las 18.15 con Gerardo Gonzalez Tulian 
+  url0: https://meet.google.com/ome-vhnw-vin
+
+  horario1: Martes 05 de Octubre, a partir de las 18.00 con Lucas Spigariol 
+  url1: https://meet.google.com/haa-wciy-mrt
+
+
+entrega:
+  fecha: 2021-10-11T23:59
+  ejercicios:
+    - name: Bicicletas
+      repo: https://github.com/obj1-unahur-2021s2/bicis
+      comentarios: 
+        - name: Indicar nombre del grupo, repositorio de entrega.
+          repo: https://forms.gle/PHY3iW3sSjdr7PRr9
+
+
+ejercicios:
+  - name: Servicios profesionales
+    repo: obj1-unahur-2021s1/serviciosProfesionales
+    comentarios:
+    - name: uno para definir muchas clases, con partes picantitas para resolver
