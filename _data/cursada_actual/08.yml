@@ -42,7 +42,7 @@ entrega:
   fecha: 2021-10-11T23:59
   ejercicios:
     - name: Bicicletas
-      repo: https://github.com/obj1-unahur-2021s2/bicis
+      repo: obj1-unahur-2021s2/bicis
       comentarios: 
         - name: Indicar nombre del grupo, repositorio de entrega.
           repo: https://forms.gle/PHY3iW3sSjdr7PRr9
