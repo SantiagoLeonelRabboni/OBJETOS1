@@ -1,0 +1,44 @@
+descripcion: |
+  Se encuentra publicada la consigna de trabajo práctico grupal que repasaremos en conjunto las dos comisiones a las 20:00 hs.
+
+  Dejamos el ejercicio **Vendedores** para todos aquellos alumnos que quieran seguir practicando, y además subiremos algunos resueltos adicionales para que puedan revisar el código.
+
+  **Temas Importante**  
+   * El enunciado del parcial se publicará a las 18:00 hs. del día 09 de Noviembre del 2021. A las 18:30 hs los docentes nos conectaremos para hacer un repaso en conjunto del enunciado y responder a dudas y consultas.
+   * TP grupal, la fecha de entrega será el día 16 de Noviembre a las 18:00 hs. 
+
+  
+videos:
+  - nombre: Clases y métodos abstractos -  Naves Espaciales Parte V
+    url: https://youtu.be/fo558IPpuXI
+  - nombre: Template method - Naves Espaciales Parte VI
+    url: https://youtu.be/0CI01a77_K0
+  - nombre: Lo mismo aplicado a una consulta (en lugar de indicación) -  Naves Espaciales Parte VII
+    url: https://youtu.be/8Bzgo8Kr0ro
+
+
+conferencia:
+  horarios: Esta semana las 2 comisiones nos juntamos en el siguiente meet
+ 
+  horario1: Martes 26 de Noviembre, a partir de las 20.00.
+  url1: https://meet.google.com/ome-vhnw-vin
+
+entrega:
+  fecha: 2021-11-16T18:00
+  ejercicios:
+    - name: TP - Wollok-Game
+      repo: obj1-unahur-2021s2/aventurasGame
+      comentarios: 
+        - name: Es obligatorio entregar en un repositorio de git. Los niveles 1 y 2 son obligatorios
+
+ejercicios:
+  - name: Vendedores
+    repo: obj1-unahur/vendedores_2019s2
+    comentarios: 
+      - name: Ejercicio sin resolver para practicar
+  - name: Plagas (Resuelto Joaquin)
+    repo: obj1-unahur-2019s1/plagas-JoaquinPettinari
+    comentarios: 
+      -name: Ejercicio resuelto para practicar
+
+
