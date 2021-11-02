@@ -13,6 +13,11 @@ descripcion: |
   
 
 videos:
+  - nombre: Grabación Clase IX - C1 - 12-10-2021
+    url: https://youtu.be/TCYEct9R3nE
+  - nombre: Grabación Clase IX - C2 - 12-10-2021
+    url: https://youtu.be/glnkO7T8Lp0   
+  - nombre: Herencia -  Naves Espaciales Parte I
   - nombre: Herencia Parte 1 - una clase puede heredar de otra
     url: https://youtu.be/SA7s_yIk-fc
   - nombre: Herencia Parte 2 - super

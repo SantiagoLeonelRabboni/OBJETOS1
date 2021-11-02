@@ -1,0 +1,21 @@
+descripcion: |
+  **Hoy tenemos clase presencial**
+  
+  Vamos a prácticar para el parcial de la próximo semana y responderemos consultas sobre el trabajo práctico.
+
+  **TEMA PARCIAL** El enunciado del parcial se publicará a las 18:00 hs. del día 09 de Noviembre del 2021. A las 18:30 hs los docentes nos conectaremos para hacer un repaso en conjunto del enunciado y responder a dudas y consultas.
+     
+ 
+conferencia:
+  horarios: Los alumos de ambas comisiones que sigan la clase de manera virtual deberán conectarse a un único link
+ 
+  horario1: Martes 02 de Noviembre, a partir de las 18.15.
+  url1: https://meet.google.com/ome-vhnw-vin
+
+ejercicios:
+  - name: Cumbre de Software 
+    repo: obj1-unahur-2021s2/CumbreSoftware-PracticaParcial
+    comentarios: 
+        - name: Ejercicio de entrenamiento para el parcial
+     
+

@@ -17,6 +17,8 @@ descripcion: |
 
 
 videos:
+  - nombre: Grabación Clase VIII - C2 - 05-10-2021
+    url: https://youtu.be/GiPmVO3_hoM
   - nombre: ¿Cómo es esto del polimorfismo ahora que tenemos clases e instancias? 
     url: https://youtu.be/Wy6odKeE-4o
   - nombre: var property, una forma de ahorrarse un poco de código

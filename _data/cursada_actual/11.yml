@@ -9,6 +9,8 @@ descripcion: |
 
   
 videos:
+  - nombre: Presentación del trábajo práctico
+    url: https://youtu.be/c9odpygZ8y0
   - nombre: Clases y métodos abstractos -  Naves Espaciales Parte V
     url: https://youtu.be/fo558IPpuXI
   - nombre: Template method - Naves Espaciales Parte VI
