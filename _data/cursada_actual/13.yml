@@ -1,0 +1,21 @@
+descripcion: |
+  **Parcial**
+  El enunciado del parcial se publicará el 09 de Noviembre del 2021 a las 17:30 aprox. para que los alumnos (ambas comisiones) puedan comenzar a leerlo y anotar dudas y/o consultas. 
+  Los docentes nos conectaremos a las 18.15 al link de la clase virtual para hacer un repaso en conjunto del enunciado y permaneceremos en línea hasta la hora de finalización.
+
+  Recuerden que la entrega del codigo fuente debe ser en un repositorio git, pero como debemos saber el nombre del reposiotrio y a quién le pertenece les vamos a pedir completar un formulairo con la URL del repositorio de entrega, Apellido y Nombre y además la comisón donde curso.
+ 
+
+conferencia:
+  horarios: Alumnos de Ambas comisiones - Parcial 
+ 
+  horario1: Martes 09 de Noviembre, a partir de las 18.15.
+  url1: https://meet.google.com/ome-vhnw-vin
+
+ejercicios:
+  - name: Parcial 
+    repo: obj1-unahur-2021s2/ParcialSemillas
+    comentarios: 
+        - name: Completar, link al repositorio GIT de entrega, datos personales y comisión
+        - repo: https://forms.gle/V7BkePFpfQi1z4sS6
+
