@@ -1,6 +1,6 @@
 # Contrato pedagógico
 
-> Todo lo aquí expuesto está (o debería estar) en consonancia con las [normativas](http://www.unahur.edu.ar/es/normativas) de la Universidad. En particular, te recomendamos que leas al menos una vez en tu carrera el [régimen de convivencia](http://www.unahur.edu.ar/sites/default/files/contenidos/pdf/normativa/RCS%20Nro.%20093%2012-12-2018%20R%C3%A9gimen%20de%20Convivencia.pdf) y el [régimen académico](http://www.unahur.edu.ar/sites/default/files/contenidos/pdf/normativa/RCS%20Nro.%20092%2012-12-2018%20Mod.%20R%C3%A9gimen%20Acad%C3%A9mico.pdf).
+> Todo lo aquí expuesto está (o debería estar) en consonancia con las [normativas](http://www.unahur.edu.ar/es/normativas) de la Universidad. En particular, te recomendamos que leas al menos una vez en tu carrera el [régimen de convivencia](https://unahur.edu.ar/wp-content/uploads/2022/03/RCS-Nro.-093-12-12-2018-Regimen-de-Convivencia.pdf) y el [régimen académico](https://unahur.edu.ar/wp-content/uploads/2022/03/RCS.-Nro.-027-Aprueba-Modificacion-del-Regimen-Academico.pdf).
 >
 > Es responsabilidad de todos los actores cumplir y hacer cumplir ambas normativas, te pedimos por favor que hables con nosotros si pensás que estamos fallando en algo.
 
