@@ -3,13 +3,13 @@ layout: landing
 ---
 
 ## Muy Importante antes de comenzar
-Si todavía no lo hiciste y antes de seguír leyendo por favor completa el [formulario de arranque de cursada](https://forms.gle/G2pd2ZAMTx2RK7MB6)
+Si todavía no lo hiciste y antes de seguír leyendo por favor completa el [formulario de arranque de cursada](https://forms.gle/rqa9YfDq3rPRMHi88)
 
 ## ¡Bienvenido/a!
 
 Si llegaste hasta este sitio es muy probable que estes inscripto en **Programación con Objetos I**, en la Licenciaturo o Tecnicatura en Informática de la **Universidad Nacional de Hurlingham**. Aquí encontrarás _casi_ todo lo necesario para tu cursada. Decimos _casi_ porque hay mucho material que "vive" en otras páginas, pero este sitio funcionará como punto de partida para llegar allí.
 
-Arrancamos el cuatrimestre con una modalidad de cursada mixta, donde tendremos clases virtuales y clases presenciales. Hay que estar atento al cronograma de la cursada para saber cuando debemos conectarnos virtualemnte o vernos presencialmente.
+Arrancamos el cuatrimestre con una modalidad de cursada mixta, donde tendremos clases virtuales y clases presenciales. Hay que estar atento al [cronograma](https://docs.google.com/spreadsheets/d/19FZB2t00NWQ7dwygWRktajAV2mjbeTOqePBJ9XRWacw/edit?usp=sharing) de la cursada para saber cuando debemos conectarnos virtualemnte o vernos presencialmente.
 
 Del lado docente, vamos a poner el ingenio que nos salga y la voluntad que tenemos, para que puedan ir entendiendo de qué se trata esto de programar con objetos, y resolviendo los distintos ejercicios que vamos a plantear. 
 
@@ -20,7 +20,7 @@ Si ya viniste varias veces, probablemente quieras ir a la sección [cursada](/cu
 
 ## Datos de las cursada
 
-* Modalidad Mixta (Ver Cronograma). 
+* Modalidad Mixta - [Cronograma de Clase](https://docs.google.com/spreadsheets/d/19FZB2t00NWQ7dwygWRktajAV2mjbeTOqePBJ9XRWacw/edit?usp=sharing). 
 * 2 Comisiones (C1-Mañana / C2-Noche), pero es la misma materia y utilizamos la misma página.
 * Un docente principal por comisión con clases independientes. 
 * Este cuantrimestre los profesores somos [Gerardo González](https://youtu.be/Mz30L5TGsfY), **Lucas Spigariol**

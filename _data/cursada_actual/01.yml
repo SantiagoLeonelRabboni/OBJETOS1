@@ -1,14 +1,10 @@
 descripcion: |
   Comenzaremos trabajando con las guías de **Mumuki** pero antes vas a tener que hacer lo siguiente:
-    * Registrarte ingresando en [Mumuki](https://mumuki.io/login) utilizando el mail que tenes registrado en el campus universitario.
-    * Una vez registrado podes acceder directamente al curso de la materia ingresando en [UnaHur-Obj1](https://mumuki.io/login?organization=unahur-obj1)
-    * **Importante:** podés registrarte con tu cuenta de Google pero recorda que debe ser la misma que tenes registrada en el campus del la universidad o crearte una nueva dentro de Mumuki con mail registrado en el campus de la universidad y contraseña. 
+    * Registrarte ingresando en [Mumuki](https://mumuki.io/login). podés registrarte con tu cuenta de Google  o crearte una nueva dentro de Mumuki con un mail y contraseña que debes recordar para volver a ingresar. 
+    * Una vez registrado debes unirte al curso de la materia ingresando en [UnaHur-Obj1](https://mumuki.io/unahur-obj1/join/Yw_Nxg)
+    * **Importante:** Luego para ingresar siempre directamente al curso podes entrar por el link que hay en la esquina superior derecha de página que dice [Mumuki](https://mumuki.io/login?organization=unahur-obj1&origin=%2Funahur-obj1)
 
 videos:
-  - nombre: Grabación Clase I (C1 y C2) 10-08-2021
-    url: https://www.youtube.com/watch?v=6GNxJv0-qnQ
-  - nombre: Presentación
-    url: https://youtu.be/CbZ_PCGGnxA
   - nombre: Qué es un objeto, qué es un mensaje
     url: https://youtu.be/zZe0AaSKdyo
   - nombre: Interactuamos con un objeto
@@ -19,15 +15,15 @@ videos:
     
 
 conferencia:
-  horario0: Martes 17 de Agosto, de 18.15 a 20.45 aprox., Gerardo Gonzalez Tulian 
-  url0: https://meet.google.com/ome-vhnw-vin
+  horario0: Martes 29 de Marzo, a partir de las 18.00 , Gerardo Gonzalez Tulian 
+  url0: Presencial
 
-  horario1: Martes 17 de Agosto, de 18.15 a 20.45 aprox., Lucas Spigariol 
-  url1: https://meet.google.com/haa-wciy-mrt
+  horario1: Miércoles 30 de Marzo, a parir de las 8.30 hs., Lucas Spigariol 
+  url1: Presencial
 
 
 entrega:
-  fecha: 2021-08-16T23:59
+  fecha: 2022-04-02T23:59
   mumuki:
     - nombre: Multipepita la golondrina
       url: https://mumuki.io/unahur-obj1/lessons/731-objetos-y-mensajes-acompanamiento-multipepita-etapa-1
