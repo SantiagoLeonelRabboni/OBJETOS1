@@ -15,12 +15,10 @@ videos:
     
 
 conferencia:
-  horario0: Martes 29 de Marzo, a partir de las 18.00 , Gerardo Gonzalez Tulian 
-  url0: Presencial
+  horario0: Presencial - Martes 29 de Marzo, a partir de las 18.00 , Gerardo Gonzalez Tulian 
 
-  horario1: Miércoles 30 de Marzo, a parir de las 8.30 hs., Lucas Spigariol 
-  url1: Presencial
-
+  horario1: Presencial - Miércoles 30 de Marzo, a parir de las 8.30 hs., Lucas Spigariol 
+ 
 
 entrega:
   fecha: 2022-04-02T23:59

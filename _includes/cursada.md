@@ -8,7 +8,7 @@
 
 {% if semana.videos %}
 ### Videos
-
+Dejamos aquí algunos videos de cursadas anteriores que sirven para repasar y también subiremos las grabaciones de las clases virtuales
 {% for video in semana.videos %}
 {% if video.url %}
 * [{{video.nombre}}]({{video.url}}). 
@@ -29,19 +29,19 @@
 {% endif %}
 
 {% if semana.conferencia.horario0 %}
-**Comisión C1**: {{semana.conferencia.horario0}}
+**Comisión Noche**: {{semana.conferencia.horario0}}
 {% endif %}
 
 {% if semana.conferencia.url0 %}
-**Link C1**: [entrar acá]({{semana.conferencia.url0}})
+**Link Noche**: [entrar acá]({{semana.conferencia.url0}})
 {% endif %}
 
 {% if semana.conferencia.horario1 %}
-**Comisión C2**: {{semana.conferencia.horario1}}
+**Comisión Mañana**: {{semana.conferencia.horario1}}
 {% endif %}
 
 {% if semana.conferencia.url1 %}
-**Link C2**: [entrar acá]({{semana.conferencia.url1}})
+**Link Mañana**: [entrar acá]({{semana.conferencia.url1}})
 {% endif %}
 
 {% if semana.conferencia.horario2 %}
