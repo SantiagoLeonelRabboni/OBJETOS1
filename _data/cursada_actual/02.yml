@@ -25,10 +25,9 @@ conferencia:
   horarios: Tenemos **dos** Comisiones. Ingresar al link que corresponde a su comisión.
  
   horario0: Martes 5 de Abrir a partir de las 18.15hs, Gerardo Gonzalez Tulian 
-  url0: meet.google.com/bqn-hnzu-jzj
-
+  url0: https://meet.google.com/bqn-hnzu-jzj
   horario1: Miercoles 6 de Abril a partir de las 08:30 hs, Lucas Spigariol 
-  url1: meet.google.com/grn-dehz-bwn
+  url1: https://meet.google.com/grn-dehz-bwn
 
 
 entrega:
