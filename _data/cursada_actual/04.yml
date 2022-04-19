@@ -33,14 +33,14 @@ entrega:
   fecha: 2022-04-25T23:59
   ejercicios:
     - name: Viajes en auto
-      repo: https://classroom.github.com/a/bRSmeMeP
+      classroom: https://classroom.github.com/a/bRSmeMeP
       comentarios: 
         - name: Entregar realizando un push al reposotorio inidividual del Class-room
 
 
 ejercicios:
   - name: Game Básico
-    repo: https://classroom.github.com/a/TD9eQaA5
+    classroom: https://classroom.github.com/a/TD9eQaA5
     comentarios: 
         - name: Trabajamos en Clase con Game y practicamos push al Class-room
 
