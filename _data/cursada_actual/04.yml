@@ -1,0 +1,59 @@
+descripcion: |
+  Esta semana seguimos trabajando los conceptos que ya vimos, y comenzamos a jugar con  Wollok Game.
+  
+  En clase vamos a trabajar con Game y dejamos 2 videos adicionales e intentaremos hacer alguna clase especial sobre este tema.
+
+  La entrega obligatoria de esta semana viene potente, por favor consideren que les puede llevar un rato.
+  Por favor, no se olviden, quienes ¡todavía! no tengan instalado Wollok, háganlo.
+
+  A partir de esta semana los ejercicios se presentan como repositorios GitHub. 
+  
+  Uno de los ejercicios es la entrega de esta semana. ¿Cómo se entrega? Realizando un push al repositorio del Class Room personal de cada alumne.
+
+
+videos:
+  - nombre: Arrancando con Wollok Game 1
+    url: https://youtu.be/9mBGMNL4SXE
+  - nombre: Arrancando con Wollok Game 2
+    url: https://youtu.be/ZWN_gFg2fK8
+  - nombre: Referencias - usando el ejercicio de gustos.
+    url: https://youtu.be/CGO3htDNY-8
+  - nombre: Empanadas Giménez parte 1 - Giménez, dos empleados, un test
+    url: https://youtu.be/Kalojrle0kk
+  - nombre: Empanadas Giménez parte 2 - que hace cada empleado cuando cobra, uso de self
+    url: https://youtu.be/3dWYlQw6TXA
+
+
+
+conferencia:
+  horario0: Presencial - Martes 19 de Abril, a partir de las 18.00 , Gerardo Gonzalez Tulian 
+  horario1: Presencial - Miércoles 20 de Abril, a parir de las 8.30 hs., Lucas Spigariol 
+
+entrega:
+  fecha: 2022-04-25T23:59
+  ejercicios:
+    - name: Viajes en auto
+      repo: https://classroom.github.com/a/bRSmeMeP
+      comentarios: 
+        - name: Entregar realizando un push al reposotorio inidividual del Class-room
+
+
+ejercicios:
+  - name: Game Básico
+    repo: https://classroom.github.com/a/TD9eQaA5
+    comentarios: 
+        - name: Trabajamos en Clase con Game y practicamos push al Class-room
+
+  - name: Spa
+    repo: obj1-unahur-2021s1/spa-2022s1
+    comentarios:
+      - name: Para practicar en casa (No es del Class-room)
+
+    
+  - name: Gustos 
+    repo: obj1-unahur-2021s1/gustos-2021s1
+    comentarios: 
+      - name: El mismo que está en Mumuki (No es del Class-room)
+
+
+
