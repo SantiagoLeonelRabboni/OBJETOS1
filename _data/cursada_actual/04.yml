@@ -12,6 +12,8 @@ descripcion: |
 
 
 videos:
+  - nombre: Grabación de la clase del sábado 24 de Abril dictada por Hernan
+    url: https://youtu.be/REV8h34yNY8
   - nombre: Arrancando con Wollok Game 1
     url: https://youtu.be/9mBGMNL4SXE
   - nombre: Arrancando con Wollok Game 2
@@ -55,5 +57,14 @@ ejercicios:
     comentarios: 
       - name: El mismo que está en Mumuki (No es del Class-room)
 
+  - name: Pac-Man 
+    repo: hernanconiglio/pacmanBasicGame/tree/03-movimiento
+    comentarios: 
+      - name: Repo PAC-MAN clase 24-Abril - Branch Movimiento
+
+  - name: Dino 
+    repo: wollok/DinoGame
+    comentarios: 
+      - name: Repo DINO - Clase Lucas
 
 
