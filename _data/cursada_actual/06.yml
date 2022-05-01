@@ -1,0 +1,46 @@
+descripcion: |
+  Esta semana reforzamos el trabajo con **colecciones**, en particular trabajamos con consignas un poco más complejas en las que se necesita usar colecciones para resolverlas.  
+
+  Hay dos videos de cuatrimestres anteriores donde volvemos sobre el ejercicio de golosinas, para entender qué hicimos comparando la visión interna, que se ve en el diagrama dinámico, con la externa, que se ve en el código. 
+  
+  
+  Volvemos a machacar sobre los conceptos básicos: división de tareas en distintos objetos, contrato, polimorfismo, definición del estado (la memoria) de un objeto.  
+  En el último, repasamos las operaciones que resuelven recorridos, y planteamos cómo usar la idea de tipo para elegir cuál de las operaciones (filter / map / all / any / etc.) usar en cada caso. La noción de tipo los va a acompañar durante toda su carrera como programadores, es importante que se vayan haciendo amigues.
+  
+  La entrega obligatoria de esta semana también viene bastante más picante, tienen que manejar una colección de objetos que ustedes tienen que programar. 
+
+  
+
+videos:
+  - nombre: Grabación de la clase virtual del Sábado 30-Abr-2022 realizada por Hernan.
+    url: https://www.youtube.com/watch?v=qEQLjAUZXG4
+    url: https://youtu.be/G1fothPss-Y
+  - nombre: Visiones interna y externa - modelo más complejo, se agrega lucila.
+    url: https://youtu.be/okf2VCfjvx4
+  - nombre: Pensar en los tipos para elegir qué operación me resuelve un recorrido.
+    url: https://youtu.be/cLfp2T_LSjg
+
+
+conferencia:
+  horario0: Presencial - Martes 19 de Abril, a partir de las 18.00 , Gerardo Gonzalez Tulian 
+  horario1: Presencial - Miércoles 20 de Abril, a parir de las 8.30 hs., Lucas Spigariol 
+
+
+entrega:
+  fecha: 2022-05-09T23:59
+  ejercicios:
+    - name: Camión de transporte
+      classroom: https://classroom.github.com/a/ElxHNSno
+      comentarios: 
+        - name: Hagan todos los test que consideren necesarios sobre las colecciones
+
+mumuki:
+  - nombre: Tipos
+    url: https://mumuki.io/unahur-obj1/lessons/514-colecciones-los-tipos
+    ejercicios: Esta es rápida, son 5 multiple choice y uno de checks. Es para leer y entender. Practica lo que se cuenta en el video sobre tipos.
+  - nombre: Mensajeros
+    url: https://mumuki.io/unahur-obj1/lessons/512-colecciones-primera-practica-objetos-y-colecciones
+    ejercicios: Pueden hacer todos, es otro ejercicio para practicar definición de objetos y uso de colecciones.
+  
+    
+
