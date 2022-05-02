@@ -22,15 +22,15 @@ videos:
 
 
 conferencia:
-  horario0: Presencial - Martes 19 de Abril, a partir de las 18.00 , Gerardo Gonzalez Tulian 
-  horario1: Presencial - Miércoles 20 de Abril, a parir de las 8.30 hs., Lucas Spigariol 
+  horario0: Presencial - Martes 03 de Mayo, a partir de las 18.00 , Gerardo Gonzalez Tulian 
+  horario1: Presencial - Miércoles 04 de Mayo, a parir de las 8.30 hs., Lucas Spigariol 
 
 
 entrega:
   fecha: 2022-05-09T23:59
   ejercicios:
     - name: Camión de transporte
-      classroom: https://classroom.github.com/a/ElxHNSno
+      classroom: https://classroom.github.com/a/zxPiID52
       comentarios: 
         - name: Hagan todos los test que consideren necesarios sobre las colecciones
 
