@@ -20,6 +20,8 @@ videos:
     url: https://youtu.be/I6bOjRAr3Wo
   - nombre: Grabación de la clase virtual del Sábado 07-Mayo-2022 realizada por Hernan
     url: https://youtu.be/JGfmtFsN90Q
+  - nombre: Grabación de la clase virtual del Martes 10-Mayo-2022 realizada por Gerardo
+    url: https://youtu.be/9E0VGAEMXxM
 
 conferencia:
   horarios: Tenemos **dos** Comisiones. Ingresar al link que corresponde a su comisión.
@@ -38,7 +40,13 @@ ejercicios:
     comentarios:
     - name: Sobre el final se vuelve bien áspero. Para quienes estén con ganas, y tiempo, de desafíos.
 
+  - name: Flotas de rodados (Solucion)
+    repo: obj1-unahur-2022s1/flotaderodados-gonzager
+    comentarios:
+    - name: Solucion Martes 10-05 (Sin Desafíos)
+
   - name: Infraestructura ferroviaria
     repo: obj1-unahur-2022s1/infraFerroviaria
     comentarios:
     - name: otro buen ejercicio para practicar lo que venimos viendo.
+
