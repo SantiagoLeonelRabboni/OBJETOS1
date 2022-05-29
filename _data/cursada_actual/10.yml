@@ -1,0 +1,52 @@
+descripcion: |
+  Esta semana seguimos trabajando el concepto de **Herencia de Clases**. Entramos en el terreno donde es necesario afianzar los conocimientos adquiridos y comprender la diferencia entre lo dinámico/estado (las instancias) y lo estático/código (las clases).
+  Hay varios videos que complementan y cierran el tema **Herencia de Clases** con nuevos conceptos como lookup method.
+
+  La entrega **grupal obligatoria** de esta semana es el ejercicio **Oktubre Fest**, Es obligatorio entregar hasta los requerimientos de la segunda parte inclusive con **fecha límite 13-Junio**. No se dejen estar y todos los que quieran y puedan hagan los requerimientos avanzandos y el bonus así siguen practicado.
+
+  Y hablando de lo que falta, el parcial será el **Martes 21 y Miércoles 22 de Junio** y la proxima semana se presenta el trabajo práctico grupal de Wollok Game.
+  
+  Como es habitual, también les dejamos otros ejercicios complementarios y algunos resueltos para seguir practicando y mejorando.
+
+videos:
+  - nombre: Herencia -  Naves Espaciales Parte I
+    url: https://youtu.be/hmO-G8OLuXY
+  - nombre: Herencia - Naves Espaciales Parte II
+    url: https://youtu.be/5orRG9AW4b8
+  - nombre: Herencia -  Naves Espaciales Parte III
+    url: https://youtu.be/fFf9Kxu9PWs
+  - nombre: Herencia - Naves Espaciales Parte IV
+    url: https://youtu.be/FDhPs8Gqsz8
+  - nombre: dinámico/estado (las instancias) vs lo estático/código (las clases)
+    url: https://youtu.be/DfzCqQnT5g0
+
+
+conferencia:
+  horarios: Tenemos **dos** Comisiones. Ingresar al link que corresponde a su comisión.
+ 
+  horario0: Martes 31 de Mayo a partir de las 18.15hs, Gerardo Gonzalez Tulian 
+  url0: https://meet.google.com/bqn-hnzu-jzj
+
+  horario1: Martes 01 de Junio a partir de las 08:30 hs, Lucas Spigariol 
+  url1: https://meet.google.com/grn-dehz-bwn
+
+
+entrega:
+  fecha: 2022-06-13T23:59
+  ejercicios:
+    - name: Oktubre Fest
+      classroom: https://classroom.github.com/a/nEBfrT0j
+      comentarios: 
+        - name: Es obligatorio entregar hasta los requerimientos de la segunda parte inclusive.
+
+ejercicios:
+  - name: Naves Espaciales
+    repo: obj1-unahur-2020s1/navesEspaciales-clase
+    comentarios: 
+        - name: Ejercicio para practicar herencia de clases
+  - name: Flota Rodados con Game (Resuelto)
+    repo: obj1-unahur/flotasDeRodadosConGameResuelto
+    comentarios: 
+        - name: Resuelto hasta etapa 4 sin tests.
+      
+
