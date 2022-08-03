@@ -37,11 +37,11 @@ Dejamos aquí algunos videos de cursadas anteriores que sirven para repasar y ta
 {% endif %}
 
 {% if semana.conferencia.horario1 %}
-**Comisión Mañana**: {{semana.conferencia.horario1}}
+**Comisión Tarde**: {{semana.conferencia.horario1}}
 {% endif %}
 
 {% if semana.conferencia.url1 %}
-**Link Mañana**: [entrar acá]({{semana.conferencia.url1}})
+**Link Tarde**: [entrar acá]({{semana.conferencia.url1}})
 {% endif %}
 
 {% if semana.conferencia.horario2 %}
