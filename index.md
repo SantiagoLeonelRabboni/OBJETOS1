@@ -23,7 +23,7 @@ Si ya viniste varias veces, probablemente quieras ir a la sección [cursada](/cu
 * Modalidad Mixta - [Cronograma de Clase](https://docs.google.com/spreadsheets/d/1FTLWZ96uVd8V1xNkm2wvaUHhfS9MiC_LEomQYwJhI6I/edit?usp=sharing). 
 * 2 Comisiones (C1-Tarde / C2-Noche), pero es la misma materia y utilizamos la misma página.
 * Un docente principal por comisión con clases independientes. 
-* Este cuantrimestre los profesores somos [Gerardo González](https://youtu.be/Mz30L5TGsfY), **Lucas Spigariol** y **Hernán Coniglio**
+* Este cuantrimestre los profesores somos [Gerardo González](https://youtu.be/Mz30L5TGsfY), **Lucas Spigariol** y [Hernán Coniglio](https://youtu.be/iPU9JsnCkB0)
 * Vamos a tener distintas alternativas de horarios para consultas y práctica.
 
 ## Canales de comunicación
