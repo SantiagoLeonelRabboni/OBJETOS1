@@ -25,6 +25,7 @@ Si ya viniste varias veces, probablemente quieras ir a la sección [cursada](/cu
 * Un docente principal por comisión con clases independientes. 
 * Este cuantrimestre los profesores somos [Gerardo González](https://youtu.be/Mz30L5TGsfY), **Lucas Spigariol** y [Hernán Coniglio](https://youtu.be/iPU9JsnCkB0)
 * Vamos a tener distintas alternativas de horarios para consultas y práctica.
+* Las clases de apoyo de los días sábados de 15 a 17hs serán virtuales, en el siguiente link permanente: [Link clases sábados](https://meet.google.com/ova-hohx-gzf). Recomendamos utilizar  la cuenta de mail de UNaHur para ingresar directo.
 
 ## Canales de comunicación
 
