@@ -89,7 +89,7 @@ La fecha límite para la entrega de esta semana es el <strong>{% include fecha-f
 
 ### Ejercicios de Mumuki
 
-Te recomendamos resolver las guías:
+Te dejamos ejercicios para trabajar en clase y en casa:
 {% assign guias = semana.mumuki %}
 {% include ejercicios-mumuki.md guias=guias %}
 
