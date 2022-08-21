@@ -1,0 +1,41 @@
+descripcion: |
+  Esta semana viene con mucho para pensar y repasar sobre lo que hablamos en las clases anteriores.
+  En algunos casos hay un objeto que tiene que memorizar algo, y hay que decidir en qué objeto hay que agregar un atributo, y qué valor conviene recordar. 
+  A veces, el valor de un atributo es un objeto definido por nosotros, en lugar de un número o un booleano como era hasta ahora.
+  También aparece el polimorfismo y la necesidad de respetar contratos. 
+  Tema nuevo: los tests.
+  Como siempre te dejamos videos de cursadas anteriores. En los videos hay distintos casos de interacción entre distintos objetos.
+
+videos:
+  - nombre: El modelo de Pepita se extiende - Roque el entrenador, y dos amigas de Pepita
+    url: https://youtu.be/1RlwP_WLHRg
+  - nombre: Práctica sobre lo que venimos viendo - Pepita viajera
+    url: https://youtu.be/COoSQb9JuyQ
+  - nombre: Creamos nuevos objetos - las temporadas de Mar del Plata en Pepita viajera
+    url: https://youtu.be/7QRWdouBcsY
+  - nombre: Introducción a los tests automático
+    url: https://youtu.be/1BNEa7ma5cA
+
+conferencia:
+  horario0: Presencial - Martes 23 de Agosto, a partir de las 18hs. en Laboratorio 4 de edificio Malvinas Argentinas. Prof. Gerardo Gonzalez Tulian y Hernán Coniglio
+
+  horario1: Presencial - Jueves 25 de Agosto, a parir de las 14 hs. en Laboratorio 4 de edificio Malvinas Argentinas. Prof. Lucas Spigariol 
+
+
+ejercicios:
+  - name: Juego Personajes y Elementos
+    repo: obj1-unahur-2022s2/juego-personajes-elementos
+    classroom: https://classroom.github.com/a/cqUhnb-e
+    comentarios: 
+      - name: Lo resolvemos y practicamos los test
+
+mumuki:
+  - nombre: Gustos
+    url: https://mumuki.io/unahur-obj1/lessons/736-objetos-y-mensajes-acompanamiento-gustos
+    ejercicios: El 1 quienes no les salió, ya están para hacer 2 y 3
+  - nombre: Atributos 
+    url: https://mumuki.io/unahur-obj1/lessons/499-objetos-y-mensajes-atributos
+    ejercicios: Todos
+  - nombre: Personas y barrios - qué anda, qué no, cuánto da
+    url: https://mumuki.io/unahur-obj1/lessons/482-objetos-y-mensajes-personas-y-barrios-que-anda-que-no-cuanto-da
+    ejercicios: Todos
