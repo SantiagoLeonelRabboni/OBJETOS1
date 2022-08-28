@@ -1,0 +1,70 @@
+descripcion: |
+  Esta semana seguimos trabajando los conceptos que ya vimos, y comenzamos a jugar con  Wollok Game. 
+  Les dejamos 2 videos cortos introductorios sobre este tema para que los vean antes de las clases virtuales de martes y jueves.
+
+  ¡ATENCIÓN! Esta semana hay entrega obligatoria y los ejercicios vienen potentes... ya precalentamos motores y llegó el momento de pisar el acelerador.
+  Por favor, no se olviden, quienes ¡todavía! no tengan instalado Wollok, háganlo hoy mismo!
+
+  A partir de ahora, todos los ejercicios se presentan como repositorios GitHub, es decir, asignaciones dentro del classroom de la materia. 
+  No es más que lo que venimos practicando en clase presecial y virtual sobre GIT.
+  
+  La forma de entrega de esta semana será realizando push al repositorio del Class Room personal de cada alumno/a antes de la fecha límite indicada. Pasado ese día, no les permitirá realizar el push.
+
+
+videos:
+  - nombre: Arrancando con Wollok Game 1
+    url: https://youtu.be/9mBGMNL4SXE
+  - nombre: Arrancando con Wollok Game 2
+    url: https://youtu.be/ZWN_gFg2fK8
+  - nombre: Referencias - usando el ejercicio de gustos.
+    url: https://youtu.be/CGO3htDNY-8
+  - nombre: Empanadas Giménez parte 1 - Giménez, dos empleados, un test
+    url: https://youtu.be/Kalojrle0kk
+  - nombre: Empanadas Giménez parte 2 - que hace cada empleado cuando cobra, uso de self
+    url: https://youtu.be/3dWYlQw6TXA
+
+
+
+conferencia:
+  horario0: Martes 30 de Agosto (virtual) a partir de las 18.15hs, Gerardo Gonzalez Tulian 
+  url0: https://meet.google.com/rqd-oxgm-wtr
+  horario1: Jueves 1 de Septiembre (virtual) a partir de las 14:00 hs, Lucas Spigariol 
+  url1: https://utn.zoom.us/j/88137014356?pwd=WkhFTEFTZXBDWUkxaDFRTVhkWTR3QT09
+
+entrega:
+  fecha: 2022-09-05T23:59
+  ejercicios:
+    - name: Personajes Frutas y Juegos
+      classroom: https://classroom.github.com/a/WppsHCDO
+      comentarios: 
+        - name: Entregar realizando un push al reposotorio inidividual del Class-room (no olviden hacer los test!)
+
+
+ejercicios:
+  - name: Viajes en auto
+    classroom: https://classroom.github.com/a/RJAojZPV
+    comentarios: 
+      - name: Para practicar en casa y hacer push al reposotorio inidividual del Class-room (hagan los test también)
+
+
+  - name: Game Básico
+    classroom: https://classroom.github.com/a/dqvXmQyw
+    comentarios: 
+        - name: Trabajamos en Clase con Game y practicamos push al Class-room
+
+  - name: Spa
+    classroom: https://classroom.github.com/a/K3H255pr
+    comentarios:
+      - name: Para practicar en clase.
+
+  - name: Pac-Man 
+    repo: hernanconiglio/pacmanBasicGame/tree/03-movimiento
+    comentarios: 
+      - name: Repo juego básico PAC-MAN - Branch Movimiento
+
+  - name: Dino 
+    repo: wollok/DinoGame
+    comentarios: 
+      - name: Repo juego DINO
+
+
