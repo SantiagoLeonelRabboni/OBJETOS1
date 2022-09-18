@@ -1,0 +1,39 @@
+descripcion: |
+  Esta semana empezamos a trabajar con **clases**, un concepto que nos va a permitir tener muchos objetos que comparten su definición de memoria y métodos. Esto para poder tener por ej. muchos chocolatines sin tener que definir los objetos `chocolatin1`, `chocolatin2`, etc..
+
+  Hay varios videos de curdadas anteriores sobre clases, son cuatro. Además de ir agregando conceptos, se va repitiendo la idea principal varias veces, traten de mirárselos en orden.
+
+  Esta clase vamos a practicar el ejercicio Flota de Rodados que es bastante largo y se pone bueno con los desafíos. También dejamos otro para que puedan practicar es sus casas que es Infraestrcutura Ferroviaria. 
+  
+  Aunque NO hay entrega obligatoria intenten resolverlo solos, no se vuelvan locos, cada uno hace hasta donde puede y sus circunstancias lo permitan.
+
+
+videos:
+
+  - nombre: clases - motivación - Mariano quiere 3 caramelos
+    url: https://youtu.be/m-D-Q6BNNfE
+  - nombre: clases - concepto e introducción - muchos caramelos para Mariano
+    url: https://youtu.be/uFdeBhzaXBA
+  - nombre: clases - cómo usarlas en los tests
+    url: https://youtu.be/0pggtvrIXYY
+  - nombre: clases - cómo es el self ahora que tenemos clases
+    url: https://youtu.be/I6bOjRAr3Wo
+
+conferencia:
+  horario0: PRESENCIAL - Martes 20 de Septiembre, a partir de las 18hs. en Laboratorio 4 de edificio Malvinas Argentinas. Prof. Gerardo Gonzalez Tulian y Hernán Coniglio
+
+  horario1: PRESENCIAL - Jueves 22 de Septiembre, a parir de las 14 hs. en Laboratorio 4 de edificio Malvinas Argentinas. Prof. Lucas Spigariol 
+
+
+ejercicios:
+
+  - name: Flotas de rodados - Con Desafíos
+    classroom: https://classroom.github.com/a/_gluV6D8
+    comentarios:
+    - name: Sobre el final se vuelve bien áspero. Para quienes estén con ganas, y tiempo, de desafíos.
+
+  - name: Infraestructura ferroviaria
+    classroom: https://classroom.github.com/a/7fncv8A_
+    comentarios:
+    - name: otro buen ejercicio para practicar lo que venimos viendo.
+
