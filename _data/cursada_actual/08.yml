@@ -1,0 +1,51 @@
+descripcion: |
+  Esta semana paramos un poco la pelota, y reforzamos el trabajo con los conceptos vistos hasta ahora, integrando clases e instancias y retomamos Wollok Game. **Si, vamos a trabajar con clases dentro de Wollok Game**.
+
+  Algunos de los videos de cuatrimestres anteriores son para seguir pensando y trabajando los conceptos que vimos, y cómo aplicarlos a resolver distintas situaciones. En particular, en uno se resuelve la parte de bultos de la entrega de camión de transporte, que es un caso en el que hay que agregar métodos en objetos que ya vienen definidos de partes anteriores de la consigna.  
+  Los otros dos son de dos características del lenguaje que sirven para poder "escribir más corto" algunas cosas.
+
+  **Hay una nueva entrega obligatoria**. Pero cambiamos la modalidad de la entrega. Deberán formar grupos de hasta 4 integrantes como máximo.
+  
+  Deben completar el siguiente [**formulario**](https://forms.gle/HdjWDvoR1zx46yedA) con un nombre de grupo que definan, a qué comision pertenecen los integrantes y los apellidos y nombres de cada integrante del grupo. **No** se pueden mezclar alumnos de las comisiones y los grupos pueden ser de hasta 4 personas, no pueden ser más de 4 y tampoco queremos que sea individual. Por favor que un solo integrante complete el formulario con todos los datos del grupo dentro del formulario lo antes posible.
+ 
+  Luego en el **classroom** solo uno de los integrantes crea el grupo colocando el nombre y presionando el boton "Create team". Esto crea el repositorio para el grupo y luego el resto de los integrantes simplemente se unen (join) a grupo al que pertencen.
+
+  En la entrega de esta semana hay un punto que es desafío que esta muy bueno para discutir en grupo. Este es un extra, no "sube nota", no vamos a tomar nada parecido en el examen. Es para quienes quieran y tengan el tiempo y la cabeza de ir metiéndose con otras cosas. 
+  
+  **Atención**  
+  Recuerden que esta semana volvemos al sábado a las 15 hs en el [link](https://meet.google.com/ova-hohx-gzf) para las clases de apoyo. Es muy importante que se conecten, hablen de programción, hagan pruebas, discutan soluciones, propongan mejoras de la cursada, etc.
+  
+
+
+videos:
+  - nombre: ¿Cómo es esto del polimorfismo ahora que tenemos clases e instancias? 
+    url: https://youtu.be/Wy6odKeE-4o
+  - nombre: var property, una forma de ahorrarse un poco de código
+    url: https://youtu.be/A5YahcZZ7Is
+  - nombre: resolución de bultos en camión de transporte - hay que agregarle más consultas a objetos que ya teníamos
+    url: https://youtu.be/c27MMRweTZM
+  - nombre: expresión ternaria - un lindo truquito para escribir un poco menos, y entender un poco más
+    url: https://youtu.be/1XdYc-91Vtg
+
+
+conferencia:
+  horario0: Martes 27 de Septiembre (VIRTUAL) 18.00hs, Gerardo Gonzalez Tulian 
+  url0: https://meet.google.com/rqd-oxgm-wtr
+  horario1: Jueves 29 de Septiembre (VIRTUAL) 14:00 hs, Hernán Coniglio
+  url1: https://meet.google.com/ova-hohx-gzf
+
+
+entrega:
+  fecha: 2022-10-03T23:59
+  ejercicios:
+    - name: Ecosistemas Espaciales
+      classroom: https://classroom.github.com/a/BkDZiSnN
+      comentarios: 
+        - name: Un solo miembro debe crear el grupo con el nombre que definieron y cargaron en el formulario y el resto se debe unir al grupo correspondiente. 
+
+
+ejercicios:
+  - name: Servicios profesionales
+    repo: obj1-unahur-2021s1/serviciosProfesionales
+    comentarios:
+    - name: uno para definir muchas clases, con partes picantitas para resolver
