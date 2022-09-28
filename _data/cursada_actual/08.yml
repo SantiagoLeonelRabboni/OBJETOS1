@@ -6,7 +6,7 @@ descripcion: |
 
   **Hay una nueva entrega obligatoria**. Pero cambiamos la modalidad de la entrega. Deberán formar grupos de hasta 4 integrantes como máximo.
   
-  Deben completar el siguiente [**formulario**](https://forms.gle/HdjWDvoR1zx46yedA) con un nombre de grupo que definan, a qué comision pertenecen los integrantes y los apellidos y nombres de cada integrante del grupo. **No** se pueden mezclar alumnos de las comisiones y los grupos pueden ser de hasta 4 personas, no pueden ser más de 4 y tampoco queremos que sea individual. Por favor que un solo integrante complete el formulario con todos los datos del grupo dentro del formulario lo antes posible.
+  Deben completar el siguiente [**formulario**](https://forms.gle/HdjWDvoR1zx46yedA) con un nombre de grupo que definan, a qué comision pertenecen los integrantes y los apellidos y nombres de cada integrante del grupo y usuario de github. **No** se pueden mezclar alumnos de las comisiones y los grupos pueden ser de hasta 4 personas, no pueden ser más de 4 y tampoco queremos que sea individual. Por favor que un solo integrante complete el formulario con todos los datos del grupo lo antes posible.
  
   Luego en el **classroom** solo uno de los integrantes crea el grupo colocando el nombre y presionando el boton "Create team". Esto crea el repositorio para el grupo y luego el resto de los integrantes simplemente se unen (join) a grupo al que pertencen.
   
@@ -24,7 +24,8 @@ videos:
     url: https://youtu.be/c27MMRweTZM
   - nombre: expresión ternaria - un lindo truquito para escribir un poco menos, y entender un poco más
     url: https://youtu.be/1XdYc-91Vtg
-
+  - nombre: Grabación de la clase virtual del martes 27 de Septiembre (Clases e instancias)
+    url: https://youtu.be/mflskOHsriY
 
 conferencia:
   horario0: Martes 27 de Septiembre (VIRTUAL) 18.00hs, Gerardo Gonzalez Tulian 
