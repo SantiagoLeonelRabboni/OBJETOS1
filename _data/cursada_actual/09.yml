@@ -1,0 +1,41 @@
+descripcion: |
+  Entramos en la recta final de la cursada donde las cosas se ponen muy intersantes en la materia.
+
+  Esta semana comenzamos con el último concepto fuerte de la cursada: **Herencia**. Hay dos videos bien puntuales sobre esto, otro video más para seguir aprendiendo técnicas de codificación.
+
+  En esta oportunidad **NO** hay entrega obligatoria pero igualmente puden y deben practicar con el ejercicio **Plagas**, no es un ejercicio muy pesado pero atentos porque incorpora el concepto de **Herencia**. 
+  También les dejamos otro ejercicio complementario para seguir practicando el tema nuevo de la semana.
+
+  Ya vamos a ir pensando en el trabajo práctico final que será también en grupos de hasta 4 personas.
+  Pueden ser los mismos grupos que hicieron el TP de la semana previa. 
+  
+  **Importante**  
+  Intenten practicar con en Git de forma colaborativa, si tienen algún problema ya saben que tienen la sesión de consulta de los sábados o puden utilizar el canal de consultas de Discord.
+  
+
+videos:
+  - nombre: Herencia Parte 1 - una clase puede heredar de otra
+    url: https://youtu.be/SA7s_yIk-fc
+  - nombre: Herencia Parte 2 - super
+    url: https://youtu.be/xCwNJ8N0bGs
+  - nombre: Herencia Parte 3 - jerarquía de herencia
+    url: https://youtu.be/akiTj8ZZhPU
+  - nombre: Nueva Instancia dentro de una expresión
+    url: https://youtu.be/01ewdTUk658
+
+
+conferencia:
+  horario0: PRESENCIAL - Martes 04 de Octubre, a partir de las 18hs. en Laboratorio 4 de edificio Malvinas Argentinas. Prof. Gerardo Gonzalez Tulian y Hernán Coniglio
+
+  horario1: PRESENCIAL - Jueves 06 de Octubre, a parir de las 14 hs. en Laboratorio 4 de edificio Malvinas Argentinas. Prof. Lucas Spigariol 
+
+
+ejercicios:
+  - name: Golosinas - clases y herencia
+    repo: obj1-unahur-2022s2/golosinas-clases-2022s2
+    comentarios: 
+        - name: El ejercicio que usamos en los videos de herencia, para que lo puedan practicar. Están implementadas las clases de cada golosina, está para arrancar con el enunciado.
+  - name: Plagas
+    repo: obj1-unahur-2022s2/plagas
+    comentarios: 
+      - name: Ejercio con el cual deben practicar durante la semana herencia y modelado.
