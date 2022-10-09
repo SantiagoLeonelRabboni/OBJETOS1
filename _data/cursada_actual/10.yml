@@ -1,0 +1,45 @@
+descripcion: |
+  Esta semana seguimos trabajando el concepto de **Herencia de Clases**. Entramos en el terreno donde es necesario afianzar los conocimientos adquiridos y comprender la diferencia entre lo dinámico/estado (las instancias) y lo estático/código (las clases).
+  Hay varios videos que complementan y cierran el tema **Herencia de Clases** con nuevos conceptos como lookup method.
+
+  La entrega **grupal obligatoria** de esta semana es el ejercicio **Oktubre Fest**, Es obligatorio entregar hasta los requerimientos de la segunda parte inclusive con **fecha límite 17-Octubre**. No se dejen estar y todos los que quieran y puedan hagan los requerimientos avanzandos y el bonus así siguen practicado.
+
+  Y hablando de lo que falta, el parcial será el **Martes 01 y Jueves 03 de Noviembre** y la siguiente semana se presenta el trabajo práctico grupal de Wollok Game.
+  
+  **ATENCIÓN**: La clase de apoyo del sábado 15/10/22 se pasa al: **Jueves 13/10 a las 19hs.**
+
+
+videos:
+  - nombre: Herencia -  Naves Espaciales Parte I
+    url: https://youtu.be/hmO-G8OLuXY
+  - nombre: Herencia - Naves Espaciales Parte II
+    url: https://youtu.be/5orRG9AW4b8
+  - nombre: Herencia -  Naves Espaciales Parte III
+    url: https://youtu.be/fFf9Kxu9PWs
+  - nombre: Herencia - Naves Espaciales Parte IV
+    url: https://youtu.be/FDhPs8Gqsz8
+  - nombre: dinámico/estado (las instancias) vs lo estático/código (las clases)
+    url: https://youtu.be/DfzCqQnT5g0
+
+
+conferencia:
+  horario0: Martes 11 de Octubre (VIRTUAL) 18.00hs, Gerardo Gonzalez Tulian 
+  url0: https://meet.google.com/rqd-oxgm-wtr
+  horario1: Jueves 13 de Octubre (VIRTUAL) 14:00 hs, Lucas Spigariol 
+  url1: https://utn.zoom.us/j/88137014356?pwd=WkhFTEFTZXBDWUkxaDFRTVhkWTR3QT09
+
+
+entrega:
+  fecha: 2022-10-17T23:59
+  ejercicios:
+    - name: Oktubre Fest
+      classroom: https://classroom.github.com/a/qcSgYRxi
+      comentarios: 
+        - name: Es obligatorio entregar hasta los requerimientos de la segunda parte inclusive. 
+
+ejercicios:
+  - name: Naves Espaciales
+    classroom: https://classroom.github.com/a/fZcAHPPV
+    comentarios: 
+        - name: Ejercicio para practicar herencia de clases
+
