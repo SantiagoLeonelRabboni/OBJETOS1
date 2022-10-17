@@ -20,7 +20,10 @@ videos:
     url: https://youtu.be/FDhPs8Gqsz8
   - nombre: dinámico/estado (las instancias) vs lo estático/código (las clases)
     url: https://youtu.be/DfzCqQnT5g0
-
+  - nombre: Grabación de la primera parte de clase virtual del martes 11 de Octubre (Strategy && Herencia)
+    url: https://youtu.be/CSqi4XWhcVk
+  - nombre: Grabación de la segunda parte de clase virtual del martes 11 de Octubre (ejercicio Naves Espaciales (Clases y Herencia))
+    url: https://youtu.be/1ZJt5-EFfww
 
 conferencia:
   horario0: Martes 11 de Octubre (VIRTUAL) 18.00hs, Gerardo Gonzalez Tulian 

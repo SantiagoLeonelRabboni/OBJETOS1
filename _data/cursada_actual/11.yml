@@ -1,0 +1,43 @@
+descripcion: |
+  Arrancamos el último TP que será con Wollok Game, y en esta optortunidad **NO** hay enunciado.
+  El juego que debe programar cada equipo es de libre elección. Puede ser cualquier juego que uds quieran implementar, algo totalmente nuevo o replicar un juego que ya existe como por ejemplo el Tetrix. Apelamos a su creatividad pero para conseguir algo de inspiración pueden revisar en la página de wollok donde hay varios juegos y ejemplos.
+  
+  Dejamos publicado el ejercicio **La Huerta de Toni (Game)** para seguir practicando.
+
+  **Temas Importantes**  
+   * El parcial será el **Martes 1 y Jueves 3 de Noviembre**
+   * TP GAME grupal, la fecha de entrega será para la clase Nº 14 (8 y 10 de Noviembre).
+
+
+  
+videos:
+  - nombre: Clases y métodos abstractos -  Naves Espaciales Parte V
+    url: https://youtu.be/fo558IPpuXI
+  - nombre: Template method - Naves Espaciales Parte VI
+    url: https://youtu.be/0CI01a77_K0
+  - nombre: Lo mismo aplicado a una consulta (en lugar de indicación) -  Naves Espaciales Parte VII
+    url: https://youtu.be/8Bzgo8Kr0ro
+
+
+
+conferencia:
+  horario0: PRESENCIAL - Martes 18 de Octubre, a partir de las 18hs. en Laboratorio 4 de edificio Malvinas Argentinas. Prof. Gerardo Gonzalez Tulian y Hernán Coniglio
+
+  horario1: PRESENCIAL - Jueves 20 de Octubre, a parir de las 14 hs. en Laboratorio 4 de edificio Malvinas Argentinas. Prof. Lucas Spigariol 
+
+
+entrega:
+  fecha: 2022-11-07T23:59
+  ejercicios:
+    - name: TP Integrador Wollok Game (Grupal)
+      classroom: https://classroom.github.com/a/ByRYu-TW
+      comentarios: 
+        - name: TP de entrega obligatoria. El juego que debe programar cada equipo es de libre elección. 
+
+ejercicios:
+  - name: Huerta de Toni (Game)
+    classroom: https://classroom.github.com/a/qve5Bvmw
+    comentarios: 
+        - name: Ejercicio para practicar con Game. El objetivo es que puedan practicar con el lenguaje y con la herramienta. El juego es una versión simplificada del juego de la huerta de Toni. 
+
+
