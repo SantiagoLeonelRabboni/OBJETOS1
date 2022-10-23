@@ -1,0 +1,19 @@
+descripcion: |
+  Esta semana vamos a seguir practicando para el parcial y responderemos consultas sobre el trabajo práctico. Recuerden que tenemos también el [canal de Discord](https://discord.com/channels/656909199510601744/1005464519377694721) para consultas y dudas.
+
+     
+ 
+conferencia:
+  horario0: Martes 25 de Octubre (VIRTUAL) 18.00hs, Gerardo Gonzalez Tulian 
+  url0: https://meet.google.com/rqd-oxgm-wtr
+  horario1: Jueves 27 de Octubre (VIRTUAL) 14:00 hs, Lucas Spigariol 
+  url1: https://utn.zoom.us/j/88137014356?pwd=WkhFTEFTZXBDWUkxaDFRTVhkWTR3QT09
+
+
+ejercicios:
+  - name: Razas de la Tierra Media  
+    repo: obj1-unahur-2022s2/PrototipoRazasTierraMedia
+    comentarios: 
+        - name: Ejercicio de entrenamiento para practicar herencia de clases y colecciones
+     
+
