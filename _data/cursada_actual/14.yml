@@ -1,0 +1,27 @@
+descripcion: |
+  ### Comisión 2 (Martes de 18 a 22)
+  Ya están todas las correcciones de los parciales de la comisión 2 (martes a la noche). Encontrarán el pull request con la nota y los comentarios en el repositorio del ejercicio de parcial de cada uno de los alumnos, con un branch llamado "correcciones".
+
+    **Importante**  
+   * **Obligatoriamente** deben recuperar todos aquellos alumnos que se sacaron nota menor a **4**. **Opcionalmente** pueden recuperar aquellos alumnos que se sacaron notas entre **4 y 6** para evitar el examen integrador.
+  
+  Para la entrega y defensa de los trabajos prácticos nos vamos a conectar en un horario especifico con cada grupo. En el horario asignado tienen que estar todos los integrantes conectados al meet habitual de las clases virtuales de los martes a la noche ([link martes](https://meet.google.com/rqd-oxgm-wtr)), y la presentación será de 20 minutos aproximadamente cada grupo.
+  
+  **Horarios Defensa TP Comisión Martes (por grupo)**  
+    * **grupo.aprobado() - 18.30 hs** (FAUTARIO L.; LA CAVA J.; MARTIN J.; RODRIGUEZ C.)
+    * **Objetiva Mente - 18.50 hs** (DE RITO G.; SELVA M.; MATALLANA D.; VILLAR M. )
+    * **Los Jojobros - 19.10 hs** (BRAVETTI J.; CRAVERO M.; DEPAULO F.; MUÑOZ F)
+    * **Manga de Objetos - 19.30 hs** (BAELLO L; DUBUIS P; SANCHEZ S)
+    * **house of object - 19.50 hs** (CABERO A; LOIACONO N.; MOGNO J; PELOZO E.)
+    * **test - 20.10 hs** (GARCIA A.; RODRIGUEZ J.)
+    
+  ### Comisión 1 (Jueves de 14 a 18)
+  Tal como fue anunciado la semana pasada, el parcial será **PRESENCIAL** el día **Jueves 10 de Noviembre** en el Laboratorio 4 de edificio Malvinas Argentinas.
+
+
+conferencia:
+  horario0: VIRTUAL - Martes 8 de Noviembre, a partir de las 18:30hs. Por turnos de Grupos.
+  url0: https://meet.google.com/rqd-oxgm-wtr
+
+
+  horario1: PARCIAL PRESENCIAL - Jueves 10 de Noviembre, a parir de las 14 hs. en Laboratorio 4 de edificio Malvinas Argentinas. Prof. Lucas Spigariol 
