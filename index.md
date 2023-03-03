@@ -3,7 +3,7 @@ layout: landing
 ---
 
 ## Muy Importante antes de comenzar
-Si todavía no lo hiciste y antes de seguír leyendo por favor completa el [formulario de arranque de cursada](https://forms.gle/Tsi45YTJBnPLVt3T7)
+Si todavía no lo hiciste y antes de seguír leyendo por favor completa el [formulario de arranque de cursada](https://forms.gle/M4Ay1wZoo1uhiG3T8)
 
 ## ¡Bienvenido/a!
 
