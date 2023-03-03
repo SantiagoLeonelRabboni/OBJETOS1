@@ -7,9 +7,9 @@ Si todavía no lo hiciste y antes de seguír leyendo por favor completa el [form
 
 ## ¡Bienvenido/a!
 
-Si llegaste hasta este sitio es muy probable que estes inscripto en **Programación con Objetos I**, en la Licenciatura o Tecnicatura en Informática de la **Universidad Nacional de Hurlingham**. Aquí encontrarás _casi_ todo lo necesario para tu cursada. Decimos _casi_ porque hay mucho material que "vive" en otras páginas, pero este sitio funcionará como punto de partida para llegar allí.
+Si llegaste hasta este sitio es muy probable que estes inscripto en **Programación con Objetos I**, de la Licenciatura en Informática y/o Tecnicatura en Programación de la **Universidad Nacional de Hurlingham**. Aquí encontrarás _casi_ todo lo necesario para tu cursada. Decimos _casi_ porque hay mucho material que "vive" en otras páginas, pero este sitio funcionará como punto de partida para llegar allí.
 
-Arrancamos el cuatrimestre con una modalidad de cursada mixta, donde tendremos clases virtuales y clases presenciales. Hay que estar atento al [cronograma](https://docs.google.com/spreadsheets/d/1FTLWZ96uVd8V1xNkm2wvaUHhfS9MiC_LEomQYwJhI6I/edit?usp=sharing) de la cursada para saber cuando debemos conectarnos virtualemnte o vernos presencialmente.
+Arrancamos el cuatrimestre con una modalidad de cursada mixta, donde tendremos clases virtuales y clases presenciales. Hay que estar atento al [cronograma](https://docs.google.com/spreadsheets/d/1sZLzv_JN1kZeS35DMAUPCQhrWjenc_-VqbywLGje3B4/edit?usp=sharing) de la cursada para saber cuando debemos conectarnos virtualemnte o vernos presencialmente.
 
 Del lado docente, vamos a poner el ingenio que nos salga y la voluntad que tenemos, para que puedan ir entendiendo de qué se trata esto de programar con objetos, y resolviendo los distintos ejercicios que vamos a plantear. 
 
@@ -20,12 +20,11 @@ Si ya viniste varias veces, probablemente quieras ir a la sección [cursada](/cu
 
 ## Datos de las cursada
 
-* Modalidad Mixta - [Cronograma de Clase](https://docs.google.com/spreadsheets/d/1FTLWZ96uVd8V1xNkm2wvaUHhfS9MiC_LEomQYwJhI6I/edit?usp=sharing). 
-* 2 Comisiones (C1-Tarde / C2-Noche), pero es la misma materia y utilizamos la misma página.
+* Modalidad Mixta - [Cronograma de Clase](https://docs.google.com/spreadsheets/d/1sZLzv_JN1kZeS35DMAUPCQhrWjenc_-VqbywLGje3B4/edit?usp=sharing). 
+* 2 Comisiones (C1-Turno Noche / C2-Turno Mañana), pero es la misma materia y utilizamos la misma página.
 * Un docente principal por comisión con clases independientes. 
 * Este cuatrimestre los profesores somos [Gerardo González](https://youtu.be/Mz30L5TGsfY), **Lucas Spigariol** y [Hernán Coniglio](https://youtu.be/iPU9JsnCkB0)
-* Vamos a tener distintas alternativas de horarios para consultas y práctica.
-* Las clases de apoyo de los días sábados de 15 a 17hs serán virtuales, en el siguiente link permanente: [Link clases sábados](https://meet.google.com/ova-hohx-gzf). Recomendamos utilizar  la cuenta de mail de UNaHur para ingresar directo.
+* Las clases de práctica serán los días jueves, a las 8hs para T.Mañana y 18hs para T.Tarde, alternando presencial y virtual. Encontrarán el detalle semana a semana en la sección [cursada](/cursada).
 
 ## Canales de comunicación
 
