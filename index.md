@@ -32,8 +32,8 @@ Vamos a utilizar esta página para subir material, fechas importantes y todo lo 
 
 Para tener una comunicación más fluida vamos a utilizar un canal de [Discord](https://www.discordapp.com).
 * Si aún no tenes cuenta debes registrarte [ingresando aquí](https://www.discordapp.com)
-* Una vez registrado y dentro de Discord, por única vez y si no lo hiciste antes, debes entrar a este link y asegurarte de seleccionar la materia Objetos 1 para que tengas acceso al canal correspondiente: [Canal Objetos 1](https://discord.gg/RnAwZsSwdw).
+* Una vez registrado y dentro de Discord, por única vez y si no lo hiciste antes, debes entrar a este link y asegurarte de seleccionar la materia Objetos 1 para que tengas acceso al canal correspondiente: [Canal Objetos 1](https://discord.gg/dkTB8wff).
 
-Aunque toda la comunicación sobre la materia irá apareciendo en esta página, por si llegaste hasta acá desde un enlace externo a la Unahur, te dejamos el link al [campus de la Universidad](https://campus-act.unahur.edu.ar/). Es importante que también lo revises regularmente si sos estudiante de esta Universidad.
+Aunque toda la comunicación sobre la materia irá apareciendo en esta página, por si llegaste hasta acá desde un enlace externo a la Unahur, te dejamos el link al [campus de la Universidad](https://campus2023.unahur.edu.ar/login/index.php ). Es importante que también lo revises regularmente si sos estudiante de esta Universidad.
 
 
