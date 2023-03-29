@@ -2,6 +2,8 @@ descripcion: |
   Comenzaremos trabajando con las guías de **Mumuki** pero antes vas a tener que hacer lo siguiente:
     * Registrarte al aula ingresando en [Mumuki-UnaHur-Obj1](https://mumuki.io/unahur-obj1/join/MAAhaw). Podés registrarte con tu cuenta de Google o crearte una nueva dentro de Mumuki con un mail y contraseña que debes recordar para volver a ingresar. 
     * **Importante:** Luego para ingresar siempre directamente al curso podes entrar por el link que hay en la esquina superior derecha de página que dice [Mumuki](https://mumuki.io/login?organization=unahur-obj1&origin=%2Funahur-obj1)
+  
+  Durante esta semana, también vamos a comenzar a trabajar con **GIT**. Para eso, vas a tener que clonarte el repositorio aceptando la asignación que figura más abajo como **GIT - Presentación Personal**. Si aún no estás registrado en github, en el momento que intentes aceptar la asignación se te indicará como resistrarte. Es muy importante que tomes nota del usuario con el que te vas a registrar, el email y la contraseña. Luego veremos que también será necesario generar un token para utilizar GIT en tu PC o en las PCs de la Universidad. Te dejamos un video de una clase donde vimos el paso a paso sobre como registrarse y usar GIT.
 
 videos:
   - nombre: Qué es un objeto, qué es un mensaje
@@ -17,22 +19,32 @@ videos:
 
 conferencia:
   horario1: <br>
-            - Lunes 27 de Marzo -> **PRESENCIAL** a parir de las 08.00hs. - Laboratorio 3 en 1er piso edificio Malvinas Argentinas (Origone 101) - Lucas Spigariol <br>
-            - Jueves 30 de Marzo -> **VIRTUAL** a parir de las 08.00hs. - Link -> **A CONFIRMAR**
+            - (***Lunes 27 de Marzo***) -> **PRESENCIAL** a parir de las 08.00hs. - Laboratorio 3 en 1er piso edificio Malvinas Argentinas (Origone 101) - Lucas Spigariol <br>
+            - (***Jueves 30 de Marzo***) -> **VIRTUAL** a parir de las 08.00hs. - Link -> [**Link JueTMañ**](https://utn.zoom.us/j/88137014356?pwd=WkhFTEFTZXBDWUkxaDFRTVhkWTR3QT09)
   
   horario0: <br>
-            - Martes 28 de Marzo -> **PRESENCIAL** a partir de las 18.00hs. - Laboratorio 3 en 1er piso edificio Malvinas Argentinas (Origone 101) - Profesor Gerardo Gonzalez Tulian <br>
-            - Jueves 30 de Marzo -> **VIRTUAL** a parir de las 18.00hs. - Link -> [**Link JueTNoc**](https://meet.google.com/rqd-oxgm-wtr)
+            - (***Martes 28 de Marzo***) -> **PRESENCIAL** a partir de las 18.00hs. - Laboratorio 3 en 1er piso edificio Malvinas Argentinas (Origone 101) - Profesor Gerardo Gonzalez Tulian <br>
+            - (***Jueves 30 de Marzo***) -> **VIRTUAL** a parir de las 18.00hs. - Link -> [**Link JueTNoc**](https://meet.google.com/rqd-oxgm-wtr)
 
   
  
 
 entrega:
   fecha: 2023-04-02T23:59
+
+  ejercicios:
+    - name: GIT - Presentación Personal
+      classroom: https://classroom.github.com/a/H6OcuMyg
+      comentarios: 
+        - name: Entregar realizando un push al reposotorio inidividual del Class-room
+
+
   mumuki:
     - nombre: Multipepita la golondrina
       url: https://mumuki.io/unahur-obj1/lessons/731-objetos-y-mensajes-acompanamiento-multipepita-etapa-1
       ejercicios: Obligatorios 1 y 2. Opcionales 3 y 4
+
+
 
 mumuki:
   - nombre: Conociendo a los objetos
