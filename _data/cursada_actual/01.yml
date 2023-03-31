@@ -14,7 +14,8 @@ videos:
     url: https://youtu.be/aAfjr8-1-0Y
   - nombre: Primeros pasos con GIT. Grabación de la clase del 13 de agosto'22 dictada por Hernan Coniglio, con la colaboración de Matias Müller, Valentino Chiappanni y Lucas Bonadeo
     url: https://youtu.be/jTuVrHznu2g
-
+  - nombre: Clase práctica día 30 de marzo de 2023 (T.Noche 18hs) con repaso sobre cuestiones administrativas de la materia, revisión de algunos ejercicios de Mumuki, + explicación del uso básico de GIT en la resolución de la entrega de esta semana "GIT - Presentacion Personal".
+    url: https://youtu.be/fVXF178OhIs
   
 conferencia:
   horario1: <br>
@@ -26,7 +27,14 @@ conferencia:
             - (***Jueves 30 de Marzo***) -> **VIRTUAL** a parir de las 18.00hs. - Link -> [**Link JueTNoc**](https://meet.google.com/rqd-oxgm-wtr)
 
   
- 
+mumuki:
+  - nombre: Conociendo a los objetos
+    url: https://mumuki.io/unahur-obj1/lessons/687-objetos-y-mensajes-conociendo-a-los-objetos
+    ejercicios: Guía completa, los 12 ejercicios
+  - nombre: Métodos y estados 
+    url: https://mumuki.io/unahur-obj1/lessons/489-objetos-y-mensajes-metodos-y-estado
+    ejercicios: Hasta el 12 inclusive. Bonus 13 y 14.
+
 
 entrega:
   fecha: 2023-04-02T23:59
@@ -45,10 +53,3 @@ entrega:
 
 
 
-mumuki:
-  - nombre: Conociendo a los objetos
-    url: https://mumuki.io/unahur-obj1/lessons/687-objetos-y-mensajes-conociendo-a-los-objetos
-    ejercicios: Guía completa, los 12 ejercicios
-  - nombre: Métodos y estados 
-    url: https://mumuki.io/unahur-obj1/lessons/489-objetos-y-mensajes-metodos-y-estado
-    ejercicios: Hasta el 12 inclusive. Bonus 13 y 14.
