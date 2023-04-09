@@ -1,0 +1,47 @@
+descripcion: |
+  Esta semana viene con mucho para pensar y repasar sobre lo que hablamos en las clases anteriores.
+  En algunos casos hay un objeto que tiene que memorizar algo, y hay que decidir en qué objeto hay que agregar un atributo, y qué valor conviene recordar. 
+  A veces, el valor de un atributo es un objeto definido por nosotros, en lugar de un número o un booleano como era hasta ahora.
+  También aparece el polimorfismo y la necesidad de respetar contratos. 
+  <br>*Tema nuevo*: **los tests**.
+  Como siempre te dejamos videos de cursadas anteriores. En los videos hay distintos casos de interacción entre distintos objetos.
+  <br>Y por último, **ya deberían tener todos instalado y funcionando el IDE de Wollok**. Esta semana hay un ejercicio para practicar y en clase vamos a ver como se realiza el clonado de repos desde el mismo IDE (ya hemos practicado usando la terminal)
+
+videos:
+  - nombre: El modelo de Pepita se extiende - Roque el entrenador, y dos amigas de Pepita
+    url: https://youtu.be/1RlwP_WLHRg
+  - nombre: Práctica sobre lo que venimos viendo - Pepita viajera
+    url: https://youtu.be/COoSQb9JuyQ
+  - nombre: Creamos nuevos objetos - las temporadas de Mar del Plata en Pepita viajera
+    url: https://youtu.be/7QRWdouBcsY
+  - nombre: Introducción a los tests automáticos
+    url: https://youtu.be/1BNEa7ma5cA
+
+
+conferencia:
+  horario1: <br>
+            - (***Lunes 10 de Abril***) -> **PRESENCIAL** a parir de las 08.00hs. - Laboratorio 3 en 1er piso edificio Malvinas Argentinas (Origone 101) - Lucas Spigariol <br>
+            - (***Jueves 13 de Abril***) -> **PRESENCIAL** a parir de las 08.00hs. - Laboratorio 3 en 1er piso edificio Malvinas Argentinas (Origone 101) - Lucas Spigariol <br>
+  
+  horario0: <br>
+            - (***Martes 11 de Abril***) -> **PRESENCIAL** a parir de las 18.00hs. - Laboratorio 3 en 1er piso edificio Malvinas Argentinas (Origone 101) - Gerardo Gonzalez Tulian <br>
+            - (***Jueves 13 de Abril***) -> **Clase VIRTUAL** a parir de las 18.00hs. - Link -> [**Link**](https://meet.google.com/jkq-pvcy-nfh) <br>
+
+
+
+ejercicios:
+  - name: Juego Personajes y Elementos
+    classroom: https://classroom.github.com/a/8E4vXu_Q
+    comentarios: 
+      - name: Lo resolvemos y practicamos los test
+
+mumuki:
+  - nombre: Gustos
+    url: https://mumuki.io/unahur-obj1/lessons/736-objetos-y-mensajes-acompanamiento-gustos
+    ejercicios: El 1 quienes no les salió, ya están para hacer 2 y 3
+  - nombre: Atributos 
+    url: https://mumuki.io/unahur-obj1/lessons/499-objetos-y-mensajes-atributos
+    ejercicios: Todos
+  - nombre: Personas y barrios - qué anda, qué no, cuánto da
+    url: https://mumuki.io/unahur-obj1/lessons/482-objetos-y-mensajes-personas-y-barrios-que-anda-que-no-cuanto-da
+    ejercicios: Todos
