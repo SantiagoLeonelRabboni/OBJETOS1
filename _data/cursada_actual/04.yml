@@ -1,0 +1,72 @@
+descripcion: |
+  Esta semana seguimos trabajando los conceptos que ya vimos, y comenzamos a jugar con  Wollok Game. 
+  Les dejamos 2 videos cortos introductorios sobre este tema para que los vean antes de las clases prácticas del jueves.
+
+  ¡ATENCIÓN! Esta semana hay entrega obligatoria y el ejercicio viene potente!... ya precalentamos motores y llegó el momento de pisar el acelerador.
+
+  A partir de ahora, todos los ejercicios se presentan como repositorios GitHub, es decir, asignaciones dentro del classroom de la materia. 
+  Es lo que venimos practicando en clase presecial y virtual sobre GIT, y todos/as debieron haber completado el fomulario de registro de usuario GIT para entregas que indicamos en Discord. Si alguien aún no lo hizo, última oportunidad! Acá va el [**Link al Formulario:**](https://forms.gle/FXdugHZ52xwwLqD27)
+  
+  La forma de entrega de esta semana será realizando push al repositorio del Class Room personal de cada alumno/a **antes de la fecha límite indicada**. Pasado ese día, **no les permitirá realizar ningún push más**. Les conviene ir haciendo commits parciales y push mientras van desarrollando la solución.
+
+
+videos:
+  - nombre: Arrancando con Wollok Game 1
+    url: https://youtu.be/9mBGMNL4SXE
+  - nombre: Arrancando con Wollok Game 2
+    url: https://youtu.be/ZWN_gFg2fK8
+  - nombre: Referencias - usando el ejercicio de gustos.
+    url: https://youtu.be/CGO3htDNY-8
+  - nombre: Empanadas Giménez parte 1 - Giménez, dos empleados, un test
+    url: https://youtu.be/Kalojrle0kk
+  - nombre: Empanadas Giménez parte 2 - que hace cada empleado cuando cobra, uso de self
+    url: https://youtu.be/3dWYlQw6TXA
+
+
+conferencia:
+  horario1: <br>
+            - (***Lunes 17 de Abril***) -> **PRESENCIAL** a parir de las 08.00hs. - Laboratorio 3 en 1er piso edificio Malvinas Argentinas (Origone 101) - Lucas Spigariol <br>
+            - (***Jueves 20 de Abril***) -> **Clase VIRTUAL** a parir de las 08.00hs. - Link -> [**Link**](https://meet.google.com/jkq-pvcy-nfh) <br>
+  
+  horario0: <br>
+            - (***Martes 18 de Abril***) -> **Clase VIRTUAL** a parir de las 18.15hs. - Link -> [**Link**](https://meet.google.com/jkq-pvcy-nfh) <br>
+            - (***Jueves 20 de Abril***) -> **PRESENCIAL** a parir de las 18.00hs. - Laboratorio 3 en 1er piso edificio Malvinas Argentinas (Origone 101) - Hernán Coniglio <br>
+
+
+entrega:
+  fecha: 2023-04-23T23:59
+  ejercicios:
+    - name: Personajes Frutas y Juegos
+      classroom: https://classroom.github.com/a/JGuHMidf
+      comentarios: 
+        - name: Entregar realizando push al reposotorio inidividual del Class-room (no olviden hacer los test!). Podrán hacer los push hasta la fecha/hora límite.
+
+
+ejercicios:
+  - name: Viajes en auto
+    classroom: https://classroom.github.com/a/3fHx_VpE
+    comentarios: 
+      - name: Para practicar en clase y en casa, haciendo el push al reposotorio inidividual del Class-room (hagan los test también)
+
+
+  - name: Game Básico
+    classroom: https://classroom.github.com/a/dqvXmQyw
+    comentarios: 
+        - name: Trabajamos en Clase con Game y practicamos push al Class-room
+
+  - name: Spa
+    classroom: https://classroom.github.com/a/UmnQCoNo
+    comentarios:
+      - name: Para practicar en casa y en clase. Tiene parte de la solución, les queda a Uds completarta y realizar los test.
+
+  - name: Pac-Man 
+    repo: hernanconiglio/pacmanBasicGame/
+    comentarios: 
+      - name: Repo con 3 branches a modo tutorial para hacer en Wollok el juego PAC-MAN (bien básico)
+
+  - name: Dino 
+    repo: wollok/DinoGame
+    comentarios: 
+      - name: Repo juego DINO
+
+
