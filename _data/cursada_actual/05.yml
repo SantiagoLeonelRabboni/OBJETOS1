@@ -1,0 +1,66 @@
+descripcion: 
+  Esta semana NO hay entrega obligatoria. Aprenderemos a usar **colecciones** en la programación con objetos.  
+  Como no podría ser de otra forma, vamos a representar cada colección como un objeto. Los objetos que las representan (listas y conjuntos) "ya vienen" en Wollok, son fáciles de armar, y tienen un montón de mensajes útiles. Recomendamos **muy fuertemente** que se vayan amigando con ellos; lo que usaremos en la materia está en el apunte que figura en esta página, pestaña **Material**, [Guía sobre colecciones y closures](https://objetos1wollokunq.gitlab.io/material/guia-colecciones-basicas.pdf).
+  
+  
+  Muchos de estos mensajes resuelven casos de _recorrido_ sobre colecciones en forma sencilla ... obviamiente, una vez que los aprendemos a usar. Para poder hacer recorridos de esta forma, necesitamos la asistencia de otros objetos, a los que llamamos **closures** o **bloques de código**. 
+  
+  
+  Hay toda una serie de videos cortos sobre el tema de bloques y recorridos que van a encontrar en la sección Videos.
+
+  
+  Aprender a manejar listas y conjuntos, nos permite encarar enunciados un poco más ambiciosos. Incluimos varios ejercicios para practicar y algunos se van resolviendo en los videos. Y también tienen ejercicios en Mumuki para entretenerse.
+
+
+videos:
+
+  - nombre: Introducción a listas
+    url: https://youtu.be/Nm3-USo-p_c
+  - nombre: Qué es eso de los bloques
+    url: https://youtu.be/e0vUqLxhKdA
+  - nombre: Recorridos usando listas y bloques - intro + recorridos con condición
+    url: https://youtu.be/GVr4UA_DgjY
+  - nombre: Recorridos usando listas y bloques - recorridos con transformación
+    url: https://youtu.be/CeSixTiENVU
+  - nombre: Recorridos usando listas y bloques - recorridos con indicación
+    url: https://youtu.be/hX8PMSeryMA
+  - nombre: Conjuntos
+    url: https://youtu.be/vLSs5-OYRIU
+  - nombre: Golosinas - algunas golosinas, varios métodos que usan una lista
+    url: https://youtu.be/sYLPxKc_QmA
+  - nombre: Golosinas - más métodos usando listas
+    url: https://youtu.be/kiQS1hRiowY
+  - nombre: Grabación de la clase virtual del sábado 10 de Septiembre
+    url: https://youtu.be/lGHzAn7t4iI
+
+
+conferencia:
+  horario1: <br>
+            - (***Lunes 24 de Abril***) -> **PRESENCIAL** a parir de las 08.00hs. - Laboratorio 3 en 1er piso edificio Malvinas Argentinas (Origone 101) - Lucas Spigariol <br>
+            - (***Jueves 27 de Abril***) -> **PRESENCIAL** a parir de las 08.00hs. - Laboratorio 3 en 1er piso edificio Malvinas Argentinas (Origone 101) - Lucas Spigariol <br>
+  
+  horario0: <br>
+            - (***Martes 25 de Abril***) -> **PRESENCIAL** a parir de las 18.00hs. - Laboratorio 3 en 1er piso edificio Malvinas Argentinas (Origone 101) - Gerardo Gonzalez Tulian <br>
+            - (***Jueves 27 de Abril***) -> **Clase VIRTUAL** a parir de las 18.00hs. - Link -> [**Link**](https://meet.google.com/jkq-pvcy-nfh) <br>
+
+
+ejercicios:
+  - name: Golosinas 
+    classroom: https://classroom.github.com/a/yT--b3Nb
+    comentarios: 
+      - name: classroom para trabajar en clase
+  - name: Casa de Pepe y Julián
+    classroom: https://classroom.github.com/a/IUBliYFv
+    comentarios: 
+      - name: este vayan haciéndolo parte por parte, se va complicando
+
+mumuki:
+  - nombre: Recorridos
+    url: https://mumuki.io/unahur-obj1/lessons/569-colecciones-recorridos
+    ejercicios: Son dos solitos, háganlos
+  - nombre: Colecciones
+    url: https://mumuki.io/unahur-obj1/lessons/511-colecciones-colecciones
+    ejercicios: Pueden hacer todos, refuerzan lo que se ve en los videos
+  
+    
+
