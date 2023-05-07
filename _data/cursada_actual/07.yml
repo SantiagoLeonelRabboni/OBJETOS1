@@ -1,0 +1,45 @@
+descripcion: |
+  Esta semana empezamos a trabajar con **clases**, un concepto que nos va a permitir tener muchos objetos que comparten su definición de memoria y métodos. Esto para poder tener por ej. muchos chocolatines sin tener que definir los objetos `chocolatin1`, `chocolatin2`, etc..
+
+  Hay varios videos de cursadas anteriores sobre clases, son cuatro. Además de ir agregando conceptos, se va repitiendo la idea principal varias veces, traten de mirárselos en orden.
+
+  Esta clase vamos a practicar el ejercicio Flota de Rodados que es bastante largo y se pone bueno con los desafíos. También dejamos otro para que puedan practicar es sus casas que es Infraestrcutura Ferroviaria. 
+  
+  Aunque NO hay entrega obligatoria esta semana, la recomendación es que los resuelvan; es la forma que tenemos de estudiar en esta materia y recuerden aprovechar el canal de consultas de Discord para discutir soluciones o consultar las dudas.
+
+
+
+
+videos:
+
+  - nombre: clases - motivación - Mariano quiere 3 caramelos
+    url: https://youtu.be/m-D-Q6BNNfE
+  - nombre: clases - concepto e introducción - muchos caramelos para Mariano
+    url: https://youtu.be/uFdeBhzaXBA
+  - nombre: clases - cómo usarlas en los tests
+    url: https://youtu.be/0pggtvrIXYY
+  - nombre: clases - cómo es el self ahora que tenemos clases
+    url: https://youtu.be/I6bOjRAr3Wo
+
+
+conferencia:
+  horario1: <br>
+            - (***Lunes 8 de Mayo***) -> **PRESENCIAL** a parir de las 08.00hs. - Laboratorio 3 en 1er piso edificio Malvinas Argentinas (Origone 101) - Lucas Spigariol <br>
+            - (***Jueves 11 de Mayo***) -> **PRESENCIAL** a parir de las 08.00hs. - Laboratorio 3 en 1er piso edificio Malvinas Argentinas (Origone 101) - Lucas Spigariol <br>
+  
+  horario0: <br>
+            - (***Martes 9 de Mayo***) -> **PRESENCIAL** a parir de las 18.00hs. - Laboratorio 3 en 1er piso edificio Malvinas Argentinas (Origone 101) - Gerardo Gonzalez Tulian <br>
+            - (***Jueves 11 de Mayo***) -> **Clase VIRTUAL** a parir de las 18.00hs. - Link -> [**Link**](https://meet.google.com/jkq-pvcy-nfh) <br>
+
+ejercicios:
+
+  - name: Flotas de rodados - Con Desafíos
+    classroom: https://classroom.github.com/a/e8aemE8x
+    comentarios:
+    - name: Sobre el final se vuelve bien áspero.
+
+  - name: Infraestructura ferroviaria
+    classroom: https://classroom.github.com/a/DON3DV6l
+    comentarios:
+    - name: otro buen ejercicio para practicar lo que venimos viendo.
+
