@@ -1,0 +1,49 @@
+descripcion: |
+  Esta semana paramos un poco la pelota, y reforzamos el trabajo con los conceptos vistos hasta ahora, integrando objetos, clases e instancias.
+
+  Algunos de los videos de cuatrimestres anteriores son para seguir pensando y trabajando los conceptos que vimos, y cómo aplicarlos a resolver distintas situaciones. En particular, en uno se resuelve la parte de bultos de la entrega de camión de transporte, que es un caso en el que hay que agregar métodos en objetos que ya vienen definidos de partes anteriores de la consigna.  
+  Los otros dos son de dos características del lenguaje que sirven para poder "escribir más corto" algunas cosas.
+
+  **Hay una nueva entrega obligatoria**. Pero cambiamos la modalidad de la entrega. Deberán formar grupos de hasta 4 integrantes como máximo.
+  
+  Deben completar el siguiente [**formulario**](https://forms.gle/7yvMfoA7Lxpt3zfC9) con un nombre de grupo que definan, a qué comision pertenecen los integrantes y los apellidos y nombres de cada integrante del grupo y usuario de github. **No** se pueden mezclar alumnos de diferentes comisiones y los grupos pueden ser de hasta 4 personas, no pueden ser más de 4 ni individual. Por favor que un solo integrante complete el formulario con todos los datos del grupo lo antes posible.
+ 
+  Luego en el **classroom** solo uno de los integrantes crea el grupo colocando el nombre y presionando el boton "Create team" en el momento de hacer click en "**Clonar el ejercicio**". Esto crea el repositorio para el grupo y luego el resto de los integrantes simplemente se unen (join) al grupo al que pertencen al momento que van a hacer click en el link del ejercicio de esta página.
+
+
+
+videos:
+  - nombre: ¿Cómo es esto del polimorfismo ahora que tenemos clases e instancias? 
+    url: https://youtu.be/Wy6odKeE-4o
+  - nombre: var property, una forma de ahorrarse un poco de código
+    url: https://youtu.be/A5YahcZZ7Is
+  - nombre: resolución de bultos en camión de transporte - hay que agregarle más consultas a objetos que ya teníamos
+    url: https://youtu.be/c27MMRweTZM
+  - nombre: expresión ternaria - un lindo truquito para escribir un poco menos, y entender un poco más
+    url: https://youtu.be/1XdYc-91Vtg
+
+
+conferencia:
+  horario1: <br>
+            - (***Lunes 15 de Mayo***) -> **PRESENCIAL** a parir de las 08.00hs. - Laboratorio 3 en 1er piso edificio Malvinas Argentinas (Origone 101) - Lucas Spigariol <br>
+            - (***Jueves 18 de Mayo***) -> **Clase VIRTUAL** a parir de las 08.00hs. - Link -> [**Link**](https://meet.google.com/jkq-pvcy-nfh) <br>
+  
+  horario0: <br>
+            - (***Martes 16 de Mayo***) -> **Clase VIRTUAL** a parir de las 18.15hs. - Link -> [**Link**](https://meet.google.com/jkq-pvcy-nfh) <br>
+            - (***Jueves 18 de Mayo***) -> **PRESENCIAL** a parir de las 18.00hs. - Laboratorio 3 en 1er piso edificio Malvinas Argentinas (Origone 101) - Hernán Coniglio <br>
+
+
+entrega:
+  fecha: 2023-05-21T23:59
+  ejercicios:
+    - name: Ecosistemas Espaciales
+      classroom: https://classroom.github.com/a/OZlWIhV0
+      comentarios: 
+        - name: Un solo miembro de cada equipo debe crear el grupo (haciendo click en "Clonar el ejercicio") con el nombre que eligieron y cargaron en el formulario y luego el resto de los integrantes se debe unir al grupo correspondiente haciendo click en "Clonar el ejercicio" y seleccionando el grupo que corresponda. 
+
+
+ejercicios:
+  - name: Servicios profesionales
+    classroom: https://classroom.github.com/a/R20h_lU-
+    comentarios:
+    - name: Uno para definir muchas clases, con partes picantitas para resolver.
