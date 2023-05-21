@@ -1,0 +1,44 @@
+descripcion: |
+  Entramos en la recta final de la cursada donde las cosas se ponen muy intersantes en la materia.
+
+  Esta semana comenzamos con el último concepto fuerte de la cursada: **Herencia**. Hay dos videos bien puntuales sobre esto, otro video más para seguir aprendiendo técnicas de codificación.
+
+  En esta oportunidad **NO** hay entrega obligatoria pero igualmente deben practicar con el ejercicio **Plagas**, no es un ejercicio muy pesado pero atentos porque incorpora el concepto de **Herencia**. **¡Aprovechen el feriado para hacerlo!** Aunque no haya clase formal de práctica este jueves 25/5, las dudas que tengan las pueden consultar en el canal de Discord, así continuamos con la dinámica de ayudarnos entre todos/as.
+  
+  
+  El ejercicio de golosinas, con la incorporación de nuevos requisitos para trabajar con clases y herencia, también está para resolver.
+
+  Y esta semana también vamos a ir pensando en el trabajo práctico final que será en grupos de hasta 5 personas.
+  Pueden ser los mismos grupos que hicieron el TP de la semana previa o pueden formar nuevos.
+  
+
+videos:
+  - nombre: Herencia Parte 1 - una clase puede heredar de otra
+    url: https://youtu.be/SA7s_yIk-fc
+  - nombre: Herencia Parte 2 - super
+    url: https://youtu.be/xCwNJ8N0bGs
+  - nombre: Herencia Parte 3 - jerarquía de herencia
+    url: https://youtu.be/akiTj8ZZhPU
+  - nombre: Nueva Instancia dentro de una expresión
+    url: https://youtu.be/01ewdTUk658
+
+
+conferencia:
+  horario1: <br>
+            - (***Lunes 22 de Mayo***) -> **PRESENCIAL** a parir de las 08.00hs. - Laboratorio 3 en 1er piso edificio Malvinas Argentinas (Origone 101) - Lucas Spigariol <br>
+            - (***Jueves 25 de Mayo***) -> **FERIADO NO HAY CLASES** <br>
+  
+  horario0: <br>
+            - (***Martes 23 de Mayo***) -> **PRESENCIAL** a parir de las 18.00hs. - Laboratorio 3 en 1er piso edificio Malvinas Argentinas (Origone 101) - Gerardo Gonzalez Tulian <br>
+            - (***Jueves 25 de Mayo***) -> **FERIADO NO HAY CLASES** <br>
+
+
+ejercicios:
+  - name: Golosinas - clases y herencia
+    classroom: https://classroom.github.com/a/Z2zcMXC_
+    comentarios: 
+        - name: El ejercicio que usamos en los videos de herencia, para que lo puedan practicar. Están implementadas las clases de cada golosina, está para arrancar con el enunciado.
+  - name: Plagas - clases y herencia
+    classroom: https://classroom.github.com/a/dUXbK5tk
+    comentarios: 
+      - name: Ejercio con el cual deben practicar durante la semana herencia y modelado.
