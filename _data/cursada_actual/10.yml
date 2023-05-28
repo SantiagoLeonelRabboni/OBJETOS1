@@ -1,0 +1,46 @@
+descripcion: |
+  Esta semana seguimos trabajando el concepto de **Herencia de Clases**. Entramos en el terreno donde es necesario afianzar los conocimientos adquiridos y comprender la diferencia entre lo dinámico/estado (las instancias) y lo estático/código (las clases).
+  Hay varios videos que complementan y cierran el tema **Herencia de Clases** con nuevos conceptos como lookup method.
+
+  **ATENCIÓN** que hay entrega **grupal obligatoria**. El ejercicio **Semillas** tiene todo lo que vimos hasta ahora, y les va a permitir que verifiquen como vienen con la materia, deberían poder resolverlo individualmente, pero reforzamos la idea de trabajar en grupo ya que es fundamental y parte de lo que deben aprender en esta cursada. La **fecha límite de entrega es 4-junio**. No se dejen estar, juntense a resolverlo lo antes posible.
+  La asignación tiene ya definidos los mismos grupos que hicieron el TP de Ecosistemas Espaciales. Si alguien necesita cambiar de grupo por favor nos avisan en el canal de Discord.
+  
+  También les dejamos el ejercicio **Naves Espaciales** que está explicado en los videos de esta semana, para que lo vayan haciendo también y practiquen herencia de clases, no es obligatorio pero es muy recomendable que lo hagan. 
+  
+
+videos:
+  - nombre: Herencia -  Naves Espaciales Parte I
+    url: https://youtu.be/hmO-G8OLuXY
+  - nombre: Herencia - Naves Espaciales Parte II
+    url: https://youtu.be/5orRG9AW4b8
+  - nombre: Herencia -  Naves Espaciales Parte III
+    url: https://youtu.be/fFf9Kxu9PWs
+  - nombre: Herencia - Naves Espaciales Parte IV
+    url: https://youtu.be/FDhPs8Gqsz8
+
+  
+
+conferencia:
+  horario1: <br>
+            - (***Lunes 29 de Mayo***) -> **PRESENCIAL** a parir de las 08.00hs. - Laboratorio 3 en 1er piso edificio Malvinas Argentinas (Origone 101) - Lucas Spigariol <br>
+            - (***Jueves 1 de Junio***) -> **Clase VIRTUAL** a parir de las 08.00hs. - Link -> [**Link**](https://meet.google.com/jkq-pvcy-nfh) <br>
+  
+  horario0: <br>
+            - (***Martes 30 de Mayo***) -> **Clase VIRTUAL** a parir de las 18.15hs. - Link -> [**Link**](https://meet.google.com/jkq-pvcy-nfh) <br>
+            - (***Jueves 1 de Junio***) -> **PRESENCIAL** a parir de las 18.00hs. - Laboratorio 3 en 1er piso edificio Malvinas Argentinas (Origone 101) - Hernán Coniglio <br>
+
+
+entrega:
+  fecha: 2023-06-04T23:59
+  ejercicios:
+    - name: Semillas
+      classroom: https://classroom.github.com/a/05Evia3j
+      comentarios: 
+        - name: Ejercicio **GRUPAL obligatorio** para practicar los conceptos que vimos hasta ahora, incluyendo clases y herencia. 
+
+ejercicios:
+  - name: Naves Espaciales
+    classroom: https://classroom.github.com/a/cu1jD612
+    comentarios: 
+        - name: Ejercicio para practicar herencia de clases
+
