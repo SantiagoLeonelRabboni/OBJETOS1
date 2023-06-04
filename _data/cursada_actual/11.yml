@@ -1,0 +1,46 @@
+descripcion: |
+  Arrancamos el último TP que será con Wollok Game, y en esta optortunidad **NO** hay enunciado.
+  El juego que debe programar cada equipo es de libre elección. Puede ser cualquier juego que uds quieran implementar, algo totalmente nuevo o replicar un juego que ya existe como por ejemplo el Tetrix. Apelamos a su creatividad pero para conseguir algo de inspiración pueden revisar en la página de wollok donde hay varios juegos y ejemplos.
+  
+  Dejamos publicado el ejercicio **La Huerta de Toni (Game)** para seguir practicando.
+
+  **ATENCIÓN: Muy Importante**  
+   * El parcial será el **Jueves 22 de Junio en modalidad PRESENCIAL**, en el horario de cada comisión.
+   * TP GAME grupal, la fecha de presentación será para la clase Nº 14 (26 y 27 de Junio).
+
+
+  
+videos:
+  - nombre: Clases y métodos abstractos -  Naves Espaciales Parte V
+    url: https://youtu.be/fo558IPpuXI
+  - nombre: Template method - Naves Espaciales Parte VI
+    url: https://youtu.be/0CI01a77_K0
+  - nombre: Lo mismo aplicado a una consulta (en lugar de indicación) -  Naves Espaciales Parte VII
+    url: https://youtu.be/8Bzgo8Kr0ro
+
+
+conferencia:
+  horario1: <br>
+            - (***Lunes 5 de Junio***) -> **PRESENCIAL** a parir de las 08.00hs. - Laboratorio 3 en 1er piso edificio Malvinas Argentinas (Origone 101) - Lucas Spigariol <br>
+            - (***Jueves 8 de Junio***) -> **PRESENCIAL** a parir de las 08.00hs. - Laboratorio 3 en 1er piso edificio Malvinas Argentinas (Origone 101) - Lucas Spigariol <br>
+  
+  horario0: <br>
+            - (***Martes 6 de Junio***) -> **PRESENCIAL** a parir de las 18.00hs. - Laboratorio 3 en 1er piso edificio Malvinas Argentinas (Origone 101) - Gerardo Gonzalez Tulian <br>
+            - (***Jueves 8 de Junio***) -> **Clase VIRTUAL** a parir de las 18.00hs. - Link -> [**Link**](https://meet.google.com/jkq-pvcy-nfh) <br>
+
+
+entrega:
+  fecha: 2023-06-25T23:59
+  ejercicios:
+    - name: TP Integrador Wollok Game (Grupal)
+      classroom: https://classroom.github.com/a/qO1I4X2W
+      comentarios: 
+        - name: TP de entrega obligatoria. El juego que debe programar cada equipo es de libre elección. 
+
+ejercicios:
+  - name: Huerta de Toni (Game)
+    classroom: https://classroom.github.com/a/et7STYzo
+    comentarios: 
+        - name: Ejercicio para practicar con Game. El objetivo es que puedan practicar con el lenguaje y con la herramienta. El juego es una versión simplificada del juego de la huerta de Toni. 
+
+
