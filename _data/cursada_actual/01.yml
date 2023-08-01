@@ -19,12 +19,12 @@ videos:
   
 conferencia:
   horario1: <br>
-            - (***Lunes 27 de Marzo***) -> **PRESENCIAL** a parir de las 08.00hs. - Laboratorio 3 en 1er piso edificio Malvinas Argentinas (Origone 101) - Lucas Spigariol <br>
-            - (***Jueves 30 de Marzo***) -> **VIRTUAL** a parir de las 08.00hs. - Link -> [**Link JueTMañ**](https://utn.zoom.us/j/88137014356?pwd=WkhFTEFTZXBDWUkxaDFRTVhkWTR3QT09)
+            - (***Lunes 7 de Agosto***) -> **PRESENCIAL** a parir de las 08.00hs. - Laboratorio 3 en 1er piso edificio Malvinas Argentinas (Origone 101) - Lucas Spigariol <br>
+            - (***Jueves 10 de Agosto***) -> **VIRTUAL** a parir de las 18.00hs. - Link -> [**Link**](https://meet.google.com/jkq-pvcy-nfh)
   
   horario0: <br>
-            - (***Martes 28 de Marzo***) -> **PRESENCIAL** a partir de las 18.00hs. - Laboratorio 3 en 1er piso edificio Malvinas Argentinas (Origone 101) - Profesor Gerardo Gonzalez Tulian <br>
-            - (***Jueves 30 de Marzo***) -> **VIRTUAL** a parir de las 18.00hs. - Link -> [**Link JueTNoc**](https://meet.google.com/rqd-oxgm-wtr)
+            - (***Martes 8 de Agosto***) -> **PRESENCIAL** a partir de las 18.00hs. - Laboratorio 3 en 1er piso edificio Malvinas Argentinas (Origone 101) - Profesor Gerardo Gonzalez Tulian <br>
+            - (***Jueves 10 de Agosto***) -> **VIRTUAL** a parir de las 18.00hs. - Link -> [**Link**](https://meet.google.com/jkq-pvcy-nfh)
 
   
 mumuki:
@@ -37,7 +37,7 @@ mumuki:
 
 
 entrega:
-  fecha: 2023-04-02T23:59
+  fecha: 2023-08-13T23:59
 
   ejercicios:
     - name: GIT - Presentación Personal
