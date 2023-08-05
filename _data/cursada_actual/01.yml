@@ -1,7 +1,7 @@
 descripcion: |
   Comenzaremos trabajando con las guías de **Mumuki** pero antes vas a tener que hacer lo siguiente:
-    * Registrarte al aula ingresando en [Mumuki-UnaHur-Obj1](https://mumuki.io/unahur-obj1/join/mRpjWQ). Podés registrarte con tu cuenta de Google o crearte una nueva dentro de Mumuki con un mail y contraseña que debes recordar para volver a ingresar. 
-    * **Importante:** Luego para ingresar siempre directamente al curso podes entrar por el link que hay en la esquina superior derecha de página que dice [Mumuki](https://mumuki.io/login?organization=unahur-obj1&origin=%2Funahur-obj1)
+    * Registrarte al aula ingresando en **[Mumuki-UnaHur-Obj1](https://mumuki.io/unahur-obj1/join/mRpjWQ)**. Podés registrarte con tu cuenta de Google o crearte una nueva dentro de Mumuki con un mail y contraseña que debes recordar para volver a ingresar. Acá te dejamos un video que muestra como se realiza la registración: [Video ejemplo Registración en Mumuki](https://youtu.be/_UDWguho8dY){:target="_blank"}
+    * **Importante:** Luego para ingresar siempre directamente al curso podes entrar por el link que hay en la esquina superior derecha de página que dice [**Mumuki**](https://mumuki.io/login?organization=unahur-obj1&origin=%2Funahur-obj1)
   
   Durante esta semana, también vamos a comenzar a trabajar con **GIT**. Para eso, vas a tener que clonarte el repositorio aceptando la asignación que figura más abajo como **GIT - Presentación Personal**. Si aún no estás registrado en github, en el momento que intentes aceptar la asignación se te indicará como resistrarte. Es muy importante que tomes nota del usuario con el que te vas a registrar, el email y la contraseña. Luego veremos que también será necesario generar un token para utilizar GIT en tu PC o en las PCs de la Universidad. Te dejamos un video de una clase donde vimos el paso a paso sobre como registrarse y usar GIT.
 
@@ -12,10 +12,6 @@ videos:
     url: https://youtu.be/7hXl2kJs2GUs
   - nombre: Definimos un objeto
     url: https://youtu.be/aAfjr8-1-0Y
-  - nombre: Primeros pasos con GIT. Grabación de la clase del 13 de agosto'22 dictada por Hernan Coniglio, con la colaboración de Matias Müller, Valentino Chiappanni y Lucas Bonadeo
-    url: https://youtu.be/jTuVrHznu2g
-  - nombre: Clase práctica día 30 de marzo de 2023 (T.Noche 18hs) con repaso sobre cuestiones administrativas de la materia, revisión de algunos ejercicios de Mumuki, + explicación del uso básico de GIT en la resolución de la entrega de esta semana "GIT - Presentacion Personal".
-    url: https://youtu.be/fVXF178OhIs
   
 conferencia:
   horario1: <br>
