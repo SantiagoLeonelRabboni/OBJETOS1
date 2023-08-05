@@ -16,9 +16,8 @@ Para poder rendir el parcial será necesario cumplir con un porcentaje mínimo d
 
 ## Entregas
 
-Además de las evaluaciones formales vamos a contar con una serie de entregas obligatorias, pequeños ejercicios prácticos que deberían dar cuenta de que tu aprendizaje va por la senda que proponemos. Algunas de estas entregas serán a través de [Mumuki](https://mumuki.io/wollok-obj1) y otras a través de [GitHub](https://github.com/), todas en formato digital.
-
-Consideramos que encontrarte cara a cara con un problema que tenés que resolver es una muy buena forma de medir efectivamente cuánto aprendiste. Por esto, las entregas son **obligatorias** y deberás **entregar al menos el 80%** de ellas en tiempo y forma para poder presentarte a rendir el parcial.
+Durante el desarrollo de esta materia, los y las estudiantes fijarán los contenidos a través de una serie de ejercicios prácticos semanales. Estas actividades, tanto individuales como grupales, serán entregadas como parte de la cursada y constituirán la clave para alcanzar el objetivo. A través de estas entregas, podrán asegurar y demostrar que están progresando adecuadamente en el aprendizaje de los temas propuestos. Algunas de estas se realizarán mediante la plataforma [Mumuki](https://mumuki.io/unahur-obj1/join/mRpjWQ) y otras a través de [GitHub](https://github.com/), todas en formato digital.
+Consideramos que encontrarte cara a cara con un problema que tenés que resolver es una muy buena forma de medir efectivamente cuánto aprendiste. 
 
 ## Aprobación
 
