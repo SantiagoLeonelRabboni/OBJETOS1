@@ -9,14 +9,14 @@ Si todavía no lo hiciste y antes de seguír leyendo por favor completa el [form
 
 Si llegaste hasta este sitio es muy probable que estes inscripto en **Programación con Objetos I**, de la Licenciatura en Informática y/o Tecnicatura en Programación de la **Universidad Nacional de Hurlingham**. Aquí encontrarás _casi_ todo lo necesario para tu cursada. Decimos _casi_ porque hay mucho material que "vive" en otras páginas, pero este sitio funcionará como punto de partida para llegar allí.
 
-Arrancamos el cuatrimestre con una modalidad de cursada mixta, donde tendremos clases presenciales y virtuales. Hay que estar atento al [cronograma](https://docs.google.com/spreadsheets/d/1Ik6coqFm2lr2m6EFBGo3Ul4Bi4RPhrrtMQLbK3WcbIQ/edit?usp=sharing) de la cursada por si en algún momento se hace algún cambio. 
+Arrancamos el cuatrimestre con una modalidad de cursada mixta, donde tendremos clases presenciales y virtuales. Hay que estar atento al [cronograma](https://docs.google.com/spreadsheets/d/18ggaTNvskbmRmTJTei0nKN87wr91W97rbLeLWTcWqn8/edit?usp=sharing) de la cursada por si en algún momento se hace algún cambio. 
 
 Si ya viniste varias veces, probablemente quieras ir a la sección [cursada](/cursada) o ver el [material](/material) que tenemos disponible.
 
 
 ## Datos de las cursada
 
-* Modalidad Mixta - [Cronograma de Clase](https://docs.google.com/spreadsheets/d/1Ik6coqFm2lr2m6EFBGo3Ul4Bi4RPhrrtMQLbK3WcbIQ/edit?usp=sharing). 
+* Modalidad Mixta - [Cronograma de Clase](https://docs.google.com/spreadsheets/d/18ggaTNvskbmRmTJTei0nKN87wr91W97rbLeLWTcWqn8/edit?usp=sharing). 
 * 2 Comisiones (C1-Turno Noche / C2-Turno Mañana), pero es la misma materia y utilizamos la misma página. Las clases serán de la siguiente forma según la comisión a la que perteneces:
   - **Turno Mañana**: Todos los lunes a las 8hs. PRESENCIAL y los jueves será algunos días virtual y otros presencial a las 18hs.
   - **Turno Noche**: Todos los martes a las 18hs. PRESENCIAL y los jueves será algunos días virtual y otros presencial a las 18hs. 
