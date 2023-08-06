@@ -12,7 +12,7 @@ Contaremos con dos instancias de evaluación formal (o sea, dos momentos en que 
 
 La primera será un parcial bastante "clásico": de carácter individual, pensado para ser resuelto durante una clase utilizando la computadora. La segunda será un trabajo práctico grupal (probablemente alguna especie de juego), que se entregará por etapas y deberá ser "defendido" de manera individual - básicamente para comprobar que todo el grupo haya participado.
 
-Para poder rendir el parcial será necesario cumplir con un porcentaje mínimo de entregas previas, ver sección siguiente.
+Para poder estar en condiciones de rendir el parcial y aprobar el TP Final, será necesario que trabajen en las entregas previas, ver sección siguiente.
 
 ## Entregas
 
