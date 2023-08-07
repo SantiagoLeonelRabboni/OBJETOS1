@@ -24,7 +24,8 @@ conferencia:
             - (***Martes 8 de Agosto***) -> **PRESENCIAL** a partir de las 18.00hs. - Laboratorio a confirmar en 1er piso edificio Malvinas Argentinas (Origone 101) - Profesor Gerardo Gonzalez Tulian <br>
             - (***Jueves 10 de Agosto***) -> **VIRTUAL** a parir de las 18.00hs. - Link -> [**Link**](https://meet.google.com/dbv-mcay-wki)
 
-  
+
+
 mumuki:
   - nombre: Conociendo a los objetos
     url: https://mumuki.io/unahur-obj1/lessons/687-objetos-y-mensajes-conociendo-a-los-objetos
@@ -32,22 +33,13 @@ mumuki:
   - nombre: Métodos y estados 
     url: https://mumuki.io/unahur-obj1/lessons/489-objetos-y-mensajes-metodos-y-estado
     ejercicios: Hasta el 12 inclusive. Bonus 13 y 14.
+  - nombre: Multipepita la golondrina
+    url: https://mumuki.io/unahur-obj1/lessons/731-objetos-y-mensajes-acompanamiento-multipepita-etapa-1
+    ejercicios: 1 y 2. Intenten resolver también 3 y 4, aunque si no sale no se preocupen por ahora!
 
 
-entrega:
-  fecha: 2023-08-13T23:59
-
-  ejercicios:
-    - name: GIT - Presentación Personal
-      classroom: https://classroom.github.com/a/9BSamoWd
-      comentarios: 
-        - name: Entregar realizando un push al reposotorio inidividual del Class-room
-
-
-  mumuki:
-    - nombre: Multipepita la golondrina
-      url: https://mumuki.io/unahur-obj1/lessons/731-objetos-y-mensajes-acompanamiento-multipepita-etapa-1
-      ejercicios: Obligatorios 1 y 2. Opcionales 3 y 4
-
-
-
+ejercicios:
+  - name: GIT - Presentación Personal
+    classroom: https://classroom.github.com/a/9BSamoWd
+    comentarios: 
+      - name: Aceptar la asignación y entregar realizando directamente commit en Github en tu reposotorio inidividual del Class-room, luego de editar el archivo README.md con tus datos personales. Les dejo de ejemplo la presentación de Branko, aunque esperamos que nos sorprendan con algo bien personal y creativo ;-) [PresentaBranko](https://github.com/obj1-unahur-2023s1/presentacion-personal-BrankoMuruaga.git){:target="_blank"}
