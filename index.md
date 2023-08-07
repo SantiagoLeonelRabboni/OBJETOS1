@@ -18,7 +18,7 @@ Si ya viniste varias veces, probablemente quieras ir a la sección [cursada](/cu
 
 * Modalidad Mixta - [Cronograma de Clase](https://docs.google.com/spreadsheets/d/18ggaTNvskbmRmTJTei0nKN87wr91W97rbLeLWTcWqn8/edit?usp=sharing){:target="_blank"}. 
 * 2 Comisiones (C1-Turno Noche / C2-Turno Mañana), pero es la misma materia y utilizamos la misma página. Las clases serán de la siguiente forma según la comisión a la que perteneces:
-  - **Turno Mañana**: Todos los lunes a las 8hs. PRESENCIAL y los jueves será algunos días virtual y otros presencial a las 18hs.
+  - **Turno Mañana**: Todos los lunes a las 8hs. PRESENCIAL y los jueves será algunos días virtual y otros presencial en aula híbrida a las 18hs. Quienes justifiquen no poder asistir presencial tendrán acceso a participar virtual y ver la clase grabada.
   - **Turno Noche**: Todos los martes a las 18hs. PRESENCIAL y los jueves será algunos días virtual y otros presencial a las 18hs. 
 * Un docente principal por comisión con clases independientes. 
 * Este cuatrimestre los profesores somos [Gerardo González](https://youtu.be/Mz30L5TGsfY), **Lucas Spigariol** y [Hernán Coniglio](https://youtu.be/iPU9JsnCkB0). Nos acompañan como ayudantes Valentino Chiappani, Maricel Benitez, Branko Muruaga, Micaela Bidegain y Rodrigo Chiapparo.
