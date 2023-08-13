@@ -1,0 +1,60 @@
+descripcion: |
+  En esta semana, empezamos a armar programas en los que intervienen varios objetos, y estudiar cómo pueden relacionarse entre ellos.
+  En particular, vamos a ver qué es el **polimorfismo** en objetos, y a empezar a hablar de las ventajas que nos da para construir programas. 
+  Relacionado con esto, también vamos a hablar de cómo se refleja la idea de **contrato** en la programación con objetos.
+  Uf, bastantes cosas ... que vamos a ir profundizando y repasando más adelante, el objetivo de esta semana es introducir algunas ideas que vamos a desarrollar durante todo el curso. 
+  También les dejamos algunos videos de cursadas anteriores que tocan los mismos temas que vamos a ver durante las clases.<br>
+  Todos/as deberían ya tener instalado el IDE de Wollok en las PC donde van a realizar las prácticas y será la única herramienta para programar que utilizaremos durante esta cursada. Las instrucciones las vimos en la clase del jueves pasado que quedó grabada y publicada en Semana 1. Además, verán linkeadas en la página de la materia, pestaña [**Material**](https://obj1-unahur.github.io/material), sección **Wollok**, los videos sobre como instalarlo en Windows y en Linux. <br>
+  Los ejercicios propuestos de Mumuki, tal como vimos en la clase del jueves, se pueden realizar directamente en el IDE de Wollok, leyendo las consignas propuestas en la página de Mumuki. <br>
+  Recuerden siempre que pueden consultar las dudas en el canal de Discord de la materia. <br>
+
+ 
+
+videos:
+  - nombre: Agregándole métodos a Pepita
+    url: https://youtu.be/TQba-e_m5Lc
+  - nombre: Manejo correcto de valores booleanos - "miedo al booleano"
+    url: https://youtu.be/o8a-ngbRnxc
+  - nombre: Varios objetos interactuando, polimorfismo
+    url: https://youtu.be/sTirUmBeY58
+  - nombre: Self - cuando un objeto se tiene que enviar un mensaje a sí mismo
+    url: https://youtu.be/SqzokSK7ckk
+  - nombre: Variantes para definir la memoria de un objeto
+    url: https://youtu.be/_JSncjztLAY
+  - nombre: Ejercicio "Gustos" - comentarios para encararlo
+    url: https://youtu.be/dRy92EB4ppM
+
+
+
+conferencia: 
+
+  horario1: <br>
+            - (***Lunes 13 de Agosto***) -> **PRESENCIAL** a parir de las 08.00hs. - Laboratorio MA-113 en 1er piso edificio Malvinas Argentinas (Origone 101) - Lucas Spigariol <br>
+            - (***Jueves 17 de Agosto***) -> **PRESENCIAL/VIRTUAL** a partir de las 18.00hs. - Laboratorio MA-109 en 1er piso edificio Malvinas Argentinas (Origone 101) - Virtual -> [**Link**](https://meet.google.com/dbv-mcay-wki) - Hernán Coniglio <br>
+  
+  horario0: <br>
+            - (***Martes 14 de Agosto***) -> **PRESENCIAL** a partir de las 18.15hs. - Laboratorio MA-109 en 1er piso edificio Malvinas Argentinas (Origone 101) - Profesor Gerardo Gonzalez Tulian <br>
+            - (***Jueves 17 de Agosto***) -> **PRESENCIAL** a partir de las 18.00hs. - Laboratorio MA-109 en 1er piso edificio Malvinas Argentinas (Origone 101) - Hernán Coniglio <br>
+
+
+mumuki:
+  - nombre: Los booleanos - evitando el "miedo al booleano"
+    url: https://mumuki.io/unahur-obj1/lessons/498-objetos-y-mensajes-los-booleanos
+    ejercicios: 1 y 2. Opcionales 3 y 4
+  - nombre: Alternativa - practicamos el "if"
+    url: https://mumuki.io/unahur-obj1/lessons/560-objetos-y-mensajes-alternativa
+    ejercicios: 1, 2 y 3. Opcionales 4 y 5
+  - nombre: Pepita la Golondrina
+    url: https://mumuki.io/unahur-obj1/lessons/731-objetos-y-mensajes-acompanamiento-pepita-la-golondrina
+    ejercicios: Completarla, deberían poder hacer todos los ejercicios
+
+ejercicios:
+  - name: Juego de Personajes y Elementos
+    classroom: https://classroom.github.com/a/0y7zqfk4
+    comentarios:
+      - name: Aceptar la asignación y luego al generarse el repositorio, copiar la dirección del mismo para realizar el clonado en la PC donde irán a realizar la práctica en el IDE de Wollok. 
+
+  - name: Personas y Gustos
+    classroom: https://classroom.github.com/a/zkM1OXRW
+    comentarios:
+      - name: Aceptar la asignación y luego al generarse el repositorio, copiar la dirección del mismo para realizar el clonado en la PC donde irán a realizar la práctica en el IDE de Wollok. 
