@@ -1,0 +1,52 @@
+descripcion: |
+  Esta semana viene con mucho para pensar y repasar sobre lo que hablamos en las clases anteriores.
+  En algunos casos hay un objeto que tiene que memorizar algo, y hay que decidir en qué objeto hay que agregar un atributo, y qué valor conviene recordar. 
+  A veces, el valor de un atributo es un objeto definido por nosotros, en lugar de un número o un booleano como era hasta ahora.
+  También aparece el polimorfismo y la necesidad de respetar contratos. 
+
+  **Todos/as ya deberían tener instalado y funcionando el IDE de Wollok**. Quienes aún tengan algún problema recuerden que pueden pedir ayuda en el canal de consultas de Discord. 
+  Esta semana vamos a seguir practicando en clase el clonado de repos y la resolución de ejercicios en el IDE de Wollok.
+
+  *Tema nuevo*: **los tests**. La documentación sobre test automatizados en Wollok la encuentran en el siguiente enlace: [Tests en Wollok](https://docs.google.com/document/d/1Q_v48gZfRmVfLMvC0PBpmtZyMoALbh11AwmEllP__eY/edit){:target="_blank"}.
+
+videos:
+  - nombre: El modelo de Pepita se extiende - Roque el entrenador, y dos amigas de Pepita
+    url: https://youtu.be/1RlwP_WLHRg
+  - nombre: Práctica sobre lo que venimos viendo - Pepita viajera
+    url: https://youtu.be/COoSQb9JuyQ
+  - nombre: Creamos nuevos objetos - las temporadas de Mar del Plata en Pepita viajera
+    url: https://youtu.be/7QRWdouBcsY
+  - nombre: Introducción a los tests automáticos
+    url: https://youtu.be/1BNEa7ma5cA
+
+
+
+conferencia:
+  horario1: <br>
+            - (***Lunes 21 de Agosto***) -> **FERIADO NO HAY CLASES** <br>
+            - (***Jueves 24 de Agosto***) -> **Clase VIRTUAL** a parir de las 18.00hs. - Link -> [**Link**](https://meet.google.com/dbv-mcay-wki) <br>
+  
+  horario0: <br>
+            - (***Martes 22 de Agosto***) -> **PRESENCIAL** a partir de las 18.15hs. - Laboratorio MA-109 en 1er piso edificio Malvinas Argentinas (Origone 101) - Profesor Gerardo Gonzalez Tulian <br>
+            - (***Jueves 24 de Agosto***) -> **Clase VIRTUAL** a parir de las 18.00hs. - Link -> [**Link**](https://meet.google.com/dbv-mcay-wki) <br>
+
+
+
+ejercicios:
+  - name: Introducción a Wollok Game
+    classroom: https://classroom.github.com/a/HwkS6pzE
+    comentarios: 
+      - name: Enunciado base para comenzar a conocer Wollok Game. Deberán aceptar la Asignación con su usuario de github, y luego clonar el repositorio en la PC donde irán a realizar la práctica, de la forma que vimos en clase con la terminal y los comandos de GIT. Luego, tendrán que importar el proyecto clonado en el IDE de Wollok para resolverlo.
+  - name: SPA
+    classroom: https://classroom.github.com/a/kHYCmf8D
+    comentarios: 
+      - name: Ejercicio para practicar lo visto hasta ahora. Aceptar la Asignación con su usuario de github, y luego clonar el repositorio en la PC donde irán a realizar la práctica. Intenten resolverlo en casa, y en la clase del jueves veremos la solución completa.
+
+
+mumuki:
+  - nombre: Atributos 
+    url: https://mumuki.io/unahur-obj1/lessons/499-objetos-y-mensajes-atributos
+    ejercicios: Todos. Deberán resolverlos en el IDE de Wollok y luego pueden copiar ese código a Mumuki dentro del área "Solución" para correr los tests automáticos pulsando el botón "Enviar"
+  - nombre: Personas y barrios - qué anda, qué no, cuánto da
+    url: https://mumuki.io/unahur-obj1/lessons/482-objetos-y-mensajes-personas-y-barrios-que-anda-que-no-cuanto-da
+    ejercicios: Todos. No requieren que los resuelvan en el IDE de Wollok, ya que son multile choice y tienen test automático en Mumuki
