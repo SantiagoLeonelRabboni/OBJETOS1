@@ -24,7 +24,12 @@ Dos videos de Joaquín Pettinari.
 
 ### Primeros pasos
 
-Otro de Joaquín Pettinari.
+Conociendo los Objetos en Wollok (por Lucas Spigariol).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N3rmV8eAxkw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+Otro de Joaquín Pettinari sobre lo básico de Wollok.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0y9dYt4Nqv0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
