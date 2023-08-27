@@ -1,0 +1,64 @@
+descripcion: |
+  Esta semana seguimos trabajando los conceptos que ya vimos, profundizando en el tema test automáticos, y seguimos jugando con  Wollok Game. 
+  Les dejamos 2 videos cortos introductorios sobre Game para que los vean antes de la clase práctica del jueves.
+
+  Por otro lado, debemos ir armando los grupos que deberán conformar para la realización y entrega de los trabajos prácticos que iremos presentando a partir de la próxima semana. El enunciado ya lo tienen disponible y se llama "Personajes Frutas y Juegos". Antes de aceptar la asignación, leer las instrucciones ya que deben tener definido previamente los grupos. <br>
+  Dejamos el siguiente [**formulario**](https://forms.gle/EN1Bx8DiB1U5yCyW6) para que solamente uno/a de los integrantes del grupo lo complete, donde irán a definir un nombre de grupo, a qué comision pertenecen los/as integrantes, los apellidos y nombres de cada integrante del grupo y usuario de github. **No** se pueden mezclar alumnos/as de diferentes comisiones y los grupos pueden ser de hasta 6 personas.<br>
+  Cualquier duda nos consultan por el canal de Discord.
+
+  
+
+videos:
+  - nombre: Arrancando con Wollok Game 1
+    url: https://youtu.be/9mBGMNL4SXE
+  - nombre: Arrancando con Wollok Game 2
+    url: https://youtu.be/ZWN_gFg2fK8
+  - nombre: Referencias - usando el ejercicio de gustos.
+    url: https://youtu.be/CGO3htDNY-8
+  - nombre: Empanadas Giménez parte 1 - Giménez, dos empleados, un test
+    url: https://youtu.be/Kalojrle0kk
+  - nombre: Empanadas Giménez parte 2 - que hace cada empleado cuando cobra, uso de self
+    url: https://youtu.be/3dWYlQw6TXA
+
+conferencia:
+  horario1: <br>
+            - (***Lunes 28 de Agosto***) -> **PRESENCIAL** a parir de las 08.00hs. - Laboratorio MA-113 en 1er piso edificio Malvinas Argentinas (Origone 101) - Lucas Spigariol <br>
+            - (***Jueves 31 de Agosto***) -> **PRESENCIAL/VIRTUAL** a partir de las 18.00hs. - Laboratorio MA-109 en 1er piso edificio Malvinas Argentinas (Origone 101) - Virtual -> [**Link**](https://meet.google.com/dbv-mcay-wki) - Hernán Coniglio <br>
+  
+  horario0: <br>
+            - (***Martes 29 de Agosto***) -> **PRESENCIAL** a partir de las 18.15hs. - Laboratorio MA-109 en 1er piso edificio Malvinas Argentinas (Origone 101) - Profesor Gerardo Gonzalez Tulian <br>
+            - (***Jueves 31 de Agosto***) -> **PRESENCIAL** a partir de las 18.00hs. - Laboratorio MA-109 en 1er piso edificio Malvinas Argentinas (Origone 101) - Hernán Coniglio <br>
+
+
+entrega:
+  fecha: 2023-09-10T23:59
+  ejercicios:
+    - name: Personajes Frutas y Juegos
+      classroom: https://classroom.github.com/a/jTzNpUhs
+      comentarios: 
+        - name: INSTRUCCIONES-> Un/a integrante del grupo acepta la asignación y procede a dar de alta el grupo que completaron en el formulario, y el resto de los/as integrantes también aceptan la asignación, pero se unen al grupo previamente creado por el/la estudiante inicial. Luego, la entrega la realizan haciendo push al reposotorio grupal desde cuaqluiera de los usuarios github del grupo. Podrán hacer los push hasta la fecha/hora límite indicada.
+
+
+ejercicios:
+  - name: Viajes en auto
+    classroom: https://classroom.github.com/a/CUO8mrXm
+    comentarios: 
+      - name: Para practicar en clase y en casa, haciendo el push al reposotorio inidividual del Class-room (practicamos también los test)
+
+  - name: Empanadas Gimenez - Polimorfismo
+    classroom: https://classroom.github.com/a/DMGwI1Gr
+    comentarios: 
+      - name: Para practicar en casa, haciendo el push al reposotorio inidividual del Class-room (definan y hagan también los test). Luego pueden comparar con la solución que está en los videos de esta semana.
+
+
+  - name: Pac-Man 
+    repo: hernanconiglio/pacmanBasicGame/
+    comentarios: 
+      - name: Repo con 3 branches a modo tutorial para hacer en Wollok el juego PAC-MAN (bien básico)
+
+  - name: Dino 
+    repo: wollok/DinoGame
+    comentarios: 
+      - name: Repo juego DINO
+
+

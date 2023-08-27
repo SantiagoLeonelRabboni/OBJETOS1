@@ -75,7 +75,7 @@ La fecha límite para la entrega de esta semana es el <strong>{% include fecha-f
 
 {% if semana.ejercicios %}
 
-### Ejercicios para trabajar en clase
+### Ejercicios para trabajar en clase y/o en casa
 {% assign ejercicios = semana.ejercicios %}
 {% include ejercicios-github.html ejercicios=ejercicios %}
 
