@@ -34,7 +34,7 @@ entrega:
   fecha: 2023-09-10T23:59
   ejercicios:
     - name: Personajes Frutas y Juegos
-      classroom: https://classroom.github.com/a/jTzNpUhs
+      classroom: https://classroom.github.com/a/P3cuuNzH
       comentarios: 
         - name: INSTRUCCIONES-> Un/a integrante del grupo acepta la asignación y procede a dar de alta el grupo que completaron en el formulario, y el resto de los/as integrantes también aceptan la asignación, pero se unen al grupo previamente creado por el/la estudiante inicial. Luego, la entrega la realizan haciendo push al reposotorio grupal desde cuaqluiera de los usuarios github del grupo. Podrán hacer los push hasta la fecha/hora límite indicada.
 
