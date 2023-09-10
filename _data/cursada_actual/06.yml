@@ -1,0 +1,49 @@
+descripcion: |
+  Esta semana reforzamos el trabajo con **colecciones**, en particular veremos consignas un poco más complejas en las que se necesita usar colecciones para resolverlas.
+  
+  **Atención que hay nueva entrega de TP Grupal**. 
+
+  Hay dos videos de cuatrimestres anteriores donde volvemos sobre el ejercicio de golosinas, para entender qué hicimos comparando la visión interna, que se ve en el diagrama dinámico, con la externa, que se ve en el código. 
+  
+  
+  Volvemos a insistir sobre los conceptos básicos: división de tareas en distintos objetos, contrato, polimorfismo, definición del estado (la memoria) de un objeto.  
+  En el último, repasamos las operaciones que resuelven recorridos, y planteamos cómo usar la idea de tipo para elegir cuál de las operaciones (filter / map / all / any / etc.) usar en cada caso. La noción de tipo los va a acompañar durante toda su carrera como programadores, es importante que se vayan haciendo amigos/as/ues :-)
+
+
+  
+
+videos:
+  - nombre: Visiones interna y externa - modelo más complejo, se agrega lucila.
+    url: https://youtu.be/okf2VCfjvx4
+  - nombre: Pensar en los tipos para elegir qué operación me resuelve un recorrido.
+    url: https://youtu.be/cLfp2T_LSjg
+
+
+conferencia:
+  horario1: <br>
+            - (***Lunes 11 de Septiembre***) -> **PRESENCIAL** a parir de las 08.00hs. - Laboratorio MA-113 en 1er piso edificio Malvinas Argentinas (Origone 101) - Lucas Spigariol <br>
+            - (***Jueves 14 de Septiembre***) -> **PRESENCIAL/VIRTUAL** a partir de las 18.00hs. - Laboratorio MA-109 en 1er piso edificio Malvinas Argentinas (Origone 101) - Virtual -> [**Link**](https://meet.google.com/dbv-mcay-wki) - Hernán Coniglio <br>
+  
+  horario0: <br>
+            - (***Martes 12 de Septiembre***) -> **PRESENCIAL** a partir de las 18.15hs. - Laboratorio MA-109 en 1er piso edificio Malvinas Argentinas (Origone 101) - Profesor Gerardo Gonzalez Tulian <br>
+            - (***Jueves 14 de Septiembre***) -> **PRESENCIAL** a partir de las 18.00hs. - Laboratorio MA-109 en 1er piso edificio Malvinas Argentinas (Origone 101) - Hernán Coniglio <br>
+
+
+entrega:
+  fecha: 2023-09-21T17:59
+  ejercicios:
+    - name: Camión de transporte
+      classroom: https://classroom.github.com/a/qeyMkkb_
+      comentarios: 
+        - name: TP Grupal. Hagan también todos los test necesarios sobre las colecciones
+
+
+ejercicios:
+  - name: Colecciones de Antigüedades
+    classroom: https://classroom.github.com/a/Wd3Zas7s
+    comentarios: 
+      - name: classroom para trabajar en clase
+  - name: Registro de Abatidos COD Fase1
+    classroom: https://classroom.github.com/a/3NxraAis
+    comentarios: 
+      - name: Para practicar con colecciones y closures.
