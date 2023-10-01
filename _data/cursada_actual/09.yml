@@ -1,0 +1,40 @@
+descripcion: |
+  Entramos en la recta final de la cursada donde las cosas se ponen muy intersantes en la materia.
+
+  Esta semana comenzamos con el último concepto fuerte de la cursada: **Herencia**. Hay dos videos bien puntuales sobre esto, y otro video más para seguir aprendiendo técnicas de codificación.
+
+  Les dejamos 2 nuevos ejercicios **"Golosinas - Clases - Herencia"** y **"Plagas"** que incorporan el concepto de herencia para que practiquen.
+  
+  El ejercicio de golosinas ya lo vimos antes, pero ahora se incorporan nuevos requisitos para trabajar con clases y herencia.
+
+
+videos:
+  - nombre: Herencia Parte 1 - una clase puede heredar de otra
+    url: https://youtu.be/SA7s_yIk-fc
+  - nombre: Herencia Parte 2 - super
+    url: https://youtu.be/xCwNJ8N0bGs
+  - nombre: Herencia Parte 3 - jerarquía de herencia
+    url: https://youtu.be/akiTj8ZZhPU
+  - nombre: Nueva Instancia dentro de una expresión
+    url: https://youtu.be/01ewdTUk658
+
+
+conferencia:
+  horario1: <br>
+            - (***Lunes 2 de Octubre***) -> **PRESENCIAL** a parir de las 08.00hs. - Laboratorio MA-113 en 1er piso edificio Malvinas Argentinas (Origone 101) - Profesor Lucas Spigariol <br>
+            - (***Jueves 5 de Octubre***) -> **VIRTUAL** a parir de las 18.00hs. - Link -> [**Link**](https://meet.google.com/dbv-mcay-wki)
+  
+  horario0: <br>
+            - (***Martes 3 de Octubre***) -> **PRESENCIAL** a partir de las 18.15hs. - Laboratorio MA-109 en 1er piso edificio Malvinas Argentinas (Origone 101) - Profesor Gerardo Gonzalez Tulian <br>
+            - (***Jueves 5 de Octubre***) -> **VIRTUAL** a parir de las 18.00hs. - Link -> [**Link**](https://meet.google.com/dbv-mcay-wki)
+
+
+ejercicios:
+  - name: Golosinas - clases y herencia
+    classroom: https://classroom.github.com/a/qvwjOh2X
+    comentarios: 
+        - name: El ejercicio que usamos en los videos de herencia, para que lo puedan practicar. Están implementadas las clases de cada golosina, está para arrancar con el enunciado.
+  - name: Plagas - clases y herencia
+    classroom: https://classroom.github.com/a/9P-mgBxv
+    comentarios: 
+      - name: Ejercio con el cual deben practicar durante la semana herencia y modelado.
