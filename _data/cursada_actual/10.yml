@@ -1,0 +1,40 @@
+descripcion: |
+  Esta semana seguimos trabajando el concepto de **Herencia de Clases**. Entramos en el terreno donde es necesario afianzar los conocimientos adquiridos y comprender la diferencia entre lo dinámico/estado (las instancias) y lo estático/código (las clases).
+  Hay varios videos que complementan y cierran el tema **Herencia de Clases** con nuevos conceptos como lookup method.
+
+  El ejercicio **Semillas** tiene todo lo que vimos hasta ahora, deberán resolverlo completo en grupo.
+  
+  También les dejamos el ejercicio **Naves Espaciales** que está explicado en los videos de esta semana, para que lo vayan haciendo de manera individual y practiquen herencia de clases.
+  
+
+videos:
+  - nombre: Herencia -  Naves Espaciales Parte I
+    url: https://youtu.be/hmO-G8OLuXY
+  - nombre: Herencia - Naves Espaciales Parte II
+    url: https://youtu.be/5orRG9AW4b8
+  - nombre: Herencia -  Naves Espaciales Parte III
+    url: https://youtu.be/fFf9Kxu9PWs
+  - nombre: Herencia - Naves Espaciales Parte IV
+    url: https://youtu.be/FDhPs8Gqsz8
+  
+
+conferencia:
+  horario1: <br>
+            - (***Lunes 9 de Octubre***) -> **PRESENCIAL** a parir de las 08.00hs. - Laboratorio MA-113 en 1er piso edificio Malvinas Argentinas (Origone 101) - Lucas Spigariol <br>
+            - (***Jueves 12 de Octubre***) -> **PRESENCIAL/VIRTUAL** a partir de las 18.00hs. - Laboratorio MA-109 en 1er piso edificio Malvinas Argentinas (Origone 101) - Virtual -> [**Link**](https://meet.google.com/dbv-mcay-wki) - Hernán Coniglio <br>
+  
+  horario0: <br>
+            - (***Martes 10 de Octubre***) -> **PRESENCIAL** a partir de las 18.15hs. - Laboratorio MA-109 en 1er piso edificio Malvinas Argentinas (Origone 101) - Profesor Gerardo Gonzalez Tulian <br>
+            - (***Jueves 12 de Octubre***) -> **PRESENCIAL** a partir de las 18.00hs. - Laboratorio MA-109 en 1er piso edificio Malvinas Argentinas (Origone 101) - Hernán Coniglio <br>
+
+
+ejercicios:
+  - name: Naves Espaciales
+    classroom: https://classroom.github.com/a/B5u0sVyy
+    comentarios: 
+        - name: Ejercicio individual para practicar herencia de clases
+  - name: Semillas
+    classroom: https://classroom.github.com/a/vqfu2MmP
+    comentarios: 
+      - name: Ejercicio **GRUPAL** para practicar los conceptos que vimos hasta ahora, incluyendo clases y herencia. 
+
