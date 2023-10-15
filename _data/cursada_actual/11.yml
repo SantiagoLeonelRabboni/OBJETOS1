@@ -1,0 +1,46 @@
+descripcion: |
+  Ya estamos en la recta final, y esta semana vamos a practicar lo aprendido aplicándolo en un proyecto más concreto, como por ejemplo un Wollok Game.  
+  Dejamos publicado el ejercicio **La Huerta de Toni (Game)** para resolver en grupo. <br>
+  También dejamos un ejercicio tipo parcial **(Centro de Kinesiología)** para que puedan practicar y resolverlo de manera individual.
+
+  **ATENCIÓN: Muy Importante**  
+   * El parcial será:<br>
+          **Turno Mañana: Lunes 30 de Octubre en modalidad PRESENCIAL**, a partir de las 8hs.<br>
+          **Turno Noche:  Martes 31 de Octubre en modalidad PRESENCIAL**, a partir de las 18hs.
+   
+   * TP GAME grupal, la fecha de presentación será la clase Nº 14 (6 y 7 de Noviembre según la comisión).
+
+
+  
+videos:
+  - nombre: Clases y métodos abstractos -  Naves Espaciales Parte V
+    url: https://youtu.be/fo558IPpuXI
+  - nombre: Template method - Naves Espaciales Parte VI
+    url: https://youtu.be/0CI01a77_K0
+  - nombre: Lo mismo aplicado a una consulta (en lugar de indicación) -  Naves Espaciales Parte VII
+    url: https://youtu.be/8Bzgo8Kr0ro
+
+
+conferencia:
+  horario1: <br>
+            - (***Lunes 16 de Octubre***) -> **FERIADO NO HAY CLASES** <br>
+            - (***Jueves 19 de Octubre***) -> **VIRTUAL** a partir de las 18.00hs. - Link -> [**Link**](https://meet.google.com/dbv-mcay-wki)
+  
+  horario0: <br>
+            - (***Martes 17 de Octubre***) -> **PRESENCIAL** a partir de las 18.15hs. - Laboratorio MA-109 en 1er piso edificio Malvinas Argentinas (Origone 101) - Profesor Gerardo Gonzalez Tulian <br>
+            - (***Jueves 19 de Octubre***) -> **VIRTUAL** a partir de las 18.00hs. - Link -> [**Link**](https://meet.google.com/dbv-mcay-wki)
+
+
+ejercicios:
+  - name: Huerta de Toni (Game) - Grupal
+    classroom: https://classroom.github.com/a/hD_Tqr-v
+    comentarios: 
+        - name: Ejercicio para practicar con Game. El objetivo es que puedan practicar con el lenguaje y con la herramienta. El juego es una versión simplificada del juego de la huerta de Toni. 
+
+  - name: Centro de Kinesiología - Individual
+    classroom: https://classroom.github.com/a/t_ptQh6D
+    comentarios: 
+        - name: Ejercicio individual para practicar con todos los conceptos de la materia, y complejidad tipo parcial. 
+
+
+
