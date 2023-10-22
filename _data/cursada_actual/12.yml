@@ -1,0 +1,25 @@
+descripcion: |
+  Esta semana es para practicar fuerte para el parcial, que será los días 30/10 para turno mañana y 31/10 para turno noche. <br>
+  Les estamos dejando 2 ejercicios para que resuelvan en forma individual. Recuerden la recomendación de tomarse el tiempo de leer primero muy bien todo el dominio del problema y luego ir resolviendo por etapas, identificando bien donde es realmente necesario definir atributos o se debe resolver mediante métodos. Y atención con indicar como "property" todos los atributos, porque puede ser un error dejar declarado un setter y/o getter que no correstponda. <br> 
+  Aprovechen el canal de Discord para enviar sus consultas que siempre encontrarán compañeros/as, profes y colaboradores/as dispuestos/as a ayudar y evacuar dudas. <br>
+ 
+conferencia:
+  horario1: <br>
+            - (***Lunes 23 de Octubre***) -> **PRESENCIAL** a partir de las 08.00hs. - Laboratorio MA-113 en 1er piso edificio Malvinas Argentinas (Origone 101) - Lucas Spigariol <br>
+            - (***Jueves 26 de Octubre***) -> **PRESENCIAL/VIRTUAL** a partir de las 18.00hs. - Laboratorio MA-109 en 1er piso edificio Malvinas Argentinas (Origone 101) - Virtual -> [**Link**](https://meet.google.com/dbv-mcay-wki) - Hernán Coniglio <br>
+  
+  horario0: <br>
+            - (***Martes 24 de Octubre***) -> **VIRTUAL** a partir de las 18.00hs. - Link -> [**Link**](https://meet.google.com/dbv-mcay-wki) - Profesor Gerardo Gonzalez Tulian <br>
+            - (***Jueves 26 de Octubre***) -> **PRESENCIAL** a partir de las 18.00hs. - Laboratorio MA-109 en 1er piso edificio Malvinas Argentinas (Origone 101) - Hernán Coniglio <br>
+
+ejercicios:
+  - name: Práctica Mutual MMMM  
+    classroom: https://classroom.github.com/a/6KRUMHj_
+    comentarios: 
+        - name: Ejercicio tipo parcial para practicar en casa y en clases.
+  - name: Práctica Hogar  
+    classroom: https://classroom.github.com/a/4vaaa6Q4
+    comentarios: 
+        - name: Otro ejercicio tipo parcial para practicar en casa y en clases.
+      
+
