@@ -3,26 +3,25 @@ layout: landing
 ---
 
 ## Muy Importante antes de comenzar
-Si todavía no lo hiciste y antes de seguír leyendo por favor completa el [formulario de arranque de cursada](https://forms.gle/gH6wtAL1zvG5K9yF8){:target="_blank"}
+Si todavía no lo hiciste y antes de seguír leyendo por favor completa el [formulario de arranque de cursada](https://forms.gle/1BRFMT3m2nxtMg8j8){:target="_blank"}
 
 ## ¡Bienvenido/a!
 
 Si llegaste hasta este sitio es muy probable que estes inscripto en **Programación con Objetos I**, de la Licenciatura en Informática y/o Tecnicatura en Programación de la **Universidad Nacional de Hurlingham**. Aquí encontrarás _casi_ todo lo necesario para tu cursada. Decimos _casi_ porque hay mucho material que "vive" en otras páginas, pero este sitio funcionará como punto de partida para llegar allí.
 
-Arrancamos el cuatrimestre con una modalidad de cursada mixta, donde tendremos clases presenciales y virtuales. Hay que estar atento al [cronograma](https://docs.google.com/spreadsheets/d/18ggaTNvskbmRmTJTei0nKN87wr91W97rbLeLWTcWqn8/edit?usp=sharing){:target="_blank"} de la cursada por si en algún momento se hace algún cambio. 
+Arrancamos el cuatrimestre con una modalidad de cursada mixta, donde tendremos clases presenciales y virtuales. Hay que estar atento al [cronograma](https://docs.google.com/spreadsheets/d/13rFU2mObqdFF_2Ocimey_oHJ0Ldv-Gx0S1N4cfHKO4Q/edit?usp=sharing){:target="_blank"} de la cursada por si en algún momento se hace algún cambio. 
 
 Si ya viniste varias veces, probablemente quieras ir a la sección [cursada](/cursada) o ver el [material](/material) que tenemos disponible.
 
 
 ## Datos de las cursada
 
-* Modalidad Mixta - [Cronograma de Clase](https://docs.google.com/spreadsheets/d/18ggaTNvskbmRmTJTei0nKN87wr91W97rbLeLWTcWqn8/edit?usp=sharing){:target="_blank"}. 
+* Modalidad Mixta - [Cronograma de Clase](https://docs.google.com/spreadsheets/d/13rFU2mObqdFF_2Ocimey_oHJ0Ldv-Gx0S1N4cfHKO4Q/edit?usp=sharing){:target="_blank"}. 
 * 2 Comisiones (C1-Turno Noche / C2-Turno Mañana), pero es la misma materia y utilizamos la misma página. Las clases serán de la siguiente forma según la comisión a la que perteneces:
-  - **Turno Mañana**: Todos los lunes a las 8hs. PRESENCIAL y los jueves será algunos días virtual y otros presencial en aula híbrida a las 18hs. Quienes justifiquen no poder asistir presencial tendrán acceso a participar virtual y ver la clase grabada.
-  - **Turno Noche**: Todos los martes a las 18hs. PRESENCIAL y los jueves será algunos días virtual y otros presencial a las 18hs. 
-* Un docente principal por comisión con clases independientes. 
-* Este cuatrimestre los profesores somos [Gerardo González](https://youtu.be/Mz30L5TGsfY), **Lucas Spigariol** y [Hernán Coniglio](https://youtu.be/iPU9JsnCkB0). Nos acompañan como ayudantes Valentino Chiappani, Maricel Benitez, Branko Muruaga, Micaela Bidegain y Rodrigo Chiapparo.
-* Las clases de práctica serán los días jueves, a las 18hs para ambos turnos, alternando virtual y presecial. Encontrarán el detalle semana a semana en la sección **[cursada](/cursada)**.
+  - **Turno Noche**: Todos los martes a las 18hs. PRESENCIAL y los días sábado será  virtual a las 10hs. 
+  - **Turno Mañana**: Todos los miércoles a las 8hs. PRESENCIAL y los días sábado será  virtual a las 10hs. 
+* Este cuatrimestre los profesores somos [Gerardo González](https://youtu.be/Mz30L5TGsfY), **Lucas Spigariol**, **Cristian Cirallo** y [Hernán Coniglio](https://youtu.be/iPU9JsnCkB0). Nos acompañan como ayudantes Valentino Chiappani, Manuel Nuñez, Lucian Coniglio.
+* Las clases de práctica serán los días sábado, a las 10hs para ambos turnos, en modalidad virtual. Encontrarán el detalle semana a semana en la sección **[cursada](/cursada)**.
 
 ## Canales de comunicación
 
