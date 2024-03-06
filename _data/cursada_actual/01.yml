@@ -11,32 +11,8 @@ videos:
     url: https://youtu.be/aAfjr8-1-0Y
   - nombre: Primeros pasos con GIT. Grabación de la clase del 13 de agosto'22 dictada por Hernan Coniglio, con la colaboración de Matias Müller, Valentino Chiappanni y Lucas Bonadeo
     url: https://youtu.be/jTuVrHznu2g
-  - nombre: Video clase virtual jueves 10/8/23
-    url: https://youtu.be/DfKZ9F-iW8E
   
-conferencia:
-  horario1: <br>
-            - (***Lunes 7 de Agosto***) -> **PRESENCIAL** a partir de las 08.00hs. - Laboratorio MA-113 en 1er piso edificio Malvinas Argentinas (Origone 101) - Lucas Spigariol <br>
-            - (***Jueves 10 de Agosto***) -> **VIRTUAL** a partir de las 18.00hs. - Link -> [**Link**](https://meet.google.com/dbv-mcay-wki)
   
-  horario0: <br>
-            - (***Martes 8 de Agosto***) -> **PRESENCIAL** a partir de las 18.00hs. - Laboratorio MA-109 en 1er piso edificio Malvinas Argentinas (Origone 101) - Profesor Gerardo Gonzalez Tulian <br>
-            - (***Jueves 10 de Agosto***) -> **VIRTUAL** a partir de las 18.00hs. - Link -> [**Link**](https://meet.google.com/dbv-mcay-wki)
-
-
-
-mumuki:
-  - nombre: Conociendo a los objetos
-    url: https://mumuki.io/unahur-obj1/lessons/687-objetos-y-mensajes-conociendo-a-los-objetos
-    ejercicios: Guía completa, los 12 ejercicios
-  - nombre: Métodos y estados 
-    url: https://mumuki.io/unahur-obj1/lessons/489-objetos-y-mensajes-metodos-y-estado
-    ejercicios: Hasta el 12 inclusive. Bonus 13 y 14.
-  - nombre: Multipepita la golondrina
-    url: https://mumuki.io/unahur-obj1/lessons/731-objetos-y-mensajes-acompanamiento-multipepita-etapa-1
-    ejercicios: 1 y 2. Intenten resolver también 3 y 4, aunque si no sale no se preocupen por ahora!
-
-
 ejercicios:
   - name: GIT - Presentación Personal
     classroom: https://classroom.github.com/a/9BSamoWd

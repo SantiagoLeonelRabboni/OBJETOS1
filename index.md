@@ -20,7 +20,7 @@ Si ya viniste varias veces, probablemente quieras ir a la sección [cursada](/cu
 * 2 Comisiones (C1-Turno Noche / C2-Turno Mañana), pero es la misma materia y utilizamos la misma página. Las clases serán de la siguiente forma según la comisión a la que perteneces:
   - **Turno Noche**: Todos los martes a las 18hs. PRESENCIAL y los días sábado será  virtual a las 10hs. 
   - **Turno Mañana**: Todos los miércoles a las 8hs. PRESENCIAL y los días sábado será  virtual a las 10hs. 
-* Este cuatrimestre los profesores somos [Gerardo González](https://youtu.be/Mz30L5TGsfY), **Lucas Spigariol**, **Cristian Cirallo** y [Hernán Coniglio](https://youtu.be/iPU9JsnCkB0). Nos acompañan como ayudantes Valentino Chiappani, Manuel Nuñez, Lucian Coniglio.
+* Este cuatrimestre los profesores somos [Gerardo González](https://youtu.be/Mz30L5TGsfY), **Lucas Spigariol**, **Cristian Ciarallo** y [Hernán Coniglio](https://youtu.be/iPU9JsnCkB0). Nos acompañan como ayudantes Valentino Chiappani, Manuel Nuñez, Lucian Coniglio.
 * Las clases de práctica serán los días sábado, a las 10hs para ambos turnos, en modalidad virtual. Encontrarán el detalle semana a semana en la sección **[cursada](/cursada)**.
 
 ## Canales de comunicación
