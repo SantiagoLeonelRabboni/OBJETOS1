@@ -14,6 +14,12 @@ guias:
 
 # Material
 
+## Mumuki
+  * Registrarte ingreando en [Mumuki](https://mumuki.io/login)
+  * Una vez registrado y dentro de Mumuki debes [ingresar aquí](https://mumuki.io/unahur-obj1/join/mRpjWQ) para unirse al curso de la materia.
+     **Ojo:** podés entrar con tu cuenta de Google, de GitHub o crearte una nueva dentro de Mumuki con mail y contraseña. Lo importante es que entres _siempre de la misma forma_, caso contrario no podremos registrar correctamente tu progreso
+
+
 ## Wollok
 
 Vas a tener que instalarte [Wollok](https://www.wollok.org/instalacion/). Leé detalladamente las instrucciones para poder instalar Wollok en tu máquina. Es **muy importante** que primero cumplas con el pre-requisito de instalar [Java Development Kit 1.8](https://www.wollok.org/instalacion/#jdk-18) que se indica en la página.
