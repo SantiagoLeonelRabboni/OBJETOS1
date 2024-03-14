@@ -19,7 +19,7 @@ Dejamos aquí algunos videos de cursadas anteriores que sirven para repasar y ta
 {% endif %}
 
 {% if semana.conferencia %}
-### Conferencia
+### Días y horarios de cursada
 {% if semana.conferencia.url %}
 **Link**: [entrar acá]({{semana.conferencia.url}})
 {% endif %}
@@ -28,20 +28,20 @@ Dejamos aquí algunos videos de cursadas anteriores que sirven para repasar y ta
 **Horarios**: {{semana.conferencia.horarios}}
 {% endif %}
 
-{% if semana.conferencia.horario1 %}
-**Comisión2 T.Mañana**: {{semana.conferencia.horario1}}
-{% endif %}
-
-{% if semana.conferencia.url1 %}
-**Link T.Mañana**: [entrar acá]({{semana.conferencia.url1}})
-{% endif %}
-
 {% if semana.conferencia.horario0 %}
 **Comisión1 T.Noche**: {{semana.conferencia.horario0}}
 {% endif %}
 
 {% if semana.conferencia.url0 %}
 **Link T.Noche**: [entrar acá]({{semana.conferencia.url0}})
+{% endif %}
+
+{% if semana.conferencia.horario1 %}
+**Comisión2 T.Mañana**: {{semana.conferencia.horario1}}
+{% endif %}
+
+{% if semana.conferencia.url1 %}
+**Link T.Mañana**: [entrar acá]({{semana.conferencia.url1}})
 {% endif %}
 
 {% if semana.conferencia.horario2 %}

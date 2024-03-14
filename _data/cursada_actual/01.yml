@@ -1,12 +1,12 @@
 descripcion: |
   Hola!
   ¡Te damos la bienvenida a la primer semana de cursada de Programación con Objetos 1!
+
   Todos los días lunes se publicará en este espacio el material de la semana en curso, donde encontrarás los videos de apoyo a la teoría, videos de clases virtuales, los ejercicios a realizar y los temas que vamos a estar viendo.
   
-  Durante esta semana, vamos a comenzar a trabajar con **GIT**. Para eso, vas a tener que clonarte el repositorio **Aceptando la asignación** que figura más abajo como **GIT - Presentación Personal**. El link te lleva directamente a la plataforma Github, que será el manejador de versiones de software y contenedor de los repositorios que iremos produciendo durante la cursada. Es **fundamental** que desde la primer clase tengas dado de alta el usuario personal e intransferible que te servirá para presentar los trabajos prácticos tanto individuales como grupales. 
-  Si ya tenías usuario de github, podés utilizarlo para esta cursada, y si no tenés usuario, en el momento que intentes aceptar la asignación, la misma aplicación te guiará en el proceso de registración. Es muy importante que tomes nota del usuario con el que te vas a registrar, el email y la contraseña. Luego veremos que también será necesario que generes un token, pero vamos de a poco. Te dejamos un video de una clase donde vimos el paso a paso sobre como registrarse y usar GIT.
-  
-  También comenzaremos a conocer los objetos y mensajes en el paradigma de objetos. Más abajo encontrarás videos que nos intruducen en el tema.
+  En esta semana comenzaremos a conocer los objetos y mensajes en el paradigma de objetos. A continuación encontrarás videos que nos intruducen en el tema.
+
+  Es muy importante que te suscribas al canal de Discord de la materia, las instrucciones están en la sección **[Inicio](/)** de esta página.
 
 
 videos:
@@ -16,12 +16,14 @@ videos:
     url: https://youtu.be/7hXl2kJs2GUs
   - nombre: Definimos un objeto
     url: https://youtu.be/aAfjr8-1-0Y
-  - nombre: Primeros pasos con GIT. Grabación de la clase del 13 de agosto'22 dictada por Hernan Coniglio, con la colaboración de Matias Müller, Valentino Chiappanni y Lucas Bonadeo
-    url: https://youtu.be/jTuVrHznu2g
+
+conferencia: 
+
+  horario0: <br>
+            --> **Martes 25 de Marzo** > **PRESENCIAL** a partir de las **18.00hs.** - Laboratorio a designar <br>
+            --> **Sábado 30 de Marzo** > **VIRTUAL** a partir de las **10.00hs.** -> [**Link a la clase**](https://meet.google.com/dbv-mcay-wki) <br>
   
+  horario1: <br>
+            --> **Miércoles 26 de Marzo** > **PRESENCIAL** a partir de las **8.00hs.** - Laboratorio a designar <br>
+            --> **Sábado 30 de Marzo** > **VIRTUAL** a partir de las **10.00hs.** -> [**Link a la clase**](https://meet.google.com/dbv-mcay-wki) <br>
   
-ejercicios:
-  - name: GIT - Presentación Personal
-    classroom: https://classroom.github.com/a/lgNZCA7l
-    comentarios: 
-      - name: Aceptar la asignación y luego clonar el repositorio inidividual del Class-room. Editar en tu PC el archivo README.md con tus datos personales y luego entregar realizando el push en el repositorio de github. Te dejamos de ejemplo la presentación de Branko, aunque esperamos que nos sorprendas con algo bien personal y creativo ;-) [PresentaBranko](https://github.com/obj1-unahur-2023s1/presentacion-personal-BrankoMuruaga.git){:target="_blank"}
