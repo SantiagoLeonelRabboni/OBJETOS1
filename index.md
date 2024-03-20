@@ -5,6 +5,8 @@ layout: landing
 
 Si llegaste hasta este sitio es muy probable que estes inscripto en **Programación con Objetos I**, de la Licenciatura en Informática y/o Tecnicatura en Programación de la **Universidad Nacional de Hurlingham**. Aquí encontrarás _casi_ todo lo necesario para tu cursada. Decimos _casi_ porque hay mucho material que "vive" en otras páginas, pero este sitio funcionará como punto de partida para llegar allí.
 
+Antes de seguir, es imprescindible que completes el siguiente [**Formulario de inscripción**](https://forms.gle/4zYEuv1JJyWwSUSaA) que nos ayudará a organizar la cursada de la mejor manera posible.
+
 Arrancamos el cuatrimestre con una modalidad de cursada mixta, donde tendremos clases presenciales y virtuales. Hay que estar atento/a al [**cronograma**](https://docs.google.com/spreadsheets/d/13rFU2mObqdFF_2Ocimey_oHJ0Ldv-Gx0S1N4cfHKO4Q/edit?usp=sharing){:target="_blank"} de la cursada por si en algún momento se hace algún cambio. 
 
 Si ya viniste varias veces, probablemente quieras ir a la sección [**cursada**](/cursada) o ver el [**material**](/material) que tenemos disponible.
