@@ -45,8 +45,14 @@ Dejamos aquí algunos videos de cursadas anteriores que sirven para repasar y ta
 {% endif %}
 
 {% if semana.conferencia.horario2 %}
-{{semana.conferencia.horario2}}
+**Comisión Rosario T.Noche**: {{semana.conferencia.horario2}}
 {% endif %}
+
+{% if semana.conferencia.url2 %}
+**Link Rosario T.Noche**: [entrar acá]({{semana.conferencia.url2}})
+{% endif %}
+
+
 
 {% endif %}
 
