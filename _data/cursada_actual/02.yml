@@ -1,0 +1,63 @@
+descripcion: |
+  En esta semana, empezamos a armar programas en los que intervienen varios objetos, y estudiar cómo pueden relacionarse entre ellos.
+  En particular, vamos a ver qué es el **polimorfismo** en objetos, y a empezar a hablar de las ventajas que nos da para construir programas. 
+  Relacionado con esto, también vamos a hablar de cómo se refleja la idea de **contrato** en la programación con objetos.
+
+  Uf, bastantes cosas ... que vamos a ir profundizando y repasando más adelante, el objetivo de esta semana es introducir algunas ideas que vamos a desarrollar durante todo el curso. 
+  También les dejamos algunos videos de cursadas anteriores que tocan los mismos temas que vamos a ver durante las clases.<br>
+  
+  **Importante**: Todos/as deberían ya tener instalado el IDE de Wollok en las PC donde van a realizar las prácticas. Las instrucciones las verán linkeadas en la página de la materia, pestaña [**Material**](https://obj1-unahur.github.io/material), sección **Wollok**, los videos sobre como instalarlo en Windows y en Linux. <br>
+  Recuerden siempre que pueden consultar las dudas en el canal de Discord de la materia. <br>
+
+  Vamos a comenzar a trabajar con **GIT**. Para eso, deberán "clonarse" el repositorio aceptando la asignación que figura más abajo como **GIT - Presentación Personal**. Si aún no estás registrado en github, en el momento que intentes aceptar la asignación se te indicará como registrarte. Es muy importante que tomes nota del usuario con el que te vas a registrar, el email y la contraseña. Luego veremos que también será necesario generar un token para utilizar GIT en tu PC o en las PCs de la Universidad. 
+
+  Por último, les dejamos los ejercicios de esta semana, que deberán realizar en el IDE de Wollok aceptando la asignación, y luego clonándose el repositorio en sus PCs. Lo resuelven en Wollok, y luego suben la solución realizando el push. Les dejamos un video corto explicando el procedimiento. <br>
+  **¡A trabajar!** <br>
+
+videos:
+  - nombre: Agregándole métodos a Pepita
+    url: https://youtu.be/TQba-e_m5Lc
+  - nombre: Manejo correcto de valores booleanos - "miedo al booleano"
+    url: https://youtu.be/o8a-ngbRnxc
+  - nombre: Varios objetos interactuando, polimorfismo
+    url: https://youtu.be/sTirUmBeY58
+  - nombre: Self - cuando un objeto se tiene que enviar un mensaje a sí mismo
+    url: https://youtu.be/SqzokSK7ckk
+  - nombre: Variantes para definir la memoria de un objeto
+    url: https://youtu.be/_JSncjztLAY
+  - nombre: Ejercicio "Gustos" - comentarios para encararlo
+    url: https://youtu.be/dRy92EB4ppM
+  - nombre: Como aceptar una asignación de un ejercicio en Github y realizar luego el push al repo personal
+    url: https://youtu.be/jTuVrHznu2g
+
+conferencia: 
+
+  horario0: <br>
+            --> **Martes 2 de Abril** > **FERIADO no hay Clases** - Aprovechen el día para realizar los ejercicios <br>
+            --> **Sábado 6 de Abril** > **VIRTUAL** **10.00hs.** -> [**Link a la clase**](https://us06web.zoom.us/j/88953425033) <br>
+  
+  horario1: <br>
+            --> **Miércoles 3 de Abril** > **PRESENCIAL** **8.00hs.** - Aula MA-113 (Edificio Malvinas Argentinas 1er.piso) <br>
+            --> **Sábado 6 de Abril** > **VIRTUAL** **10.00hs.** -> [**Link a la clase**](https://us06web.zoom.us/j/88953425033) <br>
+  
+  horario2: <br>
+            --> **Martes 2 de Abril** > **FERIADO no hay Clases** - Aprovechen el día para realizar los ejercicios <br>
+            --> **Sábado 6 de Abril** > **VIRTUAL** **10.00hs.** -> [**Link a la clase**](https://us06web.zoom.us/j/88953425033) <br>
+  
+
+ejercicios:
+  - name: GIT - Presentación Personal
+    classroom: https://classroom.github.com/a/lgNZCA7l
+    comentarios: 
+      - name: Aceptar la asignación y entregar realizando directamente commit en Github en tu reposotorio inidividual del Class-room, luego de editar el archivo README.md con tus datos personales. Les dejo de ejemplo la presentación de Branko, aunque esperamos que nos sorprendan con algo bien personal y creativo ;-) [PresentaBranko](https://github.com/obj1-unahur-2023s1/presentacion-personal-BrankoMuruaga.git){:target="_blank"}
+
+  - name: El Lobo Feroz
+    classroom: https://classroom.github.com/a/hlbLeLzn
+    comentarios:
+      - name: Aceptar la asignación y luego al generarse el repositorio, copiar la dirección del mismo para realizar el clonado en la PC donde irán a realizar la práctica en el IDE de Wollok. 
+
+  - name: Personas y Gustos
+    classroom: https://classroom.github.com/a/W6GcJcUW
+    comentarios:
+      - name: Aceptar la asignación y luego al generarse el repositorio, copiar la dirección del mismo para realizar el clonado en la PC donde irán a realizar la práctica en el IDE de Wollok. 
+
