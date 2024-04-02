@@ -15,9 +15,12 @@ Si ya viniste varias veces, probablemente quieras ir a la sección [**cursada**]
 ## Datos de las cursada
 
 * Modalidad Mixta - [**Cronograma de Clases**](https://docs.google.com/spreadsheets/d/13rFU2mObqdFF_2Ocimey_oHJ0Ldv-Gx0S1N4cfHKO4Q/edit?usp=sharing){:target="_blank"}. 
-* 2 Comisiones (C1-Turno Noche / C2-Turno Mañana), pero es la misma materia y utilizamos la misma página. Las clases serán de la siguiente forma según la comisión a la que perteneces:
-  - **Turno Noche**: Todos los martes a las 18hs. PRESENCIAL y los días sábado será  virtual a las 10hs. 
-  - **Turno Mañana**: Todos los miércoles a las 8hs. PRESENCIAL y los días sábado será  virtual a las 10hs. 
+* 3 Comisiones (C1-Turno Noche / C2-Turno Mañana / C1R-Rosario), pero es la misma materia y utilizamos la misma página. La C1 de sede Unahur a su vez posee 2 SubComisiones (1 y 1B). Las clases serán de la siguiente forma según la comisión o subcomisión a la que perteneces:
+  - **C1 sede Unahur** los Martes a las 18hs. (alterna entre VIRTUAL y PRESENCIAL por subcomisión). 
+  - **C2 sede Unahur** los miércoles a las 8hs. PRESENCIAL.
+  - **C1R-Rosario** los Martes a las 18hs en modalidad virtual. 
+  - **Todas las comisiones** los días sábados virtual a las 10hs.
+  
 * Este cuatrimestre los profesores somos [Gerardo González](https://youtu.be/Mz30L5TGsfY), **Lucas Spigariol**, **Cristian Ciarallo** y [Hernán Coniglio](https://youtu.be/iPU9JsnCkB0). Nos acompañan como ayudantes Valentino Chiappani, Manuel Nuñez, Lucian Coniglio.
 * Las clases de práctica serán los días sábado, a las 10hs para ambos turnos, en modalidad virtual. Encontrarán el detalle semana a semana en la sección **[cursada](/cursada)**.
 
