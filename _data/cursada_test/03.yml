@@ -1,0 +1,56 @@
+descripcion: |
+  **ATENCIÓN: Como anunciamos la semana pasada, a partir de esta semana se divide en 2 la Comisión 1 Turno Noche de sede Hurlingham (Comisión 1 y Comisión 1B). En la sección de esta página (Días y horarios de cursada) encontrarán la modalidad. Y les recordamos que la lista de estudiantes por Comisión está en el link que figura arriba en Seguimiento, también lo dejo acá por si no lo habían visto:** [**Seguimiento**](https://docs.google.com/spreadsheets/d/1e_CBW8PLMYqEPNZG1ww-mqHua3xuZ5sKVi-81lpwbPo/edit?usp=sharing) 
+  
+  Esta semana viene con mucho para pensar y repasar sobre lo que hablamos en las clases anteriores.
+  En algunos casos hay un objeto que tiene que memorizar algo, y hay que decidir en qué objeto hay que agregar un atributo, y qué valor conviene recordar. 
+  A veces, el valor de un atributo es un objeto definido por nosotros, en lugar de un número o un booleano como era hasta ahora.
+  También aparece el polimorfismo y la necesidad de respetar contratos. 
+
+  Esta semana vamos a seguir practicando en clase el clonado de repos y la resolución de ejercicios en el IDE de Wollok. También incorporamos el uso de la librería GAME para hacer juegos en Wollok!!!
+
+  *Tema nuevo*: **los tests**. La documentación sobre test automatizados en Wollok la encuentran en el siguiente enlace: [Tests en Wollok](https://docs.google.com/document/d/1Q_v48gZfRmVfLMvC0PBpmtZyMoALbh11AwmEllP__eY/edit){:target="_blank"}.
+
+videos:
+  - nombre: El modelo de Pepita se extiende - Roque el entrenador, y dos amigas de Pepita
+    url: https://youtu.be/1RlwP_WLHRg
+  - nombre: Práctica sobre lo que venimos viendo - Pepita viajera
+    url: https://youtu.be/COoSQb9JuyQ
+  - nombre: Creamos nuevos objetos - las temporadas de Mar del Plata en Pepita viajera
+    url: https://youtu.be/7QRWdouBcsY
+  - nombre: Introducción a los tests automáticos
+    url: https://youtu.be/1BNEa7ma5cA
+
+
+
+conferencia:
+
+  horario0: <br>
+            --> **Martes 9 de Abril** > **PRESENCIAL** **18.00hs.** - Aula MA-109 (Edificio Malvinas Argentinas 1er.piso) <br>
+
+  horario1: <br>
+            --> **Martes 9 de Abril** > **VIRTUAL** **18.00hs.** -> [**Link a la clase**](https://meet.google.com/wxc-ioxx-nah) <br>
+
+  horario2: <br>
+            --> **Martes 9 de Abril** > **VIRTUAL** **18.00hs.** -> [**Link a la clase**](https://meet.google.com/wxc-ioxx-nah) <br>
+
+  horario3: <br>
+            --> **Miércoles 10 de Abril** > **PRESENCIAL** **8.00hs.** - Aula MA-113 (Edificio Malvinas Argentinas 1er.piso) <br>
+
+  horario4: <br>
+            --> **Sábado 6 de Abril** > **VIRTUAL** **10.00hs.** -> [**Link a la clase**](https://us06web.zoom.us/j/86409613061) <br>
+
+ejercicios:
+  - name: SPA
+    classroom: https://classroom.github.com/a/wBVdLDQY
+    comentarios: 
+      - name: Ejercicio para practicar lo visto hasta ahora. Aceptar la Asignación con su usuario de github, y luego clonar el repositorio en la PC donde irán a realizar la práctica. 
+
+  - name: Intro a Wollok Game (autitos)
+    classroom: https://classroom.github.com/a/PsIcPC0y
+    comentarios: 
+      - name: Enunciado base para que armen su primer Wollok Game. Aceptar la Asignación con su usuario de github, y luego clonar el repositorio en la PC donde irán a realizar la práctica.
+
+  - name: PacmanBasicGame (guiado)
+    classroom: https://classroom.github.com/a/7KC0yC_m
+    comentarios: 
+      - name: Tutorial para hacer un juego básico de nuestro querido Pacman. También está como Asignación en classroom. Atención a los cambios de branch que se indican en el tutorial, los comandos de consola van dentro de la carpeta donde se clonaron el repo. 
